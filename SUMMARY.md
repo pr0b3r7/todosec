@@ -15,11 +15,11 @@
 
 ## Post-Exploitation
 
-* [Windows](post-exploitation/windows.md)
-* [macOS](post-exploitation/macos.md)
-* [Linux](post-exploitation/linux.md)
 * [Azure](post-exploitation/azure.md)
 * [AWS](post-exploitation/aws.md)
+* [Linux](post-exploitation/linux.md)
+* [macOS](post-exploitation/macos.md)
+* [Windows](post-exploitation/windows.md)
 
 ## Controls
 
