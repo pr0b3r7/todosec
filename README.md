@@ -4,12 +4,12 @@
 
   * [todoSec](https://todosec.com/)
 
-### Recon
+### [Recon](recon/)
   * [OSINT](recon/osint/README.md)
   * [Web](recon/web/README.md)
   * [Network](recon/network/README.md)
 
-### Post-Exploitation
+### [Post-Exploitation](post-exploitation/)
 * [macos](post-exploitation/macos/README.md)
   * [C2](post-exploitation/macos/c2.md)
   * [Collection](post-exploitation/macos/collection.md)
@@ -75,16 +75,16 @@
   * [Persistence](post-exploitation/aws/persistence.md)
   * [Privilege Escalation](post-exploitation/aws/privilege-escalation.md)
 
-### Controls
+### [Controls](controls/)
   * [Linux](controls/linux/README.md)
   * [macOS](controls/macos/README.md)
   * [Windows](controls/windows/README.md)
 
-### Infrastructure
+### [Infrastructure](infrastructure)
   * [Defensive/BLUE](infrastructure/defensive-blue/README.md)
   * [Offensive/RED](infrastructure/offensive-red/README.md)
 
-### Network Infrastructure
+### [Network Infrastructure](network-infrastructure/)
 * [Wireless](/network-infrastructure/wireless/README.md)
 * [Network Storage](/network-infrastructure/network-storage/README.md)
 * [Routing and Switching](/network-infrastructure/routing-and-switching/README.md)
