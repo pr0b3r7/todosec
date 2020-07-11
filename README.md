@@ -2,17 +2,17 @@
 
 ## Table of contents
 
-* [todoSec](./)
+  * [todoSec](./)
 
 ### Recon
 
-* [OSINT](recon/osint.md)
-* [Web](recon/web.md)
-* [Network](recon/network.md)
+  * [OSINT](recon/osint.md)
+  * [Web](recon/web.md)
+  * [Network](recon/network.md)
 
 ### Post-Exploitation
 
-* Windows
+* [Windows](post-exploitation/windows/README.md)
   * [C2](post-exploitation/windows/c2.md)
   * [Collection](post-exploitation/windows/collection.md)
   * [Credential Access](post-exploitation/windows/credential-access.md)
@@ -22,7 +22,7 @@
   * [Lateral Movement](post-exploitation/windows/lateral-movement.md)
   * [Persistence](post-exploitation/windows/persistence.md)
   * [Privilege Escalation](post-exploitation/windows/privilege-escalation.md)
-* Linux
+* [Linux](post-exploitation/Linux/README.md)
   * [C2](post-exploitation/linux/c2.md)
   * [Collection](post-exploitation/linux/collection.md)
   * [Credential Access](post-exploitation/linux/credential-access.md)
@@ -33,7 +33,7 @@
   * [Lateral Movement](post-exploitation/linux/lateral-movement.md)
   * [Persistence](post-exploitation/linux/persistence.md)
   * [Privilege Escalation](post-exploitation/linux/privilege-escalation.md)
-* GCP
+* [GCP]](post-exploitation/gcp/README.md)
   * [C2](post-exploitation/gcp/c2.md)
   * [Collection](post-exploitation/gcp/collection.md)
   * [Credential Access](post-exploitation/gcp/credential-access.md)
@@ -61,17 +61,16 @@
   * [CredentialAccess](post-exploitation/aws/credential-access.md)
   * [Defense Evasion](post-exploitation/aws/defense-evasion.md)
   * [Discovery](post-exploitation/aws/discovery.md)
-  * E[xecution](post-exploitation/aws/execution.md)
+  * [Execution](post-exploitation/aws/execution.md)
   * [Exfiltration](post-exploitation/aws/exfiltration.md)
   * [Lateral Movement](post-exploitation/aws/lateral-movement.md)
   * [Persistence](post-exploitation/aws/persistence.md)
   * [Privilege Escalation](post-exploitation/aws/privilege-escalation.md)
 
 ### Controls
-
-* [Linux](controls/linux.md)
-* [macOS](controls/macos.md)
-* [Windows](controls/windows.md)
+  * [Linux](controls/linux.md)
+  * [macOS](controls/macos.md)
+  * [Windows](controls/windows.md)
 
 ### Infrastructure
 
@@ -80,7 +79,7 @@
 
 ### Network Infrastructure
 
-* [Wireless](https://github.com/pr0b3r7/todosec/tree/67b72afb062906eac2235fe6a63e34c38f45292a/network-infrastructure/wireless.md)
-* [Network Storage](https://github.com/pr0b3r7/todosec/tree/67b72afb062906eac2235fe6a63e34c38f45292a/network-infrastructure/network-storage.md)
-* [Routing and Switching](https://github.com/pr0b3r7/todosec/tree/67b72afb062906eac2235fe6a63e34c38f45292a/network-infrastructure/routing-and-switching.md)
+* [Wireless](/network-infrastructure/wireless.md)
+* [Network Storage](/network-infrastructure/network-storage.md)
+* [Routing and Switching](/network-infrastructure/routing-and-switching.md)
 
