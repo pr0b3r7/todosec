@@ -5,8 +5,8 @@
 
 ### [Recon](https://todosec.com/recon/)
 * [OSINT](https://todosec.com/recon/osint/)
-* [Web](https://todosec/recon/web/)
-* [Network](https://todosec/recon/network/)
+* [Web](https://todosec.com/recon/web/)
+* [Network](https://todosec.com/recon/network/)
 
 ### [Post-Exploitation](https://todosec.com/post-exploitation/)
 * [macos](post-exploitation/macos/)
