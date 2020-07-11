@@ -2,16 +2,24 @@
 
 ## Table of contents
 
-  * [todoSec](./)
+  * [todoSec](https://todosec.com/)
 
 ### Recon
-
-  * [OSINT](recon/osint.md)
-  * [Web](recon/web.md)
-  * [Network](recon/network.md)
+  * [OSINT](recon/osint/README.md)
+  * [Web](recon/web/README.md)
+  * [Network](recon/network/README.md)
 
 ### Post-Exploitation
-
+* [macos](post-exploitation/macos/README.md)
+  * [C2](post-exploitation/macos/c2.md)
+  * [Collection](post-exploitation/macos/collection.md)
+  * [Credential Access](post-exploitation/macos/credential-access.md)
+  * [Defense Evasion](post-exploitation/macos/defense-evasion.md)
+  * [Discovery](post-exploitation/macos/discovery.md)
+  * [Exfiltration](post-exploitation/macos/exfiltration.md)
+  * [Lateral Movement](post-exploitation/macos/lateral-movement.md)
+  * [Persistence](post-exploitation/macos/persistence.md)
+  * [Privilege Escalation](post-exploitation/macos/privilege-escalation.md)
 * [Windows](post-exploitation/windows/README.md)
   * [C2](post-exploitation/windows/c2.md)
   * [Collection](post-exploitation/windows/collection.md)
@@ -68,17 +76,16 @@
   * [Privilege Escalation](post-exploitation/aws/privilege-escalation.md)
 
 ### Controls
-  * [Linux](controls/linux.md)
-  * [macOS](controls/macos.md)
-  * [Windows](controls/windows.md)
+  * [Linux](controls/linux/README.md)
+  * [macOS](controls/macos/README.md)
+  * [Windows](controls/windows/README.md)
 
 ### Infrastructure
-  * [Defensive/BLUE](infrastructure/defensive-blue.md)
-  * [Offensive/RED](infrastructure/offensive-red.md)
+  * [Defensive/BLUE](infrastructure/defensive-blue/README.md)
+  * [Offensive/RED](infrastructure/offensive-red/README.md)
 
 ### Network Infrastructure
-
-* [Wireless](/network-infrastructure/wireless.md)
-* [Network Storage](/network-infrastructure/network-storage.md)
-* [Routing and Switching](/network-infrastructure/routing-and-switching.md)
+* [Wireless](/network-infrastructure/wireless/README.md)
+* [Network Storage](/network-infrastructure/network-storage/README.md)
+* [Routing and Switching](/network-infrastructure/routing-and-switching/README.md)
 
