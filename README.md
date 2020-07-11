@@ -1,8 +1,8 @@
+---
+description: Table of contents
+---
+
 # todoSec
-
-## Table of contents
-
-* [todoSec](./)
 
 ### [Recon](https://github.com/pr0b3r7/todosec/tree/d223d412eb3cd51705b0392d7dd6d9bd20143d08/recon/README.md)
 
