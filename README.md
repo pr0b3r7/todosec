@@ -1,4 +1,4 @@
-# [todoSec](/)
+# todoSec
 
 ## Table of contents
 
