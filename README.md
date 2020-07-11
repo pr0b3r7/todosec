@@ -1,14 +1,17 @@
-# [todoSec](https://todosec.com/)
+# todoSec
 
 ## Table of contents
+
 * [todoSec](https://todosec.com/)
 
 ### [Recon](https://todosec.com/recon/)
+
 * [OSINT](https://todosec.com/recon/osint/)
 * [Web](https://todosec.com/recon/web/)
 * [Network](https://todosec.com/recon/network/)
 
 ### [Post-Exploitation](https://todosec.com/post-exploitation/)
+
 * [macos](post-exploitation/macos/)
   * [C2](post-exploitation/macos/c2.md)
   * [Collection](post-exploitation/macos/collection.md)
@@ -75,15 +78,19 @@
   * [Privilege Escalation](post-exploitation/aws/privilege-escalation.md)
 
 ### [Controls](https://todosec.com/controls/)
+
 * [Linux](https://todosec.com/controls/linux/)
 * [macOS](https://todosec.com/controls/macos/)
 * [Windows](https://todosec.com/controls/windows/)
 
 ### [Infrastructure](https://todosec.com/infrastructure/)
+
 * [Defensive/BLUE](https://todosec.com/infrastructure/defensive-blue/)
 * [Offensive/RED](https://todosec.com/infrastructure/offensive-red/)
 
 ### [Network Infrastructure](https://todosec.com/network-infrastructure/)
+
 * [Wireless](https://todosec.com/network-infrastructure/wireless/)
 * [Network Storage](https://todosec.com/network-infrastructure/network-storage/)
 * [Routing and Switching](https://todosec.com/network-infrastructure/routing-and-switching/)
+

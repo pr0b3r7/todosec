@@ -5,9 +5,11 @@
 ## Recon
 
 * [OSINT](recon/osint/README.md)
-  * [R](recon/osint/r.md)
-* [Web](recon/web.md)
-* [Network](recon/network.md)
+  * [README](recon/osint/readme.md)
+* [Web](recon/web/README.md)
+  * [README](recon/web/readme.md)
+* [Network](recon/network/README.md)
+  * [README](recon/network/readme.md)
 
 ## Post-Exploitation
 
@@ -80,18 +82,26 @@
 
 ## Controls
 
-* [Linux](controls/linux.md)
-* [macOS](controls/macos.md)
-* [Windows](controls/windows.md)
+* [Linux](controls/linux/README.md)
+  * [README](controls/linux/readme.md)
+* [macOS](controls/macos/README.md)
+  * [README](controls/macos/readme.md)
+* [Windows](controls/windows/README.md)
+  * [README](controls/windows/readme.md)
 
 ## Infrastructure
 
-* [Defensive/BLUE](infrastructure/defensive-blue.md)
-* [Offensive/RED](infrastructure/offensive-red.md)
+* [Defensive/BLUE](infrastructure/defensive-blue/README.md)
+  * [README](infrastructure/defensive-blue/readme.md)
+* [Offensive/RED](infrastructure/offensive-red/README.md)
+  * [README](infrastructure/offensive-red/readme.md)
 
 ## Network Infrastructure
 
-* [Wireless](network-infrastructure/wireless.md)
-* [Network Storage](network-infrastructure/network-storage.md)
-* [Routing and Switching](network-infrastructure/routing-and-switching.md)
+* [Wireless](network-infrastructure/wireless/README.md)
+  * [README](network-infrastructure/wireless/readme.md)
+* [Network Storage](network-infrastructure/network-storage/README.md)
+  * [README](network-infrastructure/network-storage/readme.md)
+* [Routing and Switching](network-infrastructure/routing-and-switching/README.md)
+  * [README](network-infrastructure/routing-and-switching/readme.md)
 
