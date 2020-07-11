@@ -68,7 +68,7 @@
 * [AWS](post-exploitation/aws/README.md)
   * [C2](post-exploitation/aws/c2.md)
   * [Collection](post-exploitation/aws/collection.md)
-  * [Credential Access](post-exploitation/aws/credential-access.md)
+  * [Credential AccessS](post-exploitation/aws/credential-access.md)
   * [Defense Evasion](post-exploitation/aws/defense-evasion.md)
   * [Discovery](post-exploitation/aws/discovery.md)
   * [Execution](post-exploitation/aws/execution.md)
