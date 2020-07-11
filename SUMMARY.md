@@ -4,7 +4,8 @@
 
 ## Recon
 
-* [OSINT](recon/osint.md)
+* [OSINT](recon/osint/README.md)
+  * [R](recon/osint/r.md)
 * [Web](recon/web.md)
 * [Network](recon/network.md)
 

@@ -2,15 +2,17 @@
 
 ## Table of contents
 
-  * [todoSec](https://todosec.com/)
+* [todoSec](https://todosec.com/)
 
-### [Recon](recon/)
-  * [OSINT](recon/osint/README.md)
-  * [Web](recon/web/README.md)
-  * [Network](recon/network/README.md)
+### [Recon](https://github.com/pr0b3r7/todosec/tree/c33ed2416583fd5a4db548b8c731c99c02353db0/recon/README.md)
 
-### [Post-Exploitation](post-exploitation/)
-* [macos](post-exploitation/macos/README.md)
+* [OSINT](https://github.com/pr0b3r7/todosec/tree/c33ed2416583fd5a4db548b8c731c99c02353db0/recon/osint/README.md)
+* [Web](https://github.com/pr0b3r7/todosec/tree/c33ed2416583fd5a4db548b8c731c99c02353db0/recon/web/README.md)
+* [Network](https://github.com/pr0b3r7/todosec/tree/c33ed2416583fd5a4db548b8c731c99c02353db0/recon/network/README.md)
+
+### [Post-Exploitation](https://github.com/pr0b3r7/todosec/tree/c33ed2416583fd5a4db548b8c731c99c02353db0/post-exploitation/README.md)
+
+* [macos](post-exploitation/macos/)
   * [C2](post-exploitation/macos/c2.md)
   * [Collection](post-exploitation/macos/collection.md)
   * [Credential Access](post-exploitation/macos/credential-access.md)
@@ -20,7 +22,7 @@
   * [Lateral Movement](post-exploitation/macos/lateral-movement.md)
   * [Persistence](post-exploitation/macos/persistence.md)
   * [Privilege Escalation](post-exploitation/macos/privilege-escalation.md)
-* [Windows](post-exploitation/windows/README.md)
+* [Windows](post-exploitation/windows/)
   * [C2](post-exploitation/windows/c2.md)
   * [Collection](post-exploitation/windows/collection.md)
   * [Credential Access](post-exploitation/windows/credential-access.md)
@@ -30,7 +32,7 @@
   * [Lateral Movement](post-exploitation/windows/lateral-movement.md)
   * [Persistence](post-exploitation/windows/persistence.md)
   * [Privilege Escalation](post-exploitation/windows/privilege-escalation.md)
-* [Linux](post-exploitation/linux/README.md)
+* [Linux](post-exploitation/linux/)
   * [C2](post-exploitation/linux/c2.md)
   * [Collection](post-exploitation/linux/collection.md)
   * [Credential Access](post-exploitation/linux/credential-access.md)
@@ -41,7 +43,7 @@
   * [Lateral Movement](post-exploitation/linux/lateral-movement.md)
   * [Persistence](post-exploitation/linux/persistence.md)
   * [Privilege Escalation](post-exploitation/linux/privilege-escalation.md)
-* [GCP](post-exploitation/gcp/README.md)
+* [GCP](post-exploitation/gcp/)
   * [C2](post-exploitation/gcp/c2.md)
   * [Collection](post-exploitation/gcp/collection.md)
   * [Credential Access](post-exploitation/gcp/credential-access.md)
@@ -52,7 +54,7 @@
   * [Lateral Movement](post-exploitation/gcp/lateral-movement.md)
   * [Persistence](post-exploitation/gcp/persistence.md)
   * [Privilege Escalation](post-exploitation/gcp/privilege-escalation.md)
-* [Azure](post-exploitation/azure/README.md)
+* [Azure](post-exploitation/azure/)
   * [C2](post-exploitation/azure/c2.md)
   * [Collection](post-exploitation/azure/collection.md)
   * [CredentialAccess](post-exploitation/azure/credentialaccess.md)
@@ -63,7 +65,7 @@
   * [Lateral Movement](post-exploitation/azure/lateral-movement.md)
   * [Persistence](post-exploitation/azure/persistence.md)
   * [Privilege Escalation](post-exploitation/azure/privilege-escalation.md)
-* [AWS](/post-exploitation/aws/README.md)
+* [AWS](post-exploitation/aws/)
   * [C2](post-exploitation/aws/c2.md)
   * [Collection](post-exploitation/aws/collection.md)
   * [CredentialAccess](post-exploitation/aws/credential-access.md)
@@ -75,17 +77,20 @@
   * [Persistence](post-exploitation/aws/persistence.md)
   * [Privilege Escalation](post-exploitation/aws/privilege-escalation.md)
 
-### [Controls](controls/)
-  * [Linux](controls/linux/README.md)
-  * [macOS](controls/macos/README.md)
-  * [Windows](controls/windows/README.md)
+### [Controls](https://github.com/pr0b3r7/todosec/tree/c33ed2416583fd5a4db548b8c731c99c02353db0/controls/README.md)
 
-### [Infrastructure](infrastructure)
-  * [Defensive/BLUE](infrastructure/defensive-blue/README.md)
-  * [Offensive/RED](infrastructure/offensive-red/README.md)
+* [Linux](https://github.com/pr0b3r7/todosec/tree/c33ed2416583fd5a4db548b8c731c99c02353db0/controls/linux/README.md)
+* [macOS](https://github.com/pr0b3r7/todosec/tree/c33ed2416583fd5a4db548b8c731c99c02353db0/controls/macos/README.md)
+* [Windows](https://github.com/pr0b3r7/todosec/tree/c33ed2416583fd5a4db548b8c731c99c02353db0/controls/windows/README.md)
 
-### [Network Infrastructure](network-infrastructure/)
-* [Wireless](/network-infrastructure/wireless/README.md)
-* [Network Storage](/network-infrastructure/network-storage/README.md)
-* [Routing and Switching](/network-infrastructure/routing-and-switching/README.md)
+### [Infrastructure](https://github.com/pr0b3r7/todosec/tree/c33ed2416583fd5a4db548b8c731c99c02353db0/infrastructure/README.md)
+
+* [Defensive/BLUE](https://github.com/pr0b3r7/todosec/tree/c33ed2416583fd5a4db548b8c731c99c02353db0/infrastructure/defensive-blue/README.md)
+* [Offensive/RED](https://github.com/pr0b3r7/todosec/tree/c33ed2416583fd5a4db548b8c731c99c02353db0/infrastructure/offensive-red/README.md)
+
+### [Network Infrastructure](https://github.com/pr0b3r7/todosec/tree/c33ed2416583fd5a4db548b8c731c99c02353db0/network-infrastructure/README.md)
+
+* [Wireless](https://github.com/pr0b3r7/todosec/tree/c33ed2416583fd5a4db548b8c731c99c02353db0/network-infrastructure/wireless/README.md)
+* [Network Storage](https://github.com/pr0b3r7/todosec/tree/c33ed2416583fd5a4db548b8c731c99c02353db0/network-infrastructure/network-storage/README.md)
+* [Routing and Switching](https://github.com/pr0b3r7/todosec/tree/c33ed2416583fd5a4db548b8c731c99c02353db0/network-infrastructure/routing-and-switching/README.md)
 
