@@ -1,14 +1,14 @@
-# todoSec
+# [todoSec](https://todosec.com/)
 
 ## Table of contents
 * [todoSec](https://todosec.com/)
 
-### [Recon](https://todosec.com/recon/README.md)
-* [OSINT](https://github.com/pr0b3r7/todosec/tree/c33ed2416583fd5a4db548b8c731c99c02353db0/recon/osint/README.md)
-* [Web](https://github.com/pr0b3r7/todosec/tree/c33ed2416583fd5a4db548b8c731c99c02353db0/recon/web/README.md)
-* [Network](https://github.com/pr0b3r7/todosec/tree/c33ed2416583fd5a4db548b8c731c99c02353db0/recon/network/README.md)
+### [Recon](https://todosec.com/recon/)
+* [OSINT](](https://todosec.com/recon/osint/README.md)
+* [Web](https://todosec/recon/web/README.md)
+* [Network](https://todosec/recon/network/README.md)
 
-### [Post-Exploitation](https://todosec.com/post-exploitation/README.md)
+### [Post-Exploitation](https://todosec.com/post-exploitation/)
 * [macos](post-exploitation/macos/)
   * [C2](post-exploitation/macos/c2.md)
   * [Collection](post-exploitation/macos/collection.md)
@@ -74,17 +74,16 @@
   * [Persistence](post-exploitation/aws/persistence.md)
   * [Privilege Escalation](post-exploitation/aws/privilege-escalation.md)
 
-### [Controls](https://github.com/pr0b3r7/todosec/tree/c33ed2416583fd5a4db548b8c731c99c02353db0/controls/README.md)
+### [Controls](https://todosec.com/controls/)
 * [Linux](https://todosec.com/controls/linux/README.md)
 * [macOS](https://todosec.com/controls/macos/README.md)
 * [Windows](https://todosec.com/controls/windows/README.md)
 
-### [Infrastructure](https://github.com/pr0b3r7/todosec/tree/c33ed2416583fd5a4db548b8c731c99c02353db0/infrastructure/README.md)
+### [Infrastructure](https://todosec.com/infrastructure/)
 * [Defensive/BLUE](https://todosec.com/infrastructure/defensive-blue/README.md)
 * [Offensive/RED](https://todosec.com/infrastructure/offensive-red/README.md)
 
-### [Network Infrastructure](https://todosec.com/network-infrastructure/README.md)
+### [Network Infrastructure](https://todosec.com/network-infrastructure/)
 * [Wireless](https://todosec.com/network-infrastructure/wireless/README.md)
 * [Network Storage](https://todosec.com/network-infrastructure/network-storage/README.md)
 * [Routing and Switching](https://todosec.com/network-infrastructure/routing-and-switching/README.md)
-
