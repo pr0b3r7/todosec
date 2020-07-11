@@ -22,7 +22,7 @@
   * [Lateral Movement](post-exploitation/windows/lateral-movement.md)
   * [Persistence](post-exploitation/windows/persistence.md)
   * [Privilege Escalation](post-exploitation/windows/privilege-escalation.md)
-* [Linux](post-exploitation/Linux/README.md)
+* [Linux](post-exploitation/linux/README.md)
   * [C2](post-exploitation/linux/c2.md)
   * [Collection](post-exploitation/linux/collection.md)
   * [Credential Access](post-exploitation/linux/credential-access.md)
@@ -33,7 +33,7 @@
   * [Lateral Movement](post-exploitation/linux/lateral-movement.md)
   * [Persistence](post-exploitation/linux/persistence.md)
   * [Privilege Escalation](post-exploitation/linux/privilege-escalation.md)
-* [GCP]](post-exploitation/gcp/README.md)
+* [GCP](post-exploitation/gcp/README.md)
   * [C2](post-exploitation/gcp/c2.md)
   * [Collection](post-exploitation/gcp/collection.md)
   * [Credential Access](post-exploitation/gcp/credential-access.md)
@@ -44,7 +44,7 @@
   * [Lateral Movement](post-exploitation/gcp/lateral-movement.md)
   * [Persistence](post-exploitation/gcp/persistence.md)
   * [Privilege Escalation](post-exploitation/gcp/privilege-escalation.md)
-* [Azure](post-exploitation/azure/)
+* [Azure](post-exploitation/azure/README.md)
   * [C2](post-exploitation/azure/c2.md)
   * [Collection](post-exploitation/azure/collection.md)
   * [CredentialAccess](post-exploitation/azure/credentialaccess.md)
@@ -55,7 +55,7 @@
   * [Lateral Movement](post-exploitation/azure/lateral-movement.md)
   * [Persistence](post-exploitation/azure/persistence.md)
   * [Privilege Escalation](post-exploitation/azure/privilege-escalation.md)
-* [AWS](https://github.com/pr0b3r7/todosec/tree/67b72afb062906eac2235fe6a63e34c38f45292a/post-exploitation/aws.md)
+* [AWS](/post-exploitation/aws/README.md)
   * [C2](post-exploitation/aws/c2.md)
   * [Collection](post-exploitation/aws/collection.md)
   * [CredentialAccess](post-exploitation/aws/credential-access.md)
@@ -73,9 +73,8 @@
   * [Windows](controls/windows.md)
 
 ### Infrastructure
-
-* [Defensive/BLUE](infrastructure/defensive-blue.md)
-* [Offensive/RED](infrastructure/offensive-red.md)
+  * [Defensive/BLUE](infrastructure/defensive-blue.md)
+  * [Offensive/RED](infrastructure/offensive-red.md)
 
 ### Network Infrastructure
 
