@@ -1,17 +1,14 @@
 # todoSec
 
 ## Table of contents
-
 * [todoSec](https://todosec.com/)
 
-### [Recon](https://github.com/pr0b3r7/todosec/tree/c33ed2416583fd5a4db548b8c731c99c02353db0/recon/README.md)
-
+### [Recon](https://todosec.com/recon/README.md)
 * [OSINT](https://github.com/pr0b3r7/todosec/tree/c33ed2416583fd5a4db548b8c731c99c02353db0/recon/osint/README.md)
 * [Web](https://github.com/pr0b3r7/todosec/tree/c33ed2416583fd5a4db548b8c731c99c02353db0/recon/web/README.md)
 * [Network](https://github.com/pr0b3r7/todosec/tree/c33ed2416583fd5a4db548b8c731c99c02353db0/recon/network/README.md)
 
-### [Post-Exploitation](https://github.com/pr0b3r7/todosec/tree/c33ed2416583fd5a4db548b8c731c99c02353db0/post-exploitation/README.md)
-
+### [Post-Exploitation](https://todosec.com/post-exploitation/README.md)
 * [macos](post-exploitation/macos/)
   * [C2](post-exploitation/macos/c2.md)
   * [Collection](post-exploitation/macos/collection.md)
@@ -78,19 +75,16 @@
   * [Privilege Escalation](post-exploitation/aws/privilege-escalation.md)
 
 ### [Controls](https://github.com/pr0b3r7/todosec/tree/c33ed2416583fd5a4db548b8c731c99c02353db0/controls/README.md)
-
-* [Linux](https://github.com/pr0b3r7/todosec/tree/c33ed2416583fd5a4db548b8c731c99c02353db0/controls/linux/README.md)
-* [macOS](https://github.com/pr0b3r7/todosec/tree/c33ed2416583fd5a4db548b8c731c99c02353db0/controls/macos/README.md)
-* [Windows](https://github.com/pr0b3r7/todosec/tree/c33ed2416583fd5a4db548b8c731c99c02353db0/controls/windows/README.md)
+* [Linux](https://todosec.com/controls/linux/README.md)
+* [macOS](https://todosec.com/controls/macos/README.md)
+* [Windows](https://todosec.com/controls/windows/README.md)
 
 ### [Infrastructure](https://github.com/pr0b3r7/todosec/tree/c33ed2416583fd5a4db548b8c731c99c02353db0/infrastructure/README.md)
+* [Defensive/BLUE](https://todosec.com/infrastructure/defensive-blue/README.md)
+* [Offensive/RED](https://todosec.com/infrastructure/offensive-red/README.md)
 
-* [Defensive/BLUE](https://github.com/pr0b3r7/todosec/tree/c33ed2416583fd5a4db548b8c731c99c02353db0/infrastructure/defensive-blue/README.md)
-* [Offensive/RED](https://github.com/pr0b3r7/todosec/tree/c33ed2416583fd5a4db548b8c731c99c02353db0/infrastructure/offensive-red/README.md)
-
-### [Network Infrastructure](https://github.com/pr0b3r7/todosec/tree/c33ed2416583fd5a4db548b8c731c99c02353db0/network-infrastructure/README.md)
-
-* [Wireless](https://github.com/pr0b3r7/todosec/tree/c33ed2416583fd5a4db548b8c731c99c02353db0/network-infrastructure/wireless/README.md)
-* [Network Storage](https://github.com/pr0b3r7/todosec/tree/c33ed2416583fd5a4db548b8c731c99c02353db0/network-infrastructure/network-storage/README.md)
-* [Routing and Switching](https://github.com/pr0b3r7/todosec/tree/c33ed2416583fd5a4db548b8c731c99c02353db0/network-infrastructure/routing-and-switching/README.md)
+### [Network Infrastructure](https://todosec.com/network-infrastructure/README.md)
+* [Wireless](https://todosec.com/network-infrastructure/wireless/README.md)
+* [Network Storage](https://todosec.com/network-infrastructure/network-storage/README.md)
+* [Routing and Switching](https://todosec.com/network-infrastructure/routing-and-switching/README.md)
 
