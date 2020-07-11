@@ -1,18 +1,18 @@
+---
+description: Table of contents
+---
+
 # todoSec
 
-## Table of contents
-
-* [todoSec](/)
-
-### [Recon](recon/)
+### [Recon](https://github.com/pr0b3r7/todosec/tree/f76fbada06c4bb6c04ec8139abe6b8bcaed17a8d/recon/README.md)
 
 * [OSINT](recon/osint/)
 * [Web](recon/web/)
 * [Network](recon/network/)
 
-### [Post-Exploitation](post-exploitation/)
+### [Post-Exploitation](https://github.com/pr0b3r7/todosec/tree/f76fbada06c4bb6c04ec8139abe6b8bcaed17a8d/post-exploitation/README.md)
 
-* [macos](post-exploitation/macos/)
+* [macO](post-exploitation/macos/)S
   * [C2](post-exploitation/macos/c2.md)
   * [Collection](post-exploitation/macos/collection.md)
   * [Credential Access](post-exploitation/macos/credential-access.md)
@@ -20,7 +20,7 @@
   * [Discovery](post-exploitation/macos/discovery.md)
   * [Exfiltration](post-exploitation/macos/exfiltration.md)
   * [Lateral Movement](post-exploitation/macos/lateral-movement.md)
-  * [Persistence](post-exploitation/macos/persistence.md.md)
+  * [Persistence](https://github.com/pr0b3r7/todosec/tree/f76fbada06c4bb6c04ec8139abe6b8bcaed17a8d/post-exploitation/macos/persistence.md.md)
   * [Privilege Escalation](post-exploitation/macos/privilege-escalation.md)
 * [Windows](post-exploitation/windows/)
   * [C2](post-exploitation/windows/c2.md)
@@ -77,19 +77,20 @@
   * [Persistence](post-exploitation/aws/persistence.md)
   * [Privilege Escalation](post-exploitation/aws/privilege-escalation.md)
 
-### [Controls](controls/)
+### [Controls](https://github.com/pr0b3r7/todosec/tree/f76fbada06c4bb6c04ec8139abe6b8bcaed17a8d/controls/README.md)
 
 * [Linux](controls/linux/)
 * [macOS](controls/macos/)
 * [Windows](controls/windows/)
 
-### [Infrastructure](infrastructure/)
+### [Infrastructure](https://github.com/pr0b3r7/todosec/tree/f76fbada06c4bb6c04ec8139abe6b8bcaed17a8d/infrastructure/README.md)
 
 * [Defensive/BLUE](infrastructure/defensive-blue/)
 * [Offensive/RED](infrastructure/offensive-red/)
 
-### [Network Infrastructure](network-infrastructure/)
+### [Network Infrastructure](https://github.com/pr0b3r7/todosec/tree/f76fbada06c4bb6c04ec8139abe6b8bcaed17a8d/network-infrastructure/README.md)
 
 * [Wireless](network-infrastructure/wireless/)
 * [Network Storage](network-infrastructure/network-storage/)
 * [Routing and Switching](network-infrastructure/routing-and-switching/)
+

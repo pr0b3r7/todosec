@@ -99,11 +99,11 @@
 ## Network Infrastructure
 
 * [macOS](network-infrastructure/macos/README.md)
-  * [README](network-infrastructure/macos/readme.md)
+  * [README](network-infrastructure/macos/macos.md)
 * [Windows](network-infrastructure/windows/README.md)
-  * [README](network-infrastructure/windows/readme.md)
+  * [README](network-infrastructure/windows/windows.md)
 * [Linux](network-infrastructure/linux/README.md)
-  * [README](network-infrastructure/linux/readme.md)
+  * [README](network-infrastructure/linux/linux.md)
 * [Wireless](network-infrastructure/wireless/README.md)
   * [README](network-infrastructure/wireless/wireless.md)
 * [Network Storage](network-infrastructure/network-storage/README.md)
