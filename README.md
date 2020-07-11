@@ -6,7 +6,7 @@
 
 ### [Recon](https://todosec.com/recon/)
 
-* [OSINT](https://todosec.com/recon/osint/)
+* [OSINT](recon/osint/)
 * [Web](https://todosec.com/recon/web/)
 * [Network](https://todosec.com/recon/network/)
 
