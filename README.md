@@ -4,7 +4,7 @@
 * [todoSec](https://todosec.com/)
 
 ### [Recon](https://todosec.com/recon/)
-* [OSINT](](https://todosec.com/recon/osint/README.md)
+* [OSINT](https://todosec.com/recon/osint/README.md)
 * [Web](https://todosec/recon/web/README.md)
 * [Network](https://todosec/recon/network/README.md)
 
