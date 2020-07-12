@@ -98,11 +98,11 @@ description: >-
 
 ### [Vulnhub](boxes/vulnhub/)
 
-* [OSCP \(TJNull's\)](boxes/vulnhub/tjnulls-list.md)
-* [OSWE \(TJNull's\)](boxes/vulnhub/oswe-tjnulls.md)
+* [OSCP \(TJNull's\)](boxes/vulnhub/tjnulls-list/)
+* [OSWE \(TJNull's\)](boxes/vulnhub/oswe-tjnulls/)
 
 ### [HTB](boxes/htb/)
 
-* [OSCP \(TJNull's\)](boxes/htb/tjnulls-list.md)
-* [OSWE \(TJNull's\)](boxes/htb/oswe.md)
+* [OSCP \(TJNull's\)](boxes/htb/tjnulls-list/)
+* [OSWE \(TJNull's\)](boxes/htb/oswe/)
 

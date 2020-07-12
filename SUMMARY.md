@@ -114,9 +114,13 @@
 ## Boxes
 
 * [Vulnhub](boxes/vulnhub/README.md)
-  * [OSWE \(TJNull's\)](boxes/vulnhub/oswe-tjnulls.md)
-  * [OSCP \(TJNull's\)](boxes/vulnhub/tjnulls-list.md)
+  * [OSCP \(TJNull's\)](boxes/vulnhub/tjnulls-list/README.md)
+    * [First Box](boxes/vulnhub/tjnulls-list/first-box.md)
+  * [OSWE \(TJNull's\)](boxes/vulnhub/oswe-tjnulls/README.md)
+    * [First Box](boxes/vulnhub/oswe-tjnulls/first-box.md)
 * [HTB](boxes/htb/README.md)
-  * [OSWE \(TJNull's\)](boxes/htb/oswe.md)
-  * [OSCP \(TJNull's\)](boxes/htb/tjnulls-list.md)
+  * [OSCP \(TJNull's\)](boxes/htb/tjnulls-list/README.md)
+    * [First Box](boxes/htb/tjnulls-list/first-box.md)
+  * [OSWE \(TJNull's\)](boxes/htb/oswe/README.md)
+    * [First Box](boxes/htb/oswe/first-box.md)
 
