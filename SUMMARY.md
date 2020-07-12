@@ -92,6 +92,7 @@
 ## Infrastructure
 
 * [Defensive/BLUE](infrastructure/defensive-blue/README.md)
+  * [Linux Basic Networking](infrastructure/defensive-blue/linux-basic-networking.md)
   * [Windows Basic Networking](infrastructure/defensive-blue/windows-basic-networking.md)
   * [Linux Logs](infrastructure/defensive-blue/linux-logs.md)
 * [Offensive/RED](infrastructure/offensive-red/README.md)

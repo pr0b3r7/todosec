@@ -91,6 +91,7 @@ description: >-
 ## Infrastructure
 
 * [Defensive/BLUE](infrastructure/defensive-blue/)
+  * [Linux Basic Networking](infrastructure/defensive-blue/linux-basic-networking.md)
   * [Linux Logs](infrastructure/defensive-blue/linux-logs.md)
   * [Windows Basic Networking](infrastructure/defensive-blue/windows-basic-networking.md)
 * [Offensive/RED](infrastructure/offensive-red/)
