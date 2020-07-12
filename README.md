@@ -117,13 +117,10 @@ description: >-
 
 ### [Bash](code/code-bash/)
 
-[wip-W1nn13PwnWifi.sh](code/code-bash/wip-w1nn13pwnwifi.sh.md)
-
-[Basic Examples of Bash Scripting](code/code-bash/basic-examples-of-bash-scripting.md)
-
-[Ping sweeping with Bash](code/code-bash/ping-sweeping-with-bash.md)
-
-[Basics of CLI, Services in Kali \(SSH\) and how to change your motd \(Banner\)](code/code-bash/basics-of-cli-services-in-kali-ssh.md)
+1. [wip-W1nn13PwnWifi.sh](code/code-bash/wip-w1nn13pwnwifi.sh.md)
+2. [Basic Examples of Bash Scripting](code/code-bash/basic-examples-of-bash-scripting.md)
+3. [Ping sweeping with Bash](code/code-bash/ping-sweeping-with-bash.md)
+4. [Basics of CLI, Services in Kali \(SSH\) and how to change your motd \(Banner\)](code/code-bash/basics-of-cli-services-in-kali-ssh.md)
 
 ### [Python](code/code-python/)
 
