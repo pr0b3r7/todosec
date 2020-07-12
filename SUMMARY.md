@@ -109,7 +109,10 @@
 * [Network Storage](network-infrastructure/network-storage/README.md)
   * [README](network-infrastructure/network-storage/network-storage.md)
 * [Routing and Switching](network-infrastructure/routing-and-switching/README.md)
-  * [README](network-infrastructure/routing-and-switching/routing-and-switching.md)
+  * [350-401 ENCOR: Implementing Cisco Enterprise Network Core Technologies](network-infrastructure/routing-and-switching/350-401-encor-implementing-cisco-enterprise-network-core-technologies/README.md)
+    * [Exam Topics](network-infrastructure/routing-and-switching/350-401-encor-implementing-cisco-enterprise-network-core-technologies/exam-topics.md)
+  * [300-410 ENARSI: Implementing Cisco Enterprise Advanced Routing and Services](network-infrastructure/routing-and-switching/300-410-enarsi-implementing-cisco-enterprise-advanced-routing-and-services.md)
+  * [300-415 ENSDWI: Implementing Cisco SD-WAN Solutions](network-infrastructure/routing-and-switching/300-415-ensdwi-implementing-cisco-sd-wan-solutions.md)
 
 ## Boxes
 
