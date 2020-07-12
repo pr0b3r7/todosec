@@ -117,6 +117,6 @@
   * [OSWE \(TJNull's\)](boxes/vulnhub/oswe-tjnulls.md)
   * [OSCP \(TJNull's\)](boxes/vulnhub/tjnulls-list.md)
 * [HTB](boxes/htb/README.md)
-  * [OSWE](boxes/htb/oswe.md)
+  * [OSWE \(TJNull's\)](boxes/htb/oswe.md)
   * [OSCP \(TJNull's\)](boxes/htb/tjnulls-list.md)
 

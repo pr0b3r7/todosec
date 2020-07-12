@@ -104,5 +104,5 @@ description: >-
 ### [HTB](boxes/htb/)
 
 * [OSCP \(TJNull's\)](boxes/htb/tjnulls-list.md)
-* [OSWE](boxes/htb/oswe.md)
+* [OSWE \(TJNull's\)](boxes/htb/oswe.md)
 
