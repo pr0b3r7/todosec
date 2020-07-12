@@ -92,8 +92,6 @@
 ## Infrastructure
 
 * [Defensive/BLUE](infrastructure/defensive-blue/README.md)
-  * [Linux Basic Networking](infrastructure/defensive-blue/linux-basic-networking.md)
-  * [Windows Basic Networking](infrastructure/defensive-blue/windows-basic-networking.md)
   * [Linux Logs](infrastructure/defensive-blue/linux-logs.md)
 * [Offensive/RED](infrastructure/offensive-red/README.md)
   * [README](infrastructure/offensive-red/offensive-red.md)
@@ -103,9 +101,9 @@
 * [macOS](network-infrastructure/macos/README.md)
   * [README](network-infrastructure/macos/macos.md)
 * [Windows](network-infrastructure/windows/README.md)
-  * [README](network-infrastructure/windows/windows.md)
+  * [Windows Basic Networking](network-infrastructure/windows/windows-basic-networking.md)
 * [Linux](network-infrastructure/linux/README.md)
-  * [README](network-infrastructure/linux/linux.md)
+  * [Linux Basic Networking](network-infrastructure/linux/linux-basic-networking.md)
 * [Wireless](network-infrastructure/wireless/README.md)
   * [README](network-infrastructure/wireless/wireless.md)
 * [Network Storage](network-infrastructure/network-storage/README.md)

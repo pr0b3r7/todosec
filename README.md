@@ -91,13 +91,18 @@ description: >-
 ## Infrastructure
 
 * [Defensive/BLUE](infrastructure/defensive-blue/)
-  * [Linux Basic Networking](infrastructure/defensive-blue/linux-basic-networking.md)
+  * [Linux Basic Networking](network-infrastructure/linux/linux-basic-networking.md)
   * [Linux Logs](infrastructure/defensive-blue/linux-logs.md)
-  * [Windows Basic Networking](infrastructure/defensive-blue/windows-basic-networking.md)
+  * 
 * [Offensive/RED](infrastructure/offensive-red/)
 
 ## Network Infrastructure
 
+* [macOS](network-infrastructure/macos/)
+* [Windows](network-infrastructure/windows/)
+  * [Windows Basic Networking](network-infrastructure/windows/windows-basic-networking.md)
+* [Linux](network-infrastructure/linux/)
+  * [Linux Basic Networking](network-infrastructure/linux/linux-basic-networking.md)
 * [Wireless](network-infrastructure/wireless/)
 * [Network Storage](network-infrastructure/network-storage/)
 * [Routing and Switching](network-infrastructure/routing-and-switching/)
