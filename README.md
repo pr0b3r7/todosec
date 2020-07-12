@@ -6,7 +6,7 @@ description: >-
 
 # Table of contents
 
-![](.gitbook/assets/logo2bf-rb-transbg.png)
+![](.gitbook/assets/image%20%287%29.png)
 
 ## Recon
 
