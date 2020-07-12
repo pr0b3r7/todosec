@@ -11,6 +11,7 @@ description: >-
 ## Recon
 
 * [OSINT](recon/osint/)
+  * [Open Source Intelligence](recon/osint/osint.md)
 * [Web](recon/web/)
 * [Network](recon/network/)
 
@@ -90,6 +91,7 @@ description: >-
 ## Infrastructure
 
 * [Defensive/BLUE](infrastructure/defensive-blue/)
+  * [Linux Logs](infrastructure/defensive-blue/linux-logs.md)
 * [Offensive/RED](infrastructure/offensive-red/)
 
 ## Network Infrastructure
@@ -124,13 +126,18 @@ description: >-
 
 ### [Python](code/code-python/)
 
-1. [BackdoorClient.py](code/code-python/backdoorclient.py.md)
-2. [BackdoorServer.py](code/code-python/backdoorserver.py.md)
-3. [PortScanner.py](code/code-python/portscanner.py.md)
-4. [TcpClient.py](code/code-python/tcpclient.py.md)
-5. [TcpServer.py](code/code-python/tcpserver.py.md)
-6. [HttpGo-Getter.py](code/code-python/httpgo-getter.py.md)
-7. [HttpEnum-Client.py](code/code-python/httpenum-client.py.md)
+1. [forloop.py](code/code-python/forloop.py.md)
+2. [BackdoorClient.py](code/code-python/backdoorclient.py.md)
+3. [BackdoorServer.py](code/code-python/backdoorserver.py.md)
+4. [PortScanner.py](code/code-python/portscanner.py.md)
+5. [TcpClient.py](code/code-python/tcpclient.py.md)
+6. [TcpServer.py](code/code-python/tcpserver.py.md)
+7. [HttpGo-Getter.py](code/code-python/httpgo-getter.py.md)
+8. [HttpEnum-Client.py](code/code-python/httpenum-client.py.md)
 
 ### [Powershell](code/code-powershell.md)
+
+### Bookmarks
+
+1. [883 Lines of Bookmarks](bookmarks/883-lines-of-bookmarks.md)
 

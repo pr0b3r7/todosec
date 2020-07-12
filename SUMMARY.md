@@ -5,11 +5,11 @@
 ## Recon
 
 * [OSINT](recon/osint/README.md)
-  * [README](recon/osint/osint.md)
+  * [Open Source Intelligence](recon/osint/osint.md)
 * [Web](recon/web/README.md)
-  * [README](recon/web/web.md)
+  * [Web Recon](recon/web/web-recon.md)
 * [Network](recon/network/README.md)
-  * [README](recon/network/network.md)
+  * [Network Recon](recon/network/network.md)
 
 ## Post-Exploitation
 
@@ -92,7 +92,7 @@
 ## Infrastructure
 
 * [Defensive/BLUE](infrastructure/defensive-blue/README.md)
-  * [README](infrastructure/defensive-blue/defensive-blue.md)
+  * [Linux Logs](infrastructure/defensive-blue/linux-logs.md)
 * [Offensive/RED](infrastructure/offensive-red/README.md)
   * [README](infrastructure/offensive-red/offensive-red.md)
 
@@ -135,6 +135,7 @@
   * [Ping Sweeping with Bash](code/code-bash/ping-sweeping-with-bash.md)
   * [wip-W1nn13PwnWifi.sh](code/code-bash/wip-w1nn13pwnwifi.sh.md)
 * [Python](code/code-python/README.md)
+  * [forloop.py](code/code-python/forloop.py.md)
   * [BackdoorClient.py](code/code-python/backdoorclient.py.md)
   * [BackdoorServer.py](code/code-python/backdoorserver.py.md)
   * [PortScanner.py](code/code-python/portscanner.py.md)
@@ -143,4 +144,8 @@
   * [HttpGo-Getter.py](code/code-python/httpgo-getter.py.md)
   * [HttpEnum-Client.py](code/code-python/httpenum-client.py.md)
 * [Powershell](code/code-powershell.md)
+
+## Bookmarks
+
+* [883 Lines of Bookmarks](bookmarks/883-lines-of-bookmarks.md)
 
