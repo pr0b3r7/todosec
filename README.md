@@ -115,6 +115,8 @@ description: >-
 
 [Basic Examples of Bash Scripting](bash/basic-examples-of-bash-scripting.md)
 
+Ping sweeping with Bash
+
 ### Python
 
 ### Powershell
