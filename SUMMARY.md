@@ -127,3 +127,7 @@
   * [OSWE \(TJNull's\)](boxes/htb/oswe/README.md)
     * [First Box](boxes/htb/oswe/first-box.md)
 
+## Bash
+
+* [wip-W1nn13PwnWifi.sh](bash/wip-w1nn13pwnwifi.sh.md)
+
