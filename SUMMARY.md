@@ -127,18 +127,20 @@
   * [OSWE \(TJNull's\)](boxes/htb/oswe/README.md)
     * [First Box](boxes/htb/oswe/first-box.md)
 
-## Bash
+## Code
 
-* [Basics of CLI, Services in Kali \(SSH\) and how to change your motd \(Banner\)](bash/basics-of-cli-services-in-kali-ssh.md)
-* [Ping Sweeping with Bash](bash/ping-sweeping-with-bash.md)
-* [Basic examples of Bash Scripting](bash/basic-examples-of-bash-scripting.md)
-* [wip-W1nn13PwnWifi.sh](bash/wip-w1nn13pwnwifi.sh.md)
-
-## Python
-
-* [Untitled](python/untitled.md)
-
-## Powershell
-
-* [Untitled](powershell/untitled.md)
+* [Bash](code/bash/README.md)
+  * [Basics of CLI, Services in Kali \(SSH\) and how to change your motd \(Banner\)](code/bash/basics-of-cli-services-in-kali-ssh.md)
+  * [Basic examples of Bash Scripting](code/bash/basic-examples-of-bash-scripting.md)
+  * [Ping Sweeping with Bash](code/bash/ping-sweeping-with-bash.md)
+  * [wip-W1nn13PwnWifi.sh](code/bash/wip-w1nn13pwnwifi.sh.md)
+* [Python](code/untitled/README.md)
+  * [BackdoorClient.py](code/untitled/backdoorclient.py.md)
+  * [BackdoorServer.py](code/untitled/backdoorserver.py.md)
+  * [PortScanner.py](code/untitled/portscanner.py.md)
+  * [TcpClient.py](code/untitled/tcpclient.py.md)
+  * [TcpServer.py](code/untitled/tcpserver.py.md)
+  * [HttpGo-Getter.py](code/untitled/httpgo-getter.py.md)
+  * [HttpEnum-Client.py](code/untitled/httpenum-client.py.md)
+* [Powershell](code/untitled-1.md)
 

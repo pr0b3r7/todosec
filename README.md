@@ -8,13 +8,13 @@ description: >-
 
 ![](.gitbook/assets/logo2bf-rb-transbg.png)
 
-### [Recon](recon/)
+## [Recon](https://github.com/pr0b3r7/todosec/tree/c7f5dabd270c26061cbca994986331ec3ce88675/recon/README.md)
 
 * [OSINT](recon/osint/)
 * [Web](recon/web/)
 * [Network](recon/network/)
 
-### [Post-Exploitation](post-exploitation/)
+## [Post-Exploitation](https://github.com/pr0b3r7/todosec/tree/c7f5dabd270c26061cbca994986331ec3ce88675/post-exploitation/README.md)
 
 * [macOS](post-exploitation/macos/)
   * [C2](post-exploitation/macos/c2.md)
@@ -81,18 +81,18 @@ description: >-
   * [Persistence](post-exploitation/aws/persistence.md)
   * [Privilege Escalation](post-exploitation/aws/privilege-escalation.md)
 
-### [Controls](controls/)
+## [Controls](https://github.com/pr0b3r7/todosec/tree/c7f5dabd270c26061cbca994986331ec3ce88675/controls/README.md)
 
 * [Linux](controls/linux/)
 * [macOS](controls/macos/)
 * [Windows](controls/windows/)
 
-### [Infrastructure](infrastructure/)
+## [Infrastructure](https://github.com/pr0b3r7/todosec/tree/c7f5dabd270c26061cbca994986331ec3ce88675/infrastructure/README.md)
 
 * [Defensive/BLUE](infrastructure/defensive-blue/)
 * [Offensive/RED](infrastructure/offensive-red/)
 
-### [Network Infrastructure](network-infrastructure/)
+## [Network Infrastructure](https://github.com/pr0b3r7/todosec/tree/c7f5dabd270c26061cbca994986331ec3ce88675/network-infrastructure/README.md)
 
 * [Wireless](network-infrastructure/wireless/)
 * [Network Storage](network-infrastructure/network-storage/)
@@ -101,27 +101,39 @@ description: >-
   * [300-410 ENARSI: Implementing Cisco Enterprise Advanced Routing and Services](network-infrastructure/routing-and-switching/300-410-enarsi-implementing-cisco-enterprise-advanced-routing-and-services.md)
   * [300-415 ENSDWI: Implementing Cisco SD-WAN Solutions](network-infrastructure/routing-and-switching/300-415-ensdwi-implementing-cisco-sd-wan-solutions.md)
 
+## Boxes
+
 ### [Vulnhub](boxes/vulnhub/)
 
-* [OSCP \(TJNull's\)](boxes/vulnhub/tjnulls-list/)
-* [OSWE \(TJNull's\)](boxes/vulnhub/oswe-tjnulls/)
+1. [OSCP \(TJNull's\)](boxes/vulnhub/tjnulls-list/)
+2. [OSWE \(TJNull's\)](boxes/vulnhub/oswe-tjnulls/)
 
 ### [HTB](boxes/htb/)
 
-* [OSCP \(TJNull's\)](boxes/htb/tjnulls-list/)
-* [OSWE \(TJNull's\)](boxes/htb/oswe/)
+1. [OSCP \(TJNull's\)](boxes/htb/tjnulls-list/)
+2. [OSWE \(TJNull's\)](boxes/htb/oswe/)
 
-### [Bash](bash/)
+## Programming
 
-[wip-W1nn13PwnWifi.sh](bash/wip-w1nn13pwnwifi.sh.md)
+### [Bash](code/bash/)
 
-[Basic Examples of Bash Scripting](bash/basic-examples-of-bash-scripting.md)
+[wip-W1nn13PwnWifi.sh](code/bash/wip-w1nn13pwnwifi.sh.md)
 
-[Ping sweeping with Bash](bash/ping-sweeping-with-bash.md)
+[Basic Examples of Bash Scripting](code/bash/basic-examples-of-bash-scripting.md)
 
-[Basics of CLI, Services in Kali \(SSH\) and how to change your motd \(Banner\)](bash/basics-of-cli-services-in-kali-ssh.md)
+[Ping sweeping with Bash](code/bash/ping-sweeping-with-bash.md)
 
-### [Python](python/)
+[Basics of CLI, Services in Kali \(SSH\) and how to change your motd \(Banner\)](code/bash/basics-of-cli-services-in-kali-ssh.md)
 
-### [Powershell](powershell/)
+### [Python](code/untitled/)
+
+1. [BackdoorClient.py](code/untitled/backdoorclient.py.md)
+2. [BackdoorServer.py](code/untitled/backdoorserver.py.md)
+3. [PortScanner.py](code/untitled/portscanner.py.md)
+4. [TcpClient.py](code/untitled/tcpclient.py.md)
+5. [TcpServer.py](code/untitled/tcpserver.py.md)
+6. [HttpGo-Getter.py](code/untitled/httpgo-getter.py.md)
+7. [HttpEnum-Client.py](code/untitled/httpenum-client.py.md)
+
+### [Powershell](code/untitled-1.md)
 
