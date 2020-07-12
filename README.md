@@ -115,7 +115,7 @@ description: >-
 
 [Basic Examples of Bash Scripting](bash/basic-examples-of-bash-scripting.md)
 
-Ping sweeping with Bash
+[Ping sweeping with Bash](bash/ping-sweeping-with-bash.md)
 
 ### Python
 
