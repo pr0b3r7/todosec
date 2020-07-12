@@ -1,5 +1,7 @@
 ---
-description: 'Categories, Boxes and Tutorials to prepare for eCPPT and OSCP'
+description: >-
+  Methodology notes, Boxes and Tutorials to prepare for eCPPT, OSCP, OSWE and
+  OSCE
 ---
 
 # Table of contents
@@ -94,13 +96,13 @@ description: 'Categories, Boxes and Tutorials to prepare for eCPPT and OSCP'
 * [Network Storage](network-infrastructure/network-storage/)
 * [Routing and Switching](network-infrastructure/routing-and-switching/)
 
-### [Vulnhub Boxes](boxes/vulnhub/tjnulls-list.md)
+### [Vulnhub](boxes/vulnhub/)
 
-* OSCP \(TJNull's\)
-* OSWE
+* [OSCP \(TJNull's\)](boxes/vulnhub/tjnulls-list.md)
+* [OSWE \(TJNull's\)](boxes/vulnhub/oswe-tjnulls.md)
 
-### HTB [Boxes](boxes/vulnhub/tjnulls-list.md)
+### [HTB](boxes/htb/)
 
-* OSCP \(TJNull's\)
-* OSWE
+* [OSCP \(TJNull's\)](boxes/htb/tjnulls-list.md)
+* [OSWE](boxes/htb/oswe.md)
 
