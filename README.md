@@ -8,15 +8,15 @@ description: >-
 
 ![](.gitbook/assets/logo2bf-rb-transbg.png)
 
-### [Recon](https://github.com/pr0b3r7/todosec/tree/f76fbada06c4bb6c04ec8139abe6b8bcaed17a8d/recon/README.md)
+### Recon
 
 * [OSINT](recon/osint/)
 * [Web](recon/web/)
 * [Network](recon/network/)
 
-### [Post-Exploitation](https://github.com/pr0b3r7/todosec/tree/f76fbada06c4bb6c04ec8139abe6b8bcaed17a8d/post-exploitation/README.md)
+### Post-Exploitation
 
-* [macO](post-exploitation/macos/)S
+* [macOS](post-exploitation/macos/)
   * [C2](post-exploitation/macos/c2.md)
   * [Collection](post-exploitation/macos/collection.md)
   * [Credential Access](post-exploitation/macos/credential-access.md)
@@ -81,18 +81,18 @@ description: >-
   * [Persistence](post-exploitation/aws/persistence.md)
   * [Privilege Escalation](post-exploitation/aws/privilege-escalation.md)
 
-### [Controls](https://github.com/pr0b3r7/todosec/tree/f76fbada06c4bb6c04ec8139abe6b8bcaed17a8d/controls/README.md)
+### Controls
 
 * [Linux](controls/linux/)
 * [macOS](controls/macos/)
 * [Windows](controls/windows/)
 
-### [Infrastructure](https://github.com/pr0b3r7/todosec/tree/f76fbada06c4bb6c04ec8139abe6b8bcaed17a8d/infrastructure/README.md)
+### Infrastructure
 
 * [Defensive/BLUE](infrastructure/defensive-blue/)
 * [Offensive/RED](infrastructure/offensive-red/)
 
-### [Network Infrastructure](https://github.com/pr0b3r7/todosec/tree/f76fbada06c4bb6c04ec8139abe6b8bcaed17a8d/network-infrastructure/README.md)
+### Network Infrastructure
 
 * [Wireless](network-infrastructure/wireless/)
 * [Network Storage](network-infrastructure/network-storage/)
