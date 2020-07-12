@@ -129,7 +129,7 @@
 
 ## Bash
 
-* [Basics of CLI, Services in Kali \(SSH\)](bash/basics-of-cli-services-in-kali-ssh.md)
+* [Basics of CLI, Services in Kali \(SSH\) and how to change your motd \(Banner\)](bash/basics-of-cli-services-in-kali-ssh.md)
 * [Ping Sweeping with Bash](bash/ping-sweeping-with-bash.md)
 * [Basic examples of Bash Scripting](bash/basic-examples-of-bash-scripting.md)
 * [wip-W1nn13PwnWifi.sh](bash/wip-w1nn13pwnwifi.sh.md)

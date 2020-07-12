@@ -117,7 +117,7 @@ description: >-
 
 [Ping sweeping with Bash](bash/ping-sweeping-with-bash.md)
 
-Basics of CLI, Services in Kali \(SSH\)
+[Basics of CLI, Services in Kali \(SSH\) and how to change your motd \(Banner\)](bash/basics-of-cli-services-in-kali-ssh.md)
 
 ### Python
 

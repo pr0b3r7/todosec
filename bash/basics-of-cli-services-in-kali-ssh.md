@@ -1,4 +1,4 @@
-# Basics of CLI, Services in Kali \(SSH\)
+# Basics of CLI, Services in Kali \(SSH\) and how to change your motd \(Banner\)
 
 Linux basic command refresher:
 
