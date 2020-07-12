@@ -10,7 +10,7 @@
 
 |  |  |  |
 | :--- | :--- | :--- |
-| Linux Boxes: | Windows Boxes: | More challenging than OSWE, but good practice: |
+| **Linux Boxes:** | **Windows Boxes:** | **More challenging than OSWE, but good practice:** |
 | Vault | JSON |  |
 | popcorn |  | Arkham |
 | Celestial |  | Hackback |
