@@ -8,13 +8,13 @@ description: >-
 
 ![](.gitbook/assets/logo2bf-rb-transbg.png)
 
-### Recon
+### [Recon](recon/)
 
 * [OSINT](recon/osint/)
 * [Web](recon/web/)
 * [Network](recon/network/)
 
-### Post-Exploitation
+### [Post-Exploitation](post-exploitation/)
 
 * [macOS](post-exploitation/macos/)
   * [C2](post-exploitation/macos/c2.md)
@@ -81,18 +81,18 @@ description: >-
   * [Persistence](post-exploitation/aws/persistence.md)
   * [Privilege Escalation](post-exploitation/aws/privilege-escalation.md)
 
-### Controls
+### [Controls](controls/)
 
 * [Linux](controls/linux/)
 * [macOS](controls/macos/)
 * [Windows](controls/windows/)
 
-### Infrastructure
+### [Infrastructure](infrastructure/)
 
 * [Defensive/BLUE](infrastructure/defensive-blue/)
 * [Offensive/RED](infrastructure/offensive-red/)
 
-### Network Infrastructure
+### [Network Infrastructure](network-infrastructure/)
 
 * [Wireless](network-infrastructure/wireless/)
 * [Network Storage](network-infrastructure/network-storage/)
@@ -111,7 +111,7 @@ description: >-
 * [OSCP \(TJNull's\)](boxes/htb/tjnulls-list/)
 * [OSWE \(TJNull's\)](boxes/htb/oswe/)
 
-### Bash
+### [Bash](bash/)
 
 [wip-W1nn13PwnWifi.sh](bash/wip-w1nn13pwnwifi.sh.md)
 
@@ -121,7 +121,7 @@ description: >-
 
 [Basics of CLI, Services in Kali \(SSH\) and how to change your motd \(Banner\)](bash/basics-of-cli-services-in-kali-ssh.md)
 
-### Python
+### [Python](python/)
 
-### Powershell
+### [Powershell](powershell/)
 
