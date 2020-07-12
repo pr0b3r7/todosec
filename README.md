@@ -113,7 +113,7 @@ description: >-
 
 [wip-W1nn13PwnWifi.sh](bash/wip-w1nn13pwnwifi.sh.md)
 
-Basic Examples of Bash Scripting
+[Basic Examples of Bash Scripting](bash/basic-examples-of-bash-scripting.md)
 
 ### Python
 
