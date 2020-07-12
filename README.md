@@ -105,35 +105,35 @@ description: >-
 
 ### [Vulnhub](boxes/vulnhub/)
 
-1. [OSCP \(TJNull's\)](boxes/vulnhub/tjnulls-list/)
+1. [OSCP \(TJNull's\)](boxes/vulnhub/oscp-tjnull/)
 2. [OSWE \(TJNull's\)](boxes/vulnhub/oswe-tjnulls/)
 
 ### [HTB](boxes/htb/)
 
-1. [OSCP \(TJNull's\)](boxes/htb/tjnulls-list/)
-2. [OSWE \(TJNull's\)](boxes/htb/oswe/)
+1. [OSCP \(TJNull's\)](boxes/htb/htb-oscp--tjnull/)
+2. [OSWE \(TJNull's\)](boxes/htb/htb-oswe-tjnull/)
 
 ## Programming
 
-### [Bash](code/bash/)
+### [Bash](code/code-bash/)
 
-[wip-W1nn13PwnWifi.sh](code/bash/wip-w1nn13pwnwifi.sh.md)
+[wip-W1nn13PwnWifi.sh](code/code-bash/wip-w1nn13pwnwifi.sh.md)
 
-[Basic Examples of Bash Scripting](code/bash/basic-examples-of-bash-scripting.md)
+[Basic Examples of Bash Scripting](code/code-bash/basic-examples-of-bash-scripting.md)
 
-[Ping sweeping with Bash](code/bash/ping-sweeping-with-bash.md)
+[Ping sweeping with Bash](code/code-bash/ping-sweeping-with-bash.md)
 
-[Basics of CLI, Services in Kali \(SSH\) and how to change your motd \(Banner\)](code/bash/basics-of-cli-services-in-kali-ssh.md)
+[Basics of CLI, Services in Kali \(SSH\) and how to change your motd \(Banner\)](code/code-bash/basics-of-cli-services-in-kali-ssh.md)
 
-### [Python](code/untitled/)
+### [Python](code/code-python/)
 
-1. [BackdoorClient.py](code/untitled/backdoorclient.py.md)
-2. [BackdoorServer.py](code/untitled/backdoorserver.py.md)
-3. [PortScanner.py](code/untitled/portscanner.py.md)
-4. [TcpClient.py](code/untitled/tcpclient.py.md)
-5. [TcpServer.py](code/untitled/tcpserver.py.md)
-6. [HttpGo-Getter.py](code/untitled/httpgo-getter.py.md)
-7. [HttpEnum-Client.py](code/untitled/httpenum-client.py.md)
+1. [BackdoorClient.py](code/code-python/backdoorclient.py.md)
+2. [BackdoorServer.py](code/code-python/backdoorserver.py.md)
+3. [PortScanner.py](code/code-python/portscanner.py.md)
+4. [TcpClient.py](code/code-python/tcpclient.py.md)
+5. [TcpServer.py](code/code-python/tcpserver.py.md)
+6. [HttpGo-Getter.py](code/code-python/httpgo-getter.py.md)
+7. [HttpEnum-Client.py](code/code-python/httpenum-client.py.md)
 
-### [Powershell](code/untitled-1.md)
+### [Powershell](code/code-powershell.md)
 
