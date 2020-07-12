@@ -1,6 +1,6 @@
 # Table of contents
 
-* [todoSec](README.md)
+* [Table of contents](README.md)
 
 ## Recon
 
@@ -110,4 +110,11 @@
   * [README](network-infrastructure/network-storage/network-storage.md)
 * [Routing and Switching](network-infrastructure/routing-and-switching/README.md)
   * [README](network-infrastructure/routing-and-switching/routing-and-switching.md)
+
+## Boxes
+
+* [Vulnhub](boxes/vulnhub/README.md)
+  * [TJNull's List](boxes/vulnhub/tjnulls-list.md)
+* [HTB](boxes/htb/README.md)
+  * [TJNull's List](boxes/htb/tjnulls-list.md)
 
