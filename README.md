@@ -6,6 +6,8 @@ description: >-
 
 # Table of contents
 
+![](.gitbook/assets/logo2bf-rb-transbg.png)
+
 ### [Recon](https://github.com/pr0b3r7/todosec/tree/f76fbada06c4bb6c04ec8139abe6b8bcaed17a8d/recon/README.md)
 
 * [OSINT](recon/osint/)
