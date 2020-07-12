@@ -103,6 +103,7 @@ description: >-
   * [Windows Basic Networking](network-infrastructure/windows/windows-basic-networking.md)
 * [Linux](network-infrastructure/linux/)
   * [Linux Basic Networking](network-infrastructure/linux/linux-basic-networking.md)
+  * [Basics of CLI, Services in Kali \(SSH\) and how to change your motd \(Banner\)](network-infrastructure/linux/basics-of-cli-services-in-kali-ssh.md)
 * [Wireless](network-infrastructure/wireless/)
 * [Network Storage](network-infrastructure/network-storage/)
 * [Routing and Switching](network-infrastructure/routing-and-switching/)
@@ -129,7 +130,6 @@ description: >-
 1. [wip-W1nn13PwnWifi.sh](code/code-bash/wip-w1nn13pwnwifi.sh.md)
 2. [Basic Examples of Bash Scripting](code/code-bash/basic-examples-of-bash-scripting.md)
 3. [Ping sweeping with Bash](code/code-bash/ping-sweeping-with-bash.md)
-4. [Basics of CLI, Services in Kali \(SSH\) and how to change your motd \(Banner\)](code/code-bash/basics-of-cli-services-in-kali-ssh.md)
 
 ### [Python](code/code-python/)
 

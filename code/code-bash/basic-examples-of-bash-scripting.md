@@ -22,7 +22,7 @@ A _range_ can be specified if _4-9_ format is used
 
 Example Command
 
-```text
+```bash
 ping -c 1 192.168.1.1 | grep "64 bytes from" | cut -d " " -f 4 | sed 's/.$//'
 ```
 
@@ -38,7 +38,7 @@ Below for loop: pings 1-255 hosts in 192.168.1.0/24
 
 **Sed** - stream editor for filtering and transforming text helps us \(more research needed on '**s/.$//'**\)
 
-```text
+```bash
 for i in {1..255}; do ping -c 1 192.168.1.$i | grep "64 bytes from" | cut -d " " -f 4 | sed 's/.$//'; done
 ```
 
@@ -48,7 +48,7 @@ My Traceroute - **mtr**
 
     **--no-dns** does not resolve hostnames
 
-```text
+```bash
 sudo mtr -r -c 5 100.65.150.160 --no-dns | grep "." | cut -d " " -f 4
 ```
 
@@ -56,7 +56,7 @@ My traceroute and PING test - && executes command to the right of && after comma
 
     In this case, mtr is executed, once it finishes for loop is executed
 
-```text
+```bash
 sudo mtr -r -c 5 192.168.1.1 && sudo mtr -r -c 5 192.168.1.18 && for i in {1..254}; do ping -c 5 192.168.1.$i | grep '1'; done
 ```
 
@@ -68,20 +68,19 @@ sudo mtr -r -c 5 192.168.1.1 && sudo mtr -r -c 5 192.168.1.18 && for i in {1..25
 
 Useful for checking routing path in a whole subnet in dual homed networks with different egress and ingress paths
 
-```text
-
+```bash
 for i in {160..190}; do sudo mtr -r -c 5 100.65.150.$i --no-dns | grep "." | cut -d " " -f 4; done
 ```
 
 But... How to save test results to a file? Add &gt; after command followed by the filename \(thanks to @nin\)
 
-```text
+```bash
 ping -c 1 192.168.1.1 > ping.txt 
 ```
 
 Use the ping command to obtain the IP address of the specified website
 
-```text
+```bash
 ping -c 1 google.com | grep from | cut -d " " -f 4 
 ~> 220.181.57.216
 ```

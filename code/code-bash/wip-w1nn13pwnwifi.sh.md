@@ -9,7 +9,7 @@ description: >-
 
 O[riginal video tutorial \(Spanish\)](%20https://www.youtube.com/watch?v=Mwt_RbdpJhk)
 
-```text
+```bash
 #!/bin/bash
 
 # Author: s4vitar - Bash scripting tutorial https://github.com/s4vitar/wifiCrack/blob/master/s4viPwnWifi.sh

@@ -1,6 +1,6 @@
 # Ping Sweeping with Bash
 
-```text
+```bash
 #!/bin/Bash
 # Author: pr0b3r7
 
