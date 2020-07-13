@@ -25,7 +25,7 @@ description: >-
   * [Discovery](post-exploitation/macos/discovery.md)
   * [Exfiltration](post-exploitation/macos/exfiltration.md)
   * [Lateral Movement](post-exploitation/macos/lateral-movement.md)
-  * [Persistence](https://github.com/pr0b3r7/todosec/tree/f76fbada06c4bb6c04ec8139abe6b8bcaed17a8d/post-exploitation/macos/persistence.md.md)
+  * [Persistence](post-exploitation/macos/persistence.md)
   * [Privilege Escalation](post-exploitation/macos/privilege-escalation.md)
 * [Windows](post-exploitation/windows/)
   * [C2](post-exploitation/windows/c2.md)
@@ -91,9 +91,7 @@ description: >-
 ## Infrastructure
 
 * [Defensive/BLUE](infrastructure/defensive-blue/)
-  * [Linux Basic Networking](network-infrastructure/linux/linux-basic-networking.md)
   * [Linux Logs](infrastructure/defensive-blue/linux-logs.md)
-  * 
 * [Offensive/RED](infrastructure/offensive-red/)
 
 ## Network Infrastructure
