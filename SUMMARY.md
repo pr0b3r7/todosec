@@ -5,7 +5,7 @@
 ## Recon
 
 * [OSINT](recon/osint/README.md)
-  * [Open Source Intelligence](recon/osint/osint.md)
+  * [Open Source Intelligence](recon/osint/open-source-intelligence.md)
 * [Web](recon/web/README.md)
   * [Web Recon](recon/web/web-recon.md)
 * [Network](recon/network/README.md)

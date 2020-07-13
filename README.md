@@ -11,7 +11,7 @@ description: >-
 ## Recon
 
 * [OSINT](recon/osint/)
-  * [Open Source Intelligence](recon/osint/osint.md)
+  * [Open Source Intelligence](recon/osint/open-source-intelligence.md)
 * [Web](recon/web/)
 * [Network](recon/network/)
 
