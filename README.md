@@ -155,7 +155,8 @@ in case:
                       consult;
                       network-with;
 }
-> whoami
+> id
+Robert Pimentel 
 
    ||
    ||
@@ -166,5 +167,7 @@ in case:
    \/
 ```
 
-## [About me](https://linkedin.com/in/pimentelrobert1) - LinkedIn
+## [LinkedIn](https://linkedin.com/in/pimentelrobert1)
+
+## [Github](https://github.com/pr0b3r7)
 
