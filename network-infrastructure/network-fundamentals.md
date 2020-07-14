@@ -76,7 +76,7 @@ Table below from Cisco's documentation should provide a quick reference in binar
 | E \(range in binary\) | 11110000 .00000000.00000000.00000000 to 11111111.11111111.11111111.11111111 |
 | E \(mask in binary\) | 11111111.11111111.11111111.11111111/32 |
 
-[IPv6 Addressing](https://en.wikipedia.org/wiki/IPv6)
+## [IPv6 Addressing](https://en.wikipedia.org/wiki/IPv6)
 
 "IPv6 addresses are represented as eight groups, separated by colons, of four hexadecimal digits. The full representation may be simplified by several methods of notation; for example, _2001:0db8:0000:0000:0000:8a2e:0370:7334 becomes 2001:db8::8a2e:370:7334." \(Wikipedia\)_
 
