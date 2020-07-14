@@ -149,3 +149,7 @@
 
 * [883 Lines of Bookmarks](bookmarks/883-lines-of-bookmarks.md)
 
+---
+
+* [LinkedIn](https://linkedin.com/in/pimentelrobert1)
+

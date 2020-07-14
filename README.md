@@ -147,3 +147,18 @@ description: >-
 
 1. [883 Lines of Bookmarks](bookmarks/883-lines-of-bookmarks.md)
 
+```bash
+in case you would like to know...
+> whoami
+
+   ||
+   ||
+   ||
+   ||
+ \ || /
+  \||/
+   \/
+```
+
+## [About me](https://linkedin.com/in/pimentelrobert1) - LinkedIn
+
