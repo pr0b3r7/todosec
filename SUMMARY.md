@@ -9,7 +9,7 @@
 * [Web](recon/web/README.md)
   * [Web Recon](recon/web/web-recon.md)
 * [Network](recon/network/README.md)
-  * [Network Recon](recon/network/network.md)
+  * [Netcat/Ncat - WIP](recon/network/netcat-ncat-wip.md)
 
 ## Post-Exploitation
 

@@ -14,6 +14,7 @@ description: >-
   * [Open Source Intelligence](recon/osint/open-source-intelligence.md)
 * [Web](recon/web/)
 * [Network](recon/network/)
+  * [Netcat/Ncat - WIP](recon/network/netcat-ncat-wip.md)
 
 ## Post-Exploitation
 
