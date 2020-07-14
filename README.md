@@ -97,7 +97,8 @@ description: >-
 
 ## Network Infrastructure
 
-* [Network Fundamentals](network-infrastructure/network-fundamentals.md)
+* [Network Fundamentals](network-infrastructure/network-fundamentals/)
+  * [Zone-Based Policy Firewall \(also known as Zone-Policy Firewall, or ZFW\)](network-infrastructure/network-fundamentals/zone-based-policy-firewall-also-known-as-zone-policy-firewall-or-zfw.md)
 * [macOS](network-infrastructure/macos/)
 * [Windows](network-infrastructure/windows/)
   * [Windows Basic Networking](network-infrastructure/windows/windows-basic-networking.md)

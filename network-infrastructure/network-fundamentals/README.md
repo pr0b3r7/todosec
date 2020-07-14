@@ -35,7 +35,7 @@ _\(layer - protocol data unit\*\)_
 
 Describes an interaction between two systems, often performing the roles of client and server in which the following exchange occurs: \(diagram from [Medium](https://cdn-images-1.medium.com/max/1600/1*n22QJMww4vGw_MrlZbysLg.png)\)
 
-![](../.gitbook/assets/image%20%289%29.png)
+![](../../.gitbook/assets/image%20%289%29.png)
 
 1. SYN - hey, are you available and willing to communicate? 
 2. SYN/ACK - yes, I am and would like to establish said communication.
@@ -82,5 +82,5 @@ Table below from Cisco's documentation should provide a quick reference in binar
 
 Some [statistics ](https://www.google.com/intl/en/ipv6/statistics.html)by google on its world-wide adoption, up to you is to decide when the [well announced ](https://csrc.nist.gov/publications/detail/journal-article/2008/internet-protocol-version-6-ipv6)final cut over is happening.
 
-![](../.gitbook/assets/image%20%288%29.png)
+![](../../.gitbook/assets/image%20%288%29.png)
 

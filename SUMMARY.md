@@ -98,7 +98,8 @@
 
 ## Network Infrastructure
 
-* [Network Fundamentals](network-infrastructure/network-fundamentals.md)
+* [Network Fundamentals](network-infrastructure/network-fundamentals/README.md)
+  * [Zone-Based Policy Firewall \(also known as Zone-Policy Firewall, or ZFW\)](network-infrastructure/network-fundamentals/zone-based-policy-firewall-also-known-as-zone-policy-firewall-or-zfw.md)
 * [macOS](network-infrastructure/macos/README.md)
   * [README](network-infrastructure/macos/macos.md)
 * [Windows](network-infrastructure/windows/README.md)
