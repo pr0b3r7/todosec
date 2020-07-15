@@ -26,7 +26,7 @@ _\(layer - protocol data unit\*\)_
 * **Data Link** - FRAME - Provides error free transmission and access to the media - ARP, CDP, Ethernet, HDLC, IEEE 802.11 WLAN, LLDP , MPLS , SDN , PPP , UDLD... Physical Addressing of links
 * **Physical** - BIT - Physical structure - Coax, Fiber, Wireless, Repeaters... 
 
-![Transport - Layer 4 TLS 1.2 Segment ](../../.gitbook/assets/image%20%2815%29.png)
+![Transport - Layer 4 TLS 1.2 Segment in Wireshark Packet Analyzer](../../.gitbook/assets/image%20%2815%29.png)
 
 ![Network - Layer 3 Packet in Wireshark Packet Analyzer](../../.gitbook/assets/image%20%2813%29.png)
 
