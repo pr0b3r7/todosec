@@ -26,9 +26,9 @@ _\(layer - protocol data unit\*\)_
 * **Data Link** - FRAME - Provides error free transmission and access to the media - ARP, CDP, Ethernet, HDLC, IEEE 802.11 WLAN, LLDP , MPLS , SDN , PPP , UDLD... Physical Addressing of links
 * **Physical** - BIT - Physical structure - Coax, Fiber, Wireless, Repeaters... 
 
-![Transport - Layer 4 TLS 1.2 Segment in Wireshark Packet Analyzer](../../.gitbook/assets/image%20%2815%29.png)
+![Transport - Layer 4 TLS 1.2 Segment in Wireshark Packet Analyzer](../../.gitbook/assets/image%20%2820%29.png)
 
-![Network - Layer 3 Packet in Wireshark Packet Analyzer](../../.gitbook/assets/image%20%2813%29.png)
+![Network - Layer 3 Packet in Wireshark Packet Analyzer](../../.gitbook/assets/image%20%2814%29.png)
 
 ![Data Link - Layer 2 Frame in Wireshark Packet Analyzer](../../.gitbook/assets/image%20%2812%29.png)
 
@@ -90,6 +90,10 @@ Many different fields are defined in the packet header of an IPv4 packet. These 
 * Type-of-Service \(ToS\) - 8-bit binary value used to determine the priority of a packet
 * Protocol - 8-bit value indicating the data payload type that the packet is carrying
 
+![IP Packet Header](../../.gitbook/assets/image%20%2821%29.png)
+
+Contains Source and Destination IP addresses in the packet as well as flags and Differentiated Services Field codes for Quality of Service purposes.
+
 ### [IPv6 Addressing](https://en.wikipedia.org/wiki/IPv6)
 
 "IPv6 addresses are represented as eight groups, separated by colons, of four hexadecimal digits. The full representation may be simplified by several methods of notation; for example, _2001:0db8:0000:0000:0000:8a2e:0370:7334 becomes 2001:db8::8a2e:370:7334." \(Wikipedia\)_
@@ -108,7 +112,23 @@ The Transmission Control Protocol \(TCP\) and the User Datagram Protocol \(UDP\)
 
  [Internet Assigned Numbers Authority](https://en.wikipedia.org/wiki/Internet_Assigned_Numbers_Authority) \(IANA\) maintains [port assignments.](top-1000-well-known-ports.md) 
 
-## TCP _"3-way"_ handshake
+### TCP Header
+
+![TCP Header in Wireshark Packet Analyzer](../../.gitbook/assets/image%20%2818%29.png)
+
+Contains Source Port, Destination Port, TCP Flags and options as well as sequence and timestamp information used for TCP reliable transmission features as well as information regarding the size of the TCP payload.
+
+![Reliable transmission features use sequence numbers to maintain accountability of all the data sent](../../.gitbook/assets/image%20%2822%29.png)
+
+#### TCP Header Flags
+
+Responsible for the transmission and flow of packets across the network. Port scanning methods involve techniques that employ packets with specially selected TCP flags to determine the targets OS, service versions and alert about the presence of a firewall or packet filtering methods. 
+
+![TCP Header Flags](../../.gitbook/assets/image%20%2817%29.png)
+
+## Transmission Control Protocol - TCP
+
+### TCP _"3-way"_ handshake
 
 Describes an interaction between two systems, often performing the roles of client and server in which the following exchange occurs: \(diagram from [Medium](https://cdn-images-1.medium.com/max/1600/1*n22QJMww4vGw_MrlZbysLg.png)\)
 
@@ -119,4 +139,18 @@ Describes an interaction between two systems, often performing the roles of clie
 3. ACK - Very well, let's consider this communication channel established, from now on, we will keep communicating this way
 
 _Synchronize, Acknowledge\*\*\*_ 
+
+### User Datagram Protocol - UDP
+
+Connection-less protocol used to transmit data in an unordered manner. Examples of appropriate use include low latency data transmission in audio & video calls.
+
+![UDP Header in Wireshark Packet Analyzer](../../.gitbook/assets/image%20%2815%29.png)
+
+#### UDP Header
+
+Includes Source and Destination Port since this is a much simpler protocol that lacks many of the reliable transmission features TCP offers. Since there is no sequencing of data it is appropriate for applications like voice over IP, video conference... etc. 
+
+Low-Latency applications are called as such because of their nature, the speed of the transmission and delivery of data is more important than its reliable transmission or even complete arrival. Think of when the video glitches/freezes green and the image in a video call comes back pixelated until it recovers and you can see your significant other clearly again. 
+
+
 
