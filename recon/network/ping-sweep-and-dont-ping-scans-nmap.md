@@ -4,7 +4,7 @@ description: >-
   host discovery)
 ---
 
-# Ping Sweep & Don't Ping - nmap
+# Ping Sweep & Don't Ping Scans - nmap
 
 ## `-sn` [\(No port scan\)](https://nmap.org/book/man-host-discovery.html)
 

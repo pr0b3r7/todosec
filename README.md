@@ -14,6 +14,7 @@ description: >-
   * [Open Source Intelligence](recon/osint/open-source-intelligence.md)
 * [Web](recon/web/)
 * [Network](recon/network/)
+  * [Ping Sweep & Don't Ping Scans- nmap](recon/network/ping-sweep-and-dont-ping-scans-nmap.md)
   * [Netcat/Ncat - WIP](recon/network/netcat-ncat-wip.md)
 
 ## Post-Exploitation

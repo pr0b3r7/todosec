@@ -9,7 +9,7 @@
 * [Web](recon/web/README.md)
   * [Web Recon](recon/web/web-recon.md)
 * [Network](recon/network/README.md)
-  * [Ping Sweep & Don't Ping - nmap](recon/network/ping-sweep-and-dont-ping-nmap.md)
+  * [Ping Sweep & Don't Ping Scans - nmap](recon/network/ping-sweep-and-dont-ping-scans-nmap.md)
   * [Netcat/Ncat - WIP](recon/network/netcat-ncat-wip.md)
 
 ## Post-Exploitation
