@@ -26,11 +26,11 @@ _\(layer - protocol data unit\*\)_
 * **Data Link** - FRAME - Provides error free transmission and access to the media - ARP, CDP, Ethernet, HDLC, IEEE 802.11 WLAN, LLDP , MPLS , SDN , PPP , UDLD... Physical Addressing of links
 * **Physical** - BIT - Physical structure - Coax, Fiber, Wireless, Repeaters... 
 
-![Transport - Layer 4 TLS 1.2 Segment in Wireshark Packet Analyzer](../../.gitbook/assets/image%20%2820%29.png)
+![Transport - Layer 4 TLS 1.2 Segment in Wireshark Packet Analyzer](../../.gitbook/assets/image%20%2826%29.png)
 
-![Network - Layer 3 Packet in Wireshark Packet Analyzer](../../.gitbook/assets/image%20%2814%29.png)
+![Network - Layer 3 Packet in Wireshark Packet Analyzer](../../.gitbook/assets/image%20%2816%29.png)
 
-![Data Link - Layer 2 Frame in Wireshark Packet Analyzer](../../.gitbook/assets/image%20%2812%29.png)
+![Data Link - Layer 2 Frame in Wireshark Packet Analyzer](../../.gitbook/assets/image%20%2814%29.png)
 
 #### \_\_[_Protocol data unit_](https://en.wikipedia.org/wiki/Protocol_data_unit)_\*\*\*_
 
@@ -90,7 +90,7 @@ Many different fields are defined in the packet header of an IPv4 packet. These 
 * Type-of-Service \(ToS\) - 8-bit binary value used to determine the priority of a packet
 * Protocol - 8-bit value indicating the data payload type that the packet is carrying
 
-![IP Packet Header](../../.gitbook/assets/image%20%2821%29.png)
+![IP Packet Header](../../.gitbook/assets/image%20%2829%29.png)
 
 Contains Source and Destination IP addresses in the packet as well as flags and Differentiated Services Field codes for Quality of Service purposes.
 
@@ -114,17 +114,17 @@ The Transmission Control Protocol \(TCP\) and the User Datagram Protocol \(UDP\)
 
 ### TCP Header
 
-![TCP Header in Wireshark Packet Analyzer](../../.gitbook/assets/image%20%2818%29.png)
+![TCP Header in Wireshark Packet Analyzer](../../.gitbook/assets/image%20%2822%29.png)
 
 Contains Source Port, Destination Port, TCP Flags and options as well as sequence and timestamp information used for TCP reliable transmission features as well as information regarding the size of the TCP payload.
 
-![Reliable transmission features use sequence numbers to maintain accountability of all the data sent](../../.gitbook/assets/image%20%2822%29.png)
+![Reliable transmission features use sequence numbers to maintain accountability of all the data sent](../../.gitbook/assets/image%20%2830%29.png)
 
 #### TCP Header Flags
 
 Responsible for the transmission and flow of packets across the network. Port scanning methods involve techniques that employ packets with specially selected TCP flags to determine the targets OS, service versions and alert about the presence of a firewall or packet filtering methods. 
 
-![TCP Header Flags](../../.gitbook/assets/image%20%2817%29.png)
+![TCP Header Flags](../../.gitbook/assets/image%20%2821%29.png)
 
 ## Transmission Control Protocol - TCP
 
@@ -134,17 +134,14 @@ Describes an interaction between two systems, often performing the roles of clie
 
 ![](../../.gitbook/assets/image%20%289%29.png)
 
-1. SYN - hey, are you available and willing to communicate? 
-2. SYN/ACK - yes, I am and would like to establish said communication.
-3. ACK - Very well, let's consider this communication channel established, from now on, we will keep communicating this way
-
-_Synchronize, Acknowledge\*\*\*_ 
+1. Client starts connection by sending packet with a SYN flag. This indicates to the server that the client wishes to start a connection
+2. Server responds with another packet that has both the SYN and ACK flags activated indicating to the client that it accepts the invitation to establish a connection. The sequence and acknowledge numbers increase and expected next numbers are included in packets.
 
 ### User Datagram Protocol - UDP
 
 Connection-less protocol used to transmit data in an unordered manner. Examples of appropriate use include low latency data transmission in audio & video calls.
 
-![UDP Header in Wireshark Packet Analyzer](../../.gitbook/assets/image%20%2815%29.png)
+![UDP Header in Wireshark Packet Analyzer](../../.gitbook/assets/image%20%2819%29.png)
 
 #### UDP Header
 
