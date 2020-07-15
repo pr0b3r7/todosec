@@ -41,24 +41,6 @@ _\(layer - protocol data unit\*\)_
 * Internet
 * Network Access
 
-Every machine has ports open as means to provide services to other machines in the network. 
-
-The Transmission Control Protocol \(TCP\) and the User Datagram Protocol \(UDP\) are two Transport Layer protocols that use port numbers that corresponding to services or applications communicating in said ports. These are two common but not the only Layer 4 \(transport\) protocols. 
-
- [Internet Assigned Numbers Authority](https://en.wikipedia.org/wiki/Internet_Assigned_Numbers_Authority) \(IANA\) maintains [port assignments.](top-1000-well-known-ports.md) 
-
-## TCP _"3-way"_ handshake
-
-Describes an interaction between two systems, often performing the roles of client and server in which the following exchange occurs: \(diagram from [Medium](https://cdn-images-1.medium.com/max/1600/1*n22QJMww4vGw_MrlZbysLg.png)\)
-
-![](../../.gitbook/assets/image%20%289%29.png)
-
-1. SYN - hey, are you available and willing to communicate? 
-2. SYN/ACK - yes, I am and would like to establish said communication.
-3. ACK - Very well, let's consider this communication channel established, from now on, we will keep communicating this way
-
-_Synchronize, Acknowledge\*\*\*_ 
-
 ## Network Layer
 
 Used for the transfer or flow of packets across the network. 
@@ -116,5 +98,25 @@ Some [statistics ](https://www.google.com/intl/en/ipv6/statistics.html)by google
 
 ![](../../.gitbook/assets/image%20%288%29.png)
 
+## Transport Layer
 
+Facilitates end-to-end connections that transmit data between hosts via the use of protocols like TCP and UDP
+
+Every machine has ports open as means to provide services to other machines in the network. 
+
+The Transmission Control Protocol \(TCP\) and the User Datagram Protocol \(UDP\) are two Transport Layer protocols that use port numbers that corresponding to services or applications communicating in said ports. These are two common but not the only Layer 4 \(transport\) protocols. 
+
+ [Internet Assigned Numbers Authority](https://en.wikipedia.org/wiki/Internet_Assigned_Numbers_Authority) \(IANA\) maintains [port assignments.](top-1000-well-known-ports.md) 
+
+## TCP _"3-way"_ handshake
+
+Describes an interaction between two systems, often performing the roles of client and server in which the following exchange occurs: \(diagram from [Medium](https://cdn-images-1.medium.com/max/1600/1*n22QJMww4vGw_MrlZbysLg.png)\)
+
+![](../../.gitbook/assets/image%20%289%29.png)
+
+1. SYN - hey, are you available and willing to communicate? 
+2. SYN/ACK - yes, I am and would like to establish said communication.
+3. ACK - Very well, let's consider this communication channel established, from now on, we will keep communicating this way
+
+_Synchronize, Acknowledge\*\*\*_ 
 
