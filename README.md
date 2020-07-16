@@ -136,14 +136,20 @@ description: >-
 
 ### [Python](code/code-python/)
 
-1. [forloop.py](code/code-python/forloop.py.md)
-2. [BackdoorClient.py](code/code-python/backdoorclient.py.md)
-3. [BackdoorServer.py](code/code-python/backdoorserver.py.md)
-4. [PortScanner.py](code/code-python/portscanner.py.md)
-5. [TcpClient.py](code/code-python/tcpclient.py.md)
-6. [TcpServer.py](code/code-python/tcpserver.py.md)
-7. [HttpGo-Getter.py](code/code-python/httpgo-getter.py.md)
-8. [HttpEnum-Client.py](code/code-python/httpenum-client.py.md)
+#### Language Fundamental Series
+
+[Python 2 vs Python 3 - WIP](code/code-python/language-fundamentals-series/python-2-vs-python-3-wip.md)
+
+[Scripts:](code/code-python/scripts/)
+
+1. [forloop.py](code/code-python/scripts/forloop.py.md)
+2. [BackdoorClient.py](code/code-python/scripts/backdoorclient.py.md)
+3. [BackdoorServer.py](code/code-python/scripts/backdoorserver.py.md)
+4. [PortScanner.py](code/code-python/scripts/portscanner.py.md)
+5. [TcpClient.py](code/code-python/scripts/tcpclient.py.md)
+6. [TcpServer.py](code/code-python/scripts/tcpserver.py.md)
+7. [HttpGo-Getter.py](code/code-python/scripts/httpgo-getter.py.md)
+8. [HttpEnum-Client.py](code/code-python/scripts/httpenum-client.py.md)
 
 ### [Powershell](code/code-powershell.md)
 
