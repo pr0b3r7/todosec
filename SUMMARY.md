@@ -139,6 +139,8 @@
   * [Ping Sweeping with Bash](code/code-bash/ping-sweeping-with-bash.md)
   * [wip-W1nn13PwnWifi.sh](code/code-bash/wip-w1nn13pwnwifi.sh.md)
 * [Python](code/code-python/README.md)
+  * [Language Fundamentals Series](code/code-python/language-fundamentals-series/README.md)
+    * [Python 2 vs Python 3 - WIP](code/code-python/language-fundamentals-series/python-2-vs-python-3-wip.md)
   * [forloop.py](code/code-python/forloop.py.md)
   * [BackdoorClient.py](code/code-python/backdoorclient.py.md)
   * [BackdoorServer.py](code/code-python/backdoorserver.py.md)
