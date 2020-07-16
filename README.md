@@ -6,7 +6,7 @@ description: >-
 
 # Table of contents
 
-![](.gitbook/assets/image%20%287%29.png)
+![todo&#x2022;Sec](.gitbook/assets/image%20%287%29.png)
 
 ## Recon
 
@@ -136,13 +136,13 @@ description: >-
 
 ### [Python](code/code-python/)
 
-#### Language Fundamental Series
+#### [Language Fundamental Series](code/code-python/language-fundamentals-series/)
 
-[Python 2 vs Python 3 - WIP](code/code-python/language-fundamentals-series/python-2-vs-python-3-wip.md)
+1. [Python 2 vs Python 3 - WIP](code/code-python/language-fundamentals-series/python-2-vs-python-3-wip.md)
 
-[Scripts:](code/code-python/scripts/)
+#### \*\*\*\*[**Scripts:**](code/code-python/scripts/)\*\*\*\*
 
-1. [forloop.py](code/code-python/scripts/forloop.py.md)
+1. \*\*\*\*[forloop.py](code/code-python/scripts/forloop.py.md)
 2. [BackdoorClient.py](code/code-python/scripts/backdoorclient.py.md)
 3. [BackdoorServer.py](code/code-python/scripts/backdoorserver.py.md)
 4. [PortScanner.py](code/code-python/scripts/portscanner.py.md)
