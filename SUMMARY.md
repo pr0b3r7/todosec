@@ -149,7 +149,8 @@
     * [HttpGo-Getter.py](code/code-python/scripts/httpgo-getter.py.md)
     * [HttpEnum-Client.py](code/code-python/scripts/httpenum-client.py.md)
   * [Language Fundamentals Series](code/code-python/language-fundamentals-series/README.md)
-    * [Python 2 vs Python 3 - WIP](code/code-python/language-fundamentals-series/python-2-vs-python-3-wip.md)
+    * [Python 2 vs Python 3](code/code-python/language-fundamentals-series/python-2-vs-python-3-wip/README.md)
+      * [Python2and3code.py](code/code-python/language-fundamentals-series/python-2-vs-python-3-wip/python2and3code.py.md)
 * [Powershell](code/code-powershell.md)
 
 ## Bookmarks

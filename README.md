@@ -138,7 +138,7 @@ description: >-
 
 #### [Language Fundamental Series](code/code-python/language-fundamentals-series/)
 
-1. [Python 2 vs Python 3 - WIP](code/code-python/language-fundamentals-series/python-2-vs-python-3-wip.md)
+1. [Python 2 vs Python 3 - WIP](code/code-python/language-fundamentals-series/python-2-vs-python-3-wip/)
 
 #### \*\*\*\*[**Scripts:**](code/code-python/scripts/)\*\*\*\*
 
