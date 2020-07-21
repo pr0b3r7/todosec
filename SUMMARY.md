@@ -100,6 +100,7 @@
 ## Network Infrastructure
 
 * [Network Fundamentals](network-infrastructure/network-fundamentals/README.md)
+  * [DHCP](network-infrastructure/network-fundamentals/dhcp.md)
   * [Top 1000 Well Known Ports](network-infrastructure/network-fundamentals/top-1000-well-known-ports.md)
   * [Zone-Based Policy Firewall \(also known as Zone-Policy Firewall, or ZFW\)](network-infrastructure/network-fundamentals/zone-based-policy-firewall-also-known-as-zone-policy-firewall-or-zfw.md)
 * [macOS](network-infrastructure/macos/README.md)
@@ -122,6 +123,7 @@
 ## Boxes
 
 * [Vulnhub](boxes/vulnhub/README.md)
+  * [OSCP Giveaway](boxes/vulnhub/oscp-giveaway.md)
   * [OSCP \(TJNull's\)](boxes/vulnhub/oscp-tjnull/README.md)
     * [First Box](boxes/vulnhub/oscp-tjnull/first-box.md)
   * [OSWE \(TJNull's\)](boxes/vulnhub/oswe-tjnulls/README.md)

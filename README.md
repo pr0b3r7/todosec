@@ -118,8 +118,9 @@ description: >-
 
 ### [Vulnhub](boxes/vulnhub/)
 
-1. [OSCP \(TJNull's\)](boxes/vulnhub/oscp-tjnull/)
-2. [OSWE \(TJNull's\)](boxes/vulnhub/oswe-tjnulls/)
+1. [OSCP Giveaway](boxes/vulnhub/oscp-giveaway.md)
+2. [OSCP \(TJNull's\)](boxes/vulnhub/oscp-tjnull/)
+3. [OSWE \(TJNull's\)](boxes/vulnhub/oswe-tjnulls/)
 
 ### [HTB](boxes/htb/)
 
@@ -139,6 +140,7 @@ description: >-
 #### [Language Fundamental Series](code/code-python/language-fundamentals-series/)
 
 1. [Python 2 vs Python 3](code/code-python/language-fundamentals-series/python-2-vs-python-3-wip/)
+   1. [Python2and3code.py](code/code-python/language-fundamentals-series/python-2-vs-python-3-wip/python2and3code.py.md)
 
 #### \*\*\*\*[**Scripts:**](code/code-python/scripts/)\*\*\*\*
 
