@@ -2,7 +2,7 @@
 description: Dynamic Host Configuration Protocol
 ---
 
-# DHCP
+# DHCP - wip
 
 DHCP is a protocol that allows us to leverage TCP connections to automatically obtain network configuration parameters automatically through the network. 
 
