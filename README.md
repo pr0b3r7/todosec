@@ -6,7 +6,11 @@ description: >-
 
 # Table of contents
 
-![todo&#x2022;Sec](.gitbook/assets/image%20%287%29.png)
+## 
+
+
+
+![todo&#x2022;Sec](.gitbook/assets/optimizedtodoseclogo3.png)
 
 ## Recon
 
