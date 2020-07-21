@@ -4,9 +4,7 @@ description: >-
   OSCE
 ---
 
-# Table of contents
-
-![todo&#x2022;Sec](.gitbook/assets/resizedlogo3todosec.png)
+# Welcome to todo•Sec - Table of contents
 
 ## Recon
 
