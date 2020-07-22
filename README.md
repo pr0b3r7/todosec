@@ -11,6 +11,8 @@ description: >-
 * [OSINT](recon/osint/)
   * [Open Source Intelligence](recon/osint/open-source-intelligence.md)
 * [Web](recon/web/)
+  * [OWASP Top 10](recon/web/owasp-top-10.md)
+  * [Web Recon](recon/web/web-recon.md)
 * [Network](recon/network/)
   * [Ping Sweep & Don't Ping Scans - nmap](recon/network/ping-sweep-and-dont-ping-scans-nmap.md)
   * [Netcat/Ncat - WIP](recon/network/netcat-ncat-wip.md)
