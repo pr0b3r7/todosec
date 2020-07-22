@@ -10,11 +10,11 @@ description: >-
 
 ## A1:2017 - Injection
 
-Injection flaws such as SQL, NoSQL, OS or LDAP occur when non trustworthy data is sent to an interpreter, as part of a command or query. The malign data may manipulate the interpreter into executing arbitrary logic or provide access to resources without using the appropriate authentication mechanisms.
+Injection flaws such as SQL, NoSQL, OS, or LDAP occur when non trustworthy data is sent to an interpreter, as part of a command or query. The malign data may manipulate the interpreter into executing arbitrary logic or provide access to resources without using the appropriate authentication mechanisms.
 
 ## A2:2017 - Broken Authentication
 
-Functions in the application related to authentication and management of sessions are implemented wrongly, allowing a malicious user to compromise the username and passwords, session tokens, or exploiting other flaws in the implementation to assume the identity of other users \(may that be permanent or temporarily\).
+Functions in the application related to authentication and management of sessions are implemented wrongly, allowing a malicious user to compromise the username and passwords, session tokens, or exploiting other flaws in the implementation to assume the identity of other users \(may that be permanent or temporary\).
 
 ## A3:2017 - Sensitive Data Exposure
 
@@ -22,7 +22,7 @@ Many web applications and [Application Programmable Interfaces \(APIs\)](https:/
 
 ## A4:2017 - External XML Entities \(XXE\)
 
-Many legacy or misconfigured XML processors evaluate references to external entities in XML documents. These external entities may be used to reveal internal files through the [URI \(Uniform Resource Identifiers\)](https://www.iana.org/assignments/uri-schemes/uri-schemes.xhtml) or in outdated servers, perform port-scanning in their LAN, remote arbitrary code execution and perform Denial of Service \(DoS\) attacks.
+Many legacy or misconfigured XML processors evaluate references to external entities in XML documents. These external entities may be used to reveal internal files through the [URI \(Uniform Resource Identifiers\)](https://www.iana.org/assignments/uri-schemes/uri-schemes.xhtml) or in outdated servers, perform port-scanning in their LAN, remote arbitrary code execution, and perform Denial of Service \(DoS\) attacks.
 
 ## A5:2017 - Broken Access Control _\(A4:2013 - Insecure Direct Object References + A7:2013 - Missing Function Level Access Control\)_
 
