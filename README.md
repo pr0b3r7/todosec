@@ -1,7 +1,7 @@
 ---
 description: >-
   Methodology notes, Boxes and Tutorials to prepare for eCPPT, OSCP, OSWE and
-  OSCE
+  CCNP Enterprise Core
 ---
 
 # Welcome to todo•Sec - Table of contents

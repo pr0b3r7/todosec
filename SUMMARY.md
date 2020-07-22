@@ -7,6 +7,7 @@
 * [OSINT](recon/osint/README.md)
   * [Open Source Intelligence](recon/osint/open-source-intelligence.md)
 * [Web](recon/web/README.md)
+  * [OWASP TOP 10](recon/web/owasp-top-10.md)
   * [Web Recon](recon/web/web-recon.md)
 * [Network](recon/network/README.md)
   * [Ping Sweep & Don't Ping Scans - nmap](recon/network/ping-sweep-and-dont-ping-scans-nmap.md)
