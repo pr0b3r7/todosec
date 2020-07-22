@@ -99,7 +99,7 @@ description: >-
 ## Network Infrastructure
 
 * [Network Fundamentals](network-infrastructure/network-fundamentals/)
-  * [DHCP - wip](network-infrastructure/network-fundamentals/dhcp.md)
+  * [DHCP Essentials](network-infrastructure/network-fundamentals/dhcp.md)
   * [Top 1000 Well Known Ports](network-infrastructure/network-fundamentals/top-1000-well-known-ports.md)
   * [Zone-Based Policy Firewall \(also known as Zone-Policy Firewall, or ZFW\)](network-infrastructure/network-fundamentals/zone-based-policy-firewall-also-known-as-zone-policy-firewall-or-zfw.md)
 * [macOS](network-infrastructure/macos/)
