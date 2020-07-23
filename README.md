@@ -159,7 +159,7 @@ description: >-
 
 #### Bookmarks
 
-1. [883 Lines of Bookmarks](bookmarks/883-lines-of-bookmarks.md)
+1. [883 Lines of Bookmarks](almost-1k-bookmarks.md)
 
 ```bash
 in case:

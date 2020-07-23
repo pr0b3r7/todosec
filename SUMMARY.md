@@ -147,11 +147,8 @@
     * [Linux Basic Networking](network-and-systems/topics/linux/linux-basic-networking.md)
     * [Basics of CLI, Services in Kali \(SSH\) and how to change your motd \(Banner\)](network-and-systems/topics/linux/basics-of-cli-services-in-kali-ssh.md)
 
-## Bookmarks
-
-* [883 Lines of Bookmarks](bookmarks/883-lines-of-bookmarks.md)
-
 ---
 
-* [LinkedIn](https://linkedin.com/in/pimentelrobert1)
+* [Almost 1K Bookmarks](almost-1k-bookmarks.md)
+* [LinkedIn-About Me-Contact](https://linkedin.com/in/pimentelrobert1)
 
