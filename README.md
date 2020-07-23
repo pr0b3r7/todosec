@@ -157,10 +157,6 @@ description: >-
 
 #### [Powershell](network-and-systems/topics/code/code-powershell.md)
 
-#### Bookmarks
-
-1. [883 Lines of Bookmarks]()
-
 ```bash
 in case:
     you(want-to).{
