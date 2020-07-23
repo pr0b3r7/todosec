@@ -4,9 +4,9 @@ description: >-
   CCNP Enterprise Core
 ---
 
-# TODO•SEC
+# Contents
 
-## [Table of contents](https://www.todosec.com/) - [LinkedIn](https://linkedin.com/in/pimentelrobert1) - [Github](https://github.com/pr0b3r7)
+## [Contents](https://www.todosec.com/) - [LinkedIn](https://linkedin.com/in/pimentelrobert1) - [Github](https://github.com/pr0b3r7)
 
 ### Recon
 
