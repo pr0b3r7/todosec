@@ -28,7 +28,7 @@ To perform a Ping Sweep we can employ nmap:
 nmap -sn 200.200.200.0/24
 ```
 
-![](../../.gitbook/assets/image%20%2827%29.png)
+![](../../../.gitbook/assets/image%20%2827%29.png)
 
 #### Misc Scanning Syntax:
 
@@ -62,14 +62,14 @@ nmap -sn -iL hosts.txt
 nmap -Pn 200.200.200.129
 ```
 
-![Pay attention to the Open and filtered ports](../../.gitbook/assets/image%20%2818%29.png)
+![Pay attention to the Open and filtered ports](../../../.gitbook/assets/image%20%2818%29.png)
 
-![This is how nmap determines a port to be open or filtered:](../../.gitbook/assets/image%20%2828%29.png)
+![This is how nmap determines a port to be open or filtered:](../../../.gitbook/assets/image%20%2828%29.png)
 
 
 
 1. If the host being scanned on 53/TCP responds with a SYN,ACK, the port is considered open, in this case DNS - 53/TCP. 
 2. If the host being scanned does not respond to the SYN, the port is considered closed.
 
-![](../../.gitbook/assets/image%20%2813%29.png)
+![](../../../.gitbook/assets/image%20%2813%29.png)
 

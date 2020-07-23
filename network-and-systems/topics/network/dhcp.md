@@ -62,7 +62,7 @@ Other DHCP Messages include:
 * DHCPINFORM
 * DHCPRELEASE
 
-![Other DHCP messages](../../.gitbook/assets/image%20%2860%29.png)
+![Other DHCP messages](../../../.gitbook/assets/image%20%2860%29.png)
 
 #### DHCP Packet
 

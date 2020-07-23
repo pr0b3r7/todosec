@@ -6,7 +6,7 @@ description: >-
 
 # OWASP TOP 10
 
-![Minimize these risks to reduce web application vulnerabilities](../../.gitbook/assets/image%20%2859%29.png)
+![Minimize these risks to reduce web application vulnerabilities](../../../.gitbook/assets/image%20%2859%29.png)
 
 ## A1:2017 - Injection
 

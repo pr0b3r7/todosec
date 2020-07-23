@@ -12,7 +12,7 @@ Each interface in this network will be assigned to its own zone, although you mi
 
 ####  **Figure 1: Basic Security Zone Topology**
 
-![](../../.gitbook/assets/image%20%2810%29.png)
+![](../../../.gitbook/assets/image%20%2810%29.png)
 
 In this example, each zone holds only one interface. If an additional interface is added to the private zone, the hosts connected to the new interface in the zone can pass traffic to all hosts on the existing interface in the same zone. Additionally, the hosts’ traffic to hosts in other zones is similarly affected by existing policies.
 

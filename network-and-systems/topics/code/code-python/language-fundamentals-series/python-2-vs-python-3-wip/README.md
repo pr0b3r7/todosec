@@ -16,19 +16,19 @@ description: >-
 
 print is a _statement_
 
-![](../../../../../.gitbook/assets/image%20%2833%29.png)
+![](../../../../../../.gitbook/assets/image%20%2833%29.png)
 
 **In Python 3:** 
 
 print is a _function_
 
-![Functions need parenthesis around the arguments we&apos;re passing them](../../../../../.gitbook/assets/image%20%2831%29.png)
+![Functions need parenthesis around the arguments we&apos;re passing them](../../../../../../.gitbook/assets/image%20%2831%29.png)
 
 **In Python 2:** 
 
 If we were to wrap our string in parenthesis it would print without issues... **But**...
 
-![It would also print without issues... But..](../../../../../.gitbook/assets/image%20%2834%29.png)
+![It would also print without issues... But..](../../../../../../.gitbook/assets/image%20%2834%29.png)
 
 ### Why?
 
@@ -40,19 +40,19 @@ Because 'hello' in **Python 2** would be a **tuple** of a single object.
 
 **In Python 2:** will just convert this back to a string
 
-![It converts it to a string because it is a single object tuple](../../../../../.gitbook/assets/image%20%2836%29.png)
+![It converts it to a string because it is a single object tuple](../../../../../../.gitbook/assets/image%20%2836%29.png)
 
 If we were to add a second object, it would be kept as a tuple after hitting enter
 
-![This time the tuple was not transformed to a string](../../../../../.gitbook/assets/image%20%2841%29.png)
+![This time the tuple was not transformed to a string](../../../../../../.gitbook/assets/image%20%2841%29.png)
 
 This is not the behavior that would be observed **In Python 3**:
 
-![In Python 3 print is a function and needs to have arguments passed in \(\)](../../../../../.gitbook/assets/image%20%2840%29.png)
+![In Python 3 print is a function and needs to have arguments passed in \(\)](../../../../../../.gitbook/assets/image%20%2840%29.png)
 
 Since print is a **function in Python 3**, the arguments would be passed to print\(\) function and they would be printed as expected
 
-![print is a function in Python 3 and arguments are passed to print\(\)](../../../../../.gitbook/assets/image%20%2845%29.png)
+![print is a function in Python 3 and arguments are passed to print\(\)](../../../../../../.gitbook/assets/image%20%2845%29.png)
 
 If we want our scripts to run i**n Python 2** and i**n Python 3**, we would want _common operations_ such as print to run in both versions. 
 
@@ -84,19 +84,19 @@ First, we import it from \_\_future\_\_:
 
 `from __future__ import print_function`
 
-![print function behaves like in Python 3](../../../../../.gitbook/assets/image%20%2848%29.png)
+![print function behaves like in Python 3](../../../../../../.gitbook/assets/image%20%2848%29.png)
 
 Now if after importing print\_function from \_\_future\_\_ we attempted to use the print function, it will never behave like a statement again which is the **native Python 2 behavior**
 
-![Just as in Python 3, print&quot;hello&quot;, errors out. See below](../../../../../.gitbook/assets/image%20%2854%29.png)
+![Just as in Python 3, print&quot;hello&quot;, errors out. See below](../../../../../../.gitbook/assets/image%20%2854%29.png)
 
-![](../../../../../.gitbook/assets/image%20%2857%29.png)
+![](../../../../../../.gitbook/assets/image%20%2857%29.png)
 
 **In Python 3:** if we were to import print\_function from [\_\_future\_\_](https://docs.python.org/3/library/__future__.html)
 
 _from \_\_future\_\_ import print\_function_ it would just ignore it. 
 
-![](../../../../../.gitbook/assets/image%20%2844%29.png)
+![](../../../../../../.gitbook/assets/image%20%2844%29.png)
 
 Nothing changes in the behavior of Python 3 by importing the print function from \__\_future\_\__
 
@@ -104,23 +104,23 @@ Nothing changes in the behavior of Python 3 by importing the print function from
 
 In Python 2, floor division drops the remainder and returns only a whole number.
 
-![](../../../../../.gitbook/assets/image%20%2843%29.png)
+![](../../../../../../.gitbook/assets/image%20%2843%29.png)
 
 Python 2 thinks that you are dividing an integer by an integer, and that you probably want and integer back and drops the remainder.
 
 If, instead, we were to provide one of the numbers as a float, the returned result would be a float too.
 
-![A floating point number aka &quot;float&quot;, is a number that includes decimal portion.](../../../../../.gitbook/assets/image%20%2842%29.png)
+![A floating point number aka &quot;float&quot;, is a number that includes decimal portion.](../../../../../../.gitbook/assets/image%20%2842%29.png)
 
 Again, if we wanted to have Python 2 behave like Python 3, we may import the **division \_\_future\_\_** module
 
-![We import division from \_\_future\_\_](../../../../../.gitbook/assets/image%20%2855%29.png)
+![We import division from \_\_future\_\_](../../../../../../.gitbook/assets/image%20%2855%29.png)
 
 After importing the **division** module from **\_\_future\_\_** and performing a division that would yield a remainder we can observe that **Python 2** is outputting the expected remainder
 
 Additionally, we can observe that if we escape the / \(backslash\) we may receive the output without the remainder again. 
 
-![we may use double slash &apos;//&apos; and receive the truncated remainder output](../../../../../.gitbook/assets/image%20%2851%29.png)
+![we may use double slash &apos;//&apos; and receive the truncated remainder output](../../../../../../.gitbook/assets/image%20%2851%29.png)
 
 Why would we want to do this? Convenience, sometimes you would want to get one output or the other
 
@@ -128,7 +128,7 @@ To provide our Python 2 scripts with some forward compatibility, we may use the 
 
 _`from __future__ import absolute_import, division, print_function`_``
 
-![](../../../../../.gitbook/assets/image%20%2856%29.png)
+![](../../../../../../.gitbook/assets/image%20%2856%29.png)
 
 ## Input Function
 
@@ -136,19 +136,19 @@ If I wanted to get input from an user, assigning it to variable X:
 
 We may prompt the user to type something:
 
-![we would get a name error saying that &quot;hello&quot; is not defined](../../../../../.gitbook/assets/image%20%2858%29.png)
+![we would get a name error saying that &quot;hello&quot; is not defined](../../../../../../.gitbook/assets/image%20%2858%29.png)
 
 The error is letting us know that that python does not have any objects named "hello"
 
 If now, in contrast we do create an object called hello and assign it the value 242
 
-![The value we initialized \(242\) and assigned to hello is now &quot;x&quot;](../../../../../.gitbook/assets/image%20%2850%29.png)
+![The value we initialized \(242\) and assigned to hello is now &quot;x&quot;](../../../../../../.gitbook/assets/image%20%2850%29.png)
 
 This time we get no error because hello has been previously defined
 
 It would not be uncommon to think that x = hello right?
 
-![](../../../../../.gitbook/assets/image%20%2849%29.png)
+![](../../../../../../.gitbook/assets/image%20%2849%29.png)
 
 No. Why? Because it assigned to X the value of the hello object we had previously created
 
@@ -160,21 +160,21 @@ The raw\_input function helps us in this case. Fixes the issue because using raw
 
 and I check the value of x, it is being assigned to what I typed. 
 
-![This is typically what you want.](../../../../../.gitbook/assets/image%20%2846%29.png)
+![This is typically what you want.](../../../../../../.gitbook/assets/image%20%2846%29.png)
 
 **In Python 3:**
 
-![The behavior raw\_input would have in Python 2 is default in Python 3](../../../../../.gitbook/assets/image%20%2852%29.png)
+![The behavior raw\_input would have in Python 2 is default in Python 3](../../../../../../.gitbook/assets/image%20%2852%29.png)
 
 In Python 3: the functions of raw\_input are performed by input. raw\_input does not exist in Python 3.
 
-![raw\_input does not exist in Python 3.](../../../../../.gitbook/assets/image%20%2853%29.png)
+![raw\_input does not exist in Python 3.](../../../../../../.gitbook/assets/image%20%2853%29.png)
 
 ## How to run a script that works consistently on both versions
 
 We may leverage the fact that raw\_input creates an error in python 3 and we can tell it to try raw input and catch the exception and NameError, use input function instead.
 
-![Attempt to use raw\_input, otherwise, in case of NameError use input\(\)](../../../../../.gitbook/assets/image%20%2847%29.png)
+![Attempt to use raw\_input, otherwise, in case of NameError use input\(\)](../../../../../../.gitbook/assets/image%20%2847%29.png)
 
 #### The following snippet was tested on Python 2.7 and Python 3.8 and demonstrate this concept:
 
