@@ -1,6 +1,6 @@
 # Table of contents
 
-* [todo•Sec - Table of contents - LinkedIn- Github](README.md)
+* [TODO•SEC](README.md)
 
 ## InfoSec
 
