@@ -4,7 +4,7 @@ description: >-
   CCNP Enterprise Core
 ---
 
-# todo•Sec
+# Table of contents - Github - LinkedIn
 
 ## [Table of contents](https://www.todosec.com/) - [LinkedIn](https://linkedin.com/in/pimentelrobert1) - [Github](https://github.com/pr0b3r7)
 

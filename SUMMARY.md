@@ -1,6 +1,6 @@
 # Table of contents
 
-* [todo•Sec](README.md)
+* [Table of contents - Github - LinkedIn](README.md)
 
 ## InfoSec
 
@@ -150,5 +150,5 @@
 ---
 
 * [Almost 1K Bookmarks](almost-1k-bookmarks.md)
-* [LinkedIn-About Me-Contact](https://linkedin.com/in/pimentelrobert1)
+* [LinkedIn](https://linkedin.com/in/pimentelrobert1)
 
