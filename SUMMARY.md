@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome to todo•Sec - Table of contents](README.md)
+* [todo•Sec](README.md)
 
 ## InfoSec
 

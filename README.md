@@ -4,9 +4,11 @@ description: >-
   CCNP Enterprise Core
 ---
 
-# Welcome to todo•Sec - Table of contents
+# todo•Sec
 
-## Recon
+## [Table of contents](https://www.todosec.com/) - [LinkedIn](https://linkedin.com/in/pimentelrobert1) - [Github](https://github.com/pr0b3r7)
+
+### Recon
 
 * [OSINT](infosec/topics/osint/)
   * [Open Source Intelligence](infosec/topics/osint/open-source-intelligence.md)
@@ -18,7 +20,7 @@ description: >-
   * [Ping Sweep & Don't Ping Scans - nmap](infosec/topics/network-sec/ping-sweep-and-dont-ping-scans-nmap.md)
   * [Netcat/Ncat - WIP](infosec/topics/network-sec/netcat-ncat-wip.md)
 
-## Post-Exploitation
+### Post-Exploitation
 
 * [macOS](infosec/topics/post-exploitation/macos/)
   * [C2](infosec/topics/post-exploitation/macos/c2.md)
@@ -85,19 +87,19 @@ description: >-
   * [Persistence](infosec/topics/post-exploitation/aws/persistence.md)
   * [Privilege Escalation](infosec/topics/post-exploitation/aws/privilege-escalation.md)
 
-## Controls
+### Controls
 
 * [Linux](infosec/topics/controls/linux/)
 * [macOS](infosec/topics/controls/macos/)
 * [Windows](infosec/topics/controls/windows/)
 
-## Infrastructure
+### Infrastructure
 
 * [Defensive/BLUE](infosec/topics/infrastructure/defensive-blue/)
   * [Linux Logs](infosec/topics/infrastructure/defensive-blue/linux-logs.md)
 * [Offensive/RED](infosec/topics/infrastructure/offensive-red/)
 
-## Network Infrastructure
+### Network Infrastructure
 
 * [Network Fundamentals](network-and-systems/topics/network/)
   * [DHCP Essentials](network-and-systems/topics/network/dhcp.md)
@@ -116,30 +118,28 @@ description: >-
   * [300-410 ENARSI: Implementing Cisco Enterprise Advanced Routing and Services](network-and-systems/topics/network/routing-and-switching/300-410-enarsi-implementing-cisco-enterprise-advanced-routing-and-services.md)
   * [300-415 ENSDWI: Implementing Cisco SD-WAN Solutions](network-and-systems/topics/network/routing-and-switching/300-415-ensdwi-implementing-cisco-sd-wan-solutions.md)
 
-## Boxes
+### Boxes
 
-### [Vulnhub](infosec/topics/boxes/vulnhub/)
+#### [Vulnhub](infosec/topics/boxes/vulnhub/)
 
 1. [OSCP Giveaway](infosec/topics/boxes/vulnhub/oscp-giveaway.md)
 2. [OSCP \(TJNull's\)](infosec/topics/boxes/vulnhub/oscp-tjnull/)
 3. [OSWE \(TJNull's\)](infosec/topics/boxes/vulnhub/oswe-tjnulls/)
 
-### [HTB](infosec/topics/boxes/htb/)
+#### [HTB](infosec/topics/boxes/htb/)
 
 1. [OSCP \(TJNull's\)](infosec/topics/boxes/htb/htb-oscp--tjnull/)
 2. [OSWE \(TJNull's\)](infosec/topics/boxes/htb/htb-oswe-tjnull/)
 
-## Programming
+### Programming
 
-### [Bash](network-and-systems/topics/code/code-bash/)
+#### [Bash](network-and-systems/topics/code/code-bash/)
 
 1. [wip-W1nn13PwnWifi.sh](network-and-systems/topics/code/code-bash/wip-w1nn13pwnwifi.sh.md)
 2. [Basic Examples of Bash Scripting](network-and-systems/topics/code/code-bash/basic-examples-of-bash-scripting.md)
 3. [Ping sweeping with Bash](network-and-systems/topics/code/code-bash/ping-sweeping-with-bash.md)
 
-### [Python](network-and-systems/topics/code/code-python/)
-
-#### [Language Fundamental Series](network-and-systems/topics/code/code-python/language-fundamentals-series/)
+#### [Python](network-and-systems/topics/code/code-python/)
 
 1. [Python 2 vs Python 3](network-and-systems/topics/code/code-python/language-fundamentals-series/python-2-vs-python-3-wip/)
    1. [Python2and3code.py](network-and-systems/topics/code/code-python/language-fundamentals-series/python-2-vs-python-3-wip/python2and3code.py.md)
@@ -155,9 +155,9 @@ description: >-
 7. [HttpGo-Getter.py](network-and-systems/topics/code/code-python/scripts/httpgo-getter.py.md)
 8. [HttpEnum-Client.py](network-and-systems/topics/code/code-python/scripts/httpenum-client.py.md)
 
-### [Powershell](network-and-systems/topics/code/code-powershell.md)
+#### [Powershell](network-and-systems/topics/code/code-powershell.md)
 
-### Bookmarks
+#### Bookmarks
 
 1. [883 Lines of Bookmarks](bookmarks/883-lines-of-bookmarks.md)
 
@@ -180,8 +180,4 @@ Robert Pimentel
   \||/
    \/
 ```
-
-## [LinkedIn](https://linkedin.com/in/pimentelrobert1)
-
-## [Github](https://github.com/pr0b3r7)
 
