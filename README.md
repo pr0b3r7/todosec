@@ -4,7 +4,7 @@ description: >-
   CCNP Enterprise Core
 ---
 
-# Table of contents - Github - LinkedIn
+# Table of contents - LinkedIn- Github
 
 ## [Table of contents](https://www.todosec.com/) - [LinkedIn](https://linkedin.com/in/pimentelrobert1) - [Github](https://github.com/pr0b3r7)
 
@@ -159,7 +159,7 @@ description: >-
 
 #### Bookmarks
 
-1. [883 Lines of Bookmarks](almost-1k-bookmarks.md)
+1. [883 Lines of Bookmarks]()
 
 ```bash
 in case:

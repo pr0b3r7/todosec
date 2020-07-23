@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Table of contents - Github - LinkedIn](README.md)
+* [Table of contents - LinkedIn- Github](README.md)
 
 ## InfoSec
 
@@ -146,9 +146,4 @@
   * [Linux](network-and-systems/topics/linux/README.md)
     * [Linux Basic Networking](network-and-systems/topics/linux/linux-basic-networking.md)
     * [Basics of CLI, Services in Kali \(SSH\) and how to change your motd \(Banner\)](network-and-systems/topics/linux/basics-of-cli-services-in-kali-ssh.md)
-
----
-
-* [Almost 1K Bookmarks](almost-1k-bookmarks.md)
-* [LinkedIn](https://linkedin.com/in/pimentelrobert1)
 
