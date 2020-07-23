@@ -4,7 +4,7 @@ description: >-
   outline some topics to structure/guide our study with
 ---
 
-# Network Fundamentals
+# Network
 
 ## OSI Model - Open Systems Interconnection Model
 
