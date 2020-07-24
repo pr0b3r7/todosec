@@ -11,7 +11,7 @@
 * [Web](infosec/topics/recon/web/)
   * [OWASP Top 10](infosec/topics/recon/web/owasp-top-10.md)
   * [Web Recon](infosec/topics/recon/web/web-recon.md)
-* 
+
 ### [Post-Exploitation](infosec/topics/post-exploitation/)
 
 * [macOS](infosec/topics/post-exploitation/macos/)
