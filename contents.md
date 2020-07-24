@@ -200,4 +200,6 @@ Robert Pimentel
 * Lightweight Directory Access Protocol \(LDAP\), _made_ to be queried. Sessions are started on 389/TCP connecting to DSA \(Directory System Agent\). Request queries the hierarchical/logical structure in LDAP DB and returns a BER \(Basic Encoding Rules\) answer. usernames, domain info, addresses and phone numbers as well as organizational data. Softerra, JXplorer, Lex, LDAP Admin Tool, AD MS. 
 * SNMP - community strings as passwords. Read-only version of the community string allows read over a wide surface of information. Read-write controls access for SNMP SET requests. 
 * NETBIOS - MS Windows - TCP; nbstat provides enumeration vector - code and types
+* Banner grabbing - methods
+* SIDs, domain/computer indicator, RID. Windows password storage; Linux UID, GID simmilarities and differences with MS Windows SIDs and RIDs. 
 
