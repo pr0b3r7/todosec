@@ -1,6 +1,6 @@
 # Table of contents
 
-* [TODO•SEC Home](README.md)
+* [Disclaimer:](README.md)
 * [Contents](contents.md)
 
 ## InfoSec
