@@ -1,10 +1,10 @@
 ---
 description: >-
-  You shall not test the security mechanisms of any systems you do not own or
-  have explicit permission to.
+  Disclaimer: You shall not test the security mechanisms of any systems you do
+  not own or have explicit permission to.
 ---
 
-# Home - Disclaimer:
+# Home
 
 ![TODO&#x2022;SEC](.gitbook/assets/resizedlogo3todosec.png)
 
