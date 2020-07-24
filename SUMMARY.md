@@ -95,7 +95,7 @@
   * [Network Security](infosec/topics/network-sec/README.md)
     * [nmap](infosec/topics/network-sec/nmap.md)
     * [Ping Sweep & Don't Ping Scans - nmap](infosec/topics/network-sec/ping-sweep-and-dont-ping-scans-nmap.md)
-    * [Netcat/Ncat - WIP](infosec/topics/network-sec/netcat-ncat-wip.md)
+    * [Netcat/Ncat](infosec/topics/network-sec/netcat-ncat-wip.md)
   * [Boxes](infosec/topics/boxes/README.md)
     * [Vulnhub](infosec/topics/boxes/vulnhub/README.md)
       * [OSCP Giveaway](infosec/topics/boxes/vulnhub/oscp-giveaway.md)

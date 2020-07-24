@@ -4,7 +4,7 @@ description: >-
   on local machine | REVERSE SHELL Section in development
 ---
 
-# Netcat/Ncat - WIP
+# Netcat/Ncat
 
 #### This tool allows us to bind to a given port of a given IP address. It is of help when trying to send files between machines, developing exploit payloads that would serve a backdoor on a target.
 
