@@ -4,7 +4,7 @@ description: >-
   have explicit permission to.
 ---
 
-# Disclaimer:
+# Home - Disclaimer:
 
 ![TODO&#x2022;SEC](.gitbook/assets/resizedlogo3todosec.png)
 
