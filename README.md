@@ -18,3 +18,9 @@ For 2021, I hope to prepare for CCIE Enterprise Infrastructure, but for now, we 
 
 I want to help you the way others more experienced and knowledgeable than me have helped and guided me too. Please count on me, we're in this **together**!
 
+{% embed url="https://www.youracclaim.com/badges/dc15e81d-58b5-4495-98a6-999cb2a0dcc6/public\_url" %}
+
+![](.gitbook/assets/ccna_600.png)
+
+
+
