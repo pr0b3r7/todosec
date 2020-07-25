@@ -1,7 +1,7 @@
 ---
 description: >-
   Disclaimer: You shall not test the security mechanisms of any systems you do
-  not own or have explicit permission to.
+  not own or have explicit written permission to do so.
 ---
 
 # Home
