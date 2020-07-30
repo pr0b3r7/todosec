@@ -12,7 +12,7 @@ Hi Team, thank you for visiting. I say _Team_ because we're in this learning jou
 
 A little bit about me, I'm CCNA certified and pursuing a Msc in Cybersecurity and Information Assurance from WGU. After passing CEH, CHFI and capstone project I will graduate! 
 
-Later on, I plan on taking on the PWK and sit down for OSCP to appeal to any potential HR departments\). 
+Later on, I plan on taking on the PWK and sit down for OSCP as it is still an HR gatekeeper. 
 
 For 2021, I hope to prepare for CCIE Enterprise Infrastructure, but for now, we got plenty to _chew_ on!
 
