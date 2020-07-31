@@ -20,7 +20,7 @@ description: 'Here are the next topics you can expect to see content about:'
 * Risk Management steps, Control types. Business Impact Analysis, Maximum Tolerable Downtime \(MTD\). Business Continuity Plan \(BCP\), Disaster Recovery Plan \(DRP\).
 * Security, Functionality and Usability triangle, zero day attack, payload, exploit, daisy-chaining, bots, doxing, incident response... 
 * Social Engineering, email tracking, web spidering and other footprinting such as Google Hacking/Dorks
-* DNS Footprinting; _nameserver, record types_ and possible _operations_
+* DNS Foot-printing; _name-server, record types_ and possible _operations_
 * Business Intelligence/Marketing Tools/Financial Data
 * What is footprinting?
 * Vulnerability Research, exploit news, zero-days, [National Vulnerability Database](https://nvd.nist.gov/), [Securitytracker](http://www.securitytracker.com/), [Hackerstorm Vulnerability Database Tool,](http://www.hackerstorm.com/) [Security Focus](http://www.securityfocus.com/) **\(Add More\)**
@@ -42,11 +42,15 @@ description: 'Here are the next topics you can expect to see content about:'
 * Nmap port scanning, vulnerability scanning, nmapAutomator 
 * Ping sweeping - how to do it in Python, [Bash](network-and-systems/topics/code/code-bash/ping-sweeping-with-bash.md)
 * Definition of Scanning 
-* Definition of Sniffing, honeypot,  HTTP tunneling evasion technique; session splicing/fragmentation
+* Definition of Sniffing, honeypot,  HTTP tunneling evasion technique; session splicing/fragmentation; types of sniffing; same collision domain sniffing - passive sniffing; 
 * Difference between packet filtering firewalls, stateful multilayer inspection firewalls; purpose of the firewall, methods of work; rule-sets and their role; [Zone-based Firewall](network-and-systems/topics/network/zone-based-policy-firewall-also-known-as-zone-policy-firewall-or-zfw.md); what is a multi-homed device.
 * Snort; rules; purpose; method of action; syntax; modes; raw output manipulation \(regex?\); arrows; Snort configuration in Linux and Windows; features; modes of operation.
 * False positives, false negatives. Host based IDS; Network based IDS; IDS Definition; methods, signature list; behavior based detection, _lib-whisker_ PERL library for HTTP functions, vuln scanning, exploitation and IDS evasion. 
 * Use of Wireshark, filters syntax; how to display HTTP, TCP, follow TCP conversation
 * MAC Spoofing; definition, goal, IRDP spoofing = attacker floods ICMP Router Discovery Protocol messages through the network to redirect traffic to a determined gateway; DNS poisoning and similarities with ARP poisoning.
 * DHCP starvation; definition; [DHCP Protocol](network-and-systems/topics/network/dhcp.md); DHCP Messages. Yersinia, DHCPstarv; Rogue DHCP servers, + DHCP starvation could allow redirection determined by the attacker. 
-* 
+*  ARP poisoning; definition; defenses on modern devices \(DHCP snooping and Dynamic ARP Inspection in the case of IOS\). Tools to prevent it include XArp; OS level mitigation includes static configuration of default gateway MAC address via _arp -s_ command. ARP flooding tools: Cain and Abel; WinArpAttacker; Ufasoft and dnsniff \(linux tools collection including ARPspoof\)
+* MAC flooding; definition; method; effect, filling up content addressable memory \(CAM\) table.
+
+
+
