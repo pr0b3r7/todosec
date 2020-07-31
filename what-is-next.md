@@ -30,5 +30,23 @@ description: 'Here are the next topics you can expect to see content about:'
 * SNMP - community strings as passwords. Read-only version of the community string allows read over a wide surface of information. Read-write controls access for SNMP SET requests. 
 * NETBIOS - MS Windows - TCP; nbstat provides enumeration vector - code and types
 * Banner grabbing - methods
-* SIDs, domain/computer indicator, RID. Windows password storage; Linux UID, GID simmilarities and differences with MS Windows SIDs and RIDs. 
-
+* SIDs, domain/computer indicator, RID. Windows password storage; Linux UID, GID similarities and differences with MS Windows SIDs and RIDs. 
+* Vulnerability scanning
+* Anonymize your traffic via the use of web proxies - guardster, ultrasurf, Psiphon, and Tails \(Lin Distro\)
+* Tor clients, directory servers. Process of random connections and its encryption
+* Different proxies and methods to disguise source of traffic. Proxy chains. Proxy Switcher, Workbench, Proxy Chains, Soft-cab's Proxy Chain Builder, and Proxifier.
+* Source routing as a method to determine the routing path to a destination \(overriding the routing tables of network infrastructure devices in said path\)
+* Spoofing an IP address, packet crafting tools: Hping, Scapy, and Komodia.
+* Packet Fragmentation, in hopes of evading an IDS that theoretically would not pick up on other than seemingly disconnected traffic that in reality could be reassembled on the client machine as a malicious payload; nmap can also run scans fragmenting packets. 
+*  Hping2,3 - ping sweeping, port scanning, packet-crafting tool \(TCP/IP\)
+* Nmap port scanning, vulnerability scanning, nmapAutomator 
+* Ping sweeping - how to do it in Python, [Bash](network-and-systems/topics/code/code-bash/ping-sweeping-with-bash.md)
+* Definition of Scanning 
+* Definition of Sniffing, honeypot,  HTTP tunneling evasion technique; session splicing/fragmentation
+* Difference between packet filtering firewalls, stateful multilayer inspection firewalls; purpose of the firewall, methods of work; rule-sets and their role; [Zone-based Firewall](network-and-systems/topics/network/zone-based-policy-firewall-also-known-as-zone-policy-firewall-or-zfw.md); what is a multi-homed device.
+* Snort; rules; purpose; method of action; syntax; modes; raw output manipulation \(regex?\); arrows; Snort configuration in Linux and Windows; features; modes of operation.
+* False positives, false negatives. Host based IDS; Network based IDS; IDS Definition; methods, signature list; behavior based detection, _lib-whisker_ PERL library for HTTP functions, vuln scanning, exploitation and IDS evasion. 
+* Use of Wireshark, filters syntax; how to display HTTP, TCP, follow TCP conversation
+* MAC Spoofing; definition, goal, IRDP spoofing = attacker floods ICMP Router Discovery Protocol messages through the network to redirect traffic to a determined gateway; DNS poisoning and similarities with ARP poisoning.
+* DHCP starvation; definition; [DHCP Protocol](network-and-systems/topics/network/dhcp.md); DHCP Messages. Yersinia, DHCPstarv; Rogue DHCP servers, + DHCP starvation could allow redirection determined by the attacker. 
+* 
