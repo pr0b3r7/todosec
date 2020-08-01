@@ -50,6 +50,12 @@ description: 'Here are the next topics you can expect to see content about:'
 * Use of Metasploit; pre-loaded with Telnet, SSH, and HTTP modules to automatically take advantage of previously published CVEs, perform passwd attacks as well as configure custom payloads; create custom modules \(\), plug-ins and interfaces \(Armitage\); Additionally, Post-exploitation tools such as **multi/handler** are specially useful. 
 * Web 1.0 vs Web 2.0 differences - static vs dynamic web page content. \(Better suited for social media\) - Since there are more capabilities built in the websites, more attack surface is also a downside of this evolution. 
 * Web Application attacks include: arbitrary command execution via injecting them into the input string, this is possible due to poor input validation in the application; Methods include _file injection \(_attacker injects a pointer in form input to an exploit hosted elsewhere_\)_, _command injection \(_attacker injects commands into the form fields instead of expected test entry_\), shell injection \(_attacker attempts to gain shell access by executing OS commands on the server running the web-app_\)._
+* SOAP injection - Simple Object Access Protocol \(SOAP\) - Goal is to exchange structured information in web services, uses XML as formatting to present the information. Injection of malicious query strings \(Similar to SQL injection\) - allows authentication bypass and database access in the back-end, compatibility with HTTP and SMTP are usually 1-way. 
+* Stack smashing, Buffer Overflows attack - the goal is to overwrite the application's pre-determined memory buffer area, replace what's supposed to be in there and execute arbitrary code or make an application crash. 
+* Cross-site scripting \(XSS\) - the goal is injection of a script in a form field that had a storage purpose. XSS classic attack vector involves access to "document.cookie" and sending it to the remote hosts. 
+* Cross-site request forgery \(CSRF\) - attack vector that forces the end user to execute unwanted actions on a web application in which they are authenticated. CSRF makes the target inadvertently submitting a malicious request. 
+* Session fixation attacks, similar to CSRF, attacker fetches a "session ID" that is sent in a Phishing email to target, when the victim clicks and logs in to the site, the attacker is now able to use the same "session ID" to log in and use the user's access.
+* Cookies - text-based files, stored for web-server access. 
 
 
 
