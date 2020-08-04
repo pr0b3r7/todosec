@@ -4,18 +4,6 @@ description: WINDOWS 'Plumbing'
 
 # Windows Basic Networking
 
-Wireshark Filter 'tcp.port' + operator 'eq or ==' + tcp port number '8080'
-
-```text
-tcp.port == 8080
-```
-
-Wireshark filter IP packets by IP protocol number. \([IP Protocol Numbers](https://www.iana.org/assignments/protocol-numbers/protocol-numbers.xhtml)\)
-
-```text
-ip.proto == ()
-```
-
 Displays all connections and listening ports '-a' and ... Displays addresses and port numbers in numerical form '-n' and ... Displays TCP connection template for all connections '-y' \(table style - Proto - Local Address - Foreign Address - State - Template\) find or findstr to filter output
 
 ```text
@@ -41,7 +29,7 @@ PING ICMP Statistics
 netstat -s -p icmp
 ```
 
-Powershell
+### Powershell
 
 Test Connection with Powershell:
 
