@@ -61,3 +61,529 @@ description: 'Here are the next topics you can expect to see content about:'
 
   **"rolling code" and BlueBorne**. key fob unlock code is = rolling/hopping. Attacks sniff for the code by jamming and sniffing it. BlueBorne attack is techniques and attacks against Bluetooth vulnerabilities; [HackRF One](https://greatscottgadgets.com). Mirai malware \(botnets—purpose of DDoS attacks\).   IoT hacking phases: **information gathering, vulnerability scanning, launching attacks, gaining access, and maintaining access**. [Shodan](https://www.shodan.io/). [Censys](https://censys.io) and [Thingful](www.thingful.net); **vulnerability scanning**, \(Nmap, [Beyond Trust, RIoT](https://www.beyondtrust.com/resources/data-sheet/retina-iot-riot-scanner/). [beSTORM](https://www.beyondsecurity.com/bestorm.html), [IoTsploit ](https://iotsploit.com)and [IoT Inspector](www.iot-inspector.com).  ; **launching attacks phase**, [Firmalyzer](https://firmalyzer.com), KillerBee,  [JTAGulator](www.grandideastudio.com), [Attify Zigbee Framework](https://www.attify.com).; Sniffers for IoT traffic include [Foren6](http://cetic.github.io/foren6/), [Z-Wave](www.suphammer.com) and [CloudShark](https://www.cloudshark.org). 
 
+* Virtualization \(started back in the 1960s by companies like General Electric, Bell Labs, and IBM\) is a practice whereby the physical aspects of the hardware are virtually presented to operating systems in a way that allows more than one virtual machine \(with their own operating systems\) to run simultaneously on the same physical box. Cloud computing provides user and enterprise subscribers on-demand delivery of various IT services as a metered service over a network. Cloud computing offers everything from on-demand self-service, storage, and resource pooling to elasticity, automation in management, and broad network access. To further define what exactly it is, we need to consider the three major types of cloud computing—IaaS, PaaS, and SaaS. Cloud computing can be thought of as the ultimate in separation of duties. It moves system services that would otherwise be hosted internally to an external provider. It also separates the role of data owner from the role of data custodian.
+
+
+
+  Infrastructure as a Service \(IaaS\) basically provides virtualized computing resources over the Internet. A third-party provider hosts infrastructure components, applications, and services on behalf of its subscribers, with a hypervisor \(such as VMware, Oracle VirtualBox, Xen, or KVM\) running the virtual machines as guests. IaaS is a good choice not just for day-to-day infrastructure service, but also for temporary or experimental workloads that may change unexpectedly. IaaS subscribers typically pay on a per-use basis \(within a certain timeframe, for instance, or sometimes by the amount of virtual machine space used\).
+
+
+
+  Platform as a Service \(PaaS\) is geared toward software development, as it provides a development platform that allows subscribers to develop applications without building the infrastructure it would normally take to develop and launch software. Hardware and software are hosted by the provider on its own infrastructure so customers do not have to install or build homegrown hardware and software for development work. PaaS doesn’t usually replace an organization’s actual infrastructure; instead, it just offers key services the organization may not have onsite.
+
+
+
+  Software as a Service \(SaaS\) is simply a software distribution model—the provider offers on-demand applications to subscribers over the Internet. SaaS benefits include easier administration, automated patch management, compatibility, and version control.
+
+
+
+  Along with the types of cloud, there are four main deployment models: public, private, community, and hybrid. A public cloud model is one where services are provided over a network that is open for public use \(like the Internet\). A private cloud model is, not surprisingly, private in nature. The cloud is operated solely for a single organization \(a.k.a. single-tenant environment\) and is usually not a pay-as-you-go operation. A community cloud model is one where the infrastructure is shared by several organizations, usually with the same policy and compliance considerations. A hybrid cloud model is exactly what it sounds like—a composition of two or more cloud deployment models.
+
+
+
+  NIST \(National Institutes of Standards and Technology\) released Special Publication 500-292: NIST Cloud Computing Reference Architecture to provide a “fundamental reference point to describe an overall framework that can be used government wide.” This publication defined five major roles within a cloud architecture: cloud carrier \(the organization that has the responsibility of transferring the data; that is, the intermediary for connectivity and transport between subscriber and provider\), cloud consumer \(the individual or organization that acquires and uses cloud products and services\), cloud provider \(the purveyor of products and services\), cloud broker \(acts to manage use, performance, and delivery of cloud services, as well as the relationships between providers and subscribers\), and cloud auditor \(an independent assessor of cloud service and security controls\).
+
+
+
+  FedRAMP is probably the most recognized and referenced regulatory effort regarding cloud computing. The Federal Risk and Authorization Management Program \(FedRAMP\) is a government-wide program that provides a standardized approach to security assessment, authorization, and continuous monitoring for cloud products and services. FedRAMP not only provides an auditable framework for ensuring basic security controls for any government cloud effort, but also offers weekly tips for security and configuration and even has free training available on the site. PCI Data Security Standard \(PCI DSS\) Cloud Special Interest Group’s Cloud Computing Guidelines also provides notables assistance and information for the cloud.
+
+
+
+  The Cloud Security Alliance \(CSA\) is the leading professional organization devoted to promoting cloud security best practices and organizing cloud security professionals. In addition to providing a certification on cloud security and offering an array of cloud-centric training, they published a general cloud enterprise architecture model to help professionals conceptualize the components of a successful cloud implementation. They also publish documentation on everything from privacy concerns to security controls, focus, and implementation.
+
+
+
+  Cloud security is really talking about two sides of the same coin—you must be concerned with the security of the provider as well as that of the subscriber. Both the provider and subscriber are responsible for security. Using virtualization introduces a hypervisor layer between the physical hardware and subscribed servers. Therefore, if you comprise the hypervisor, you compromise them all.
+
+
+
+  The Trusted Computing Model refers to an attempt to resolve computer security problems through hardware enhancements and associated software modifications. The Trusted Computing Group \(TCG\) is made up of a bunch of hardware and software providers who cooperate to come up with specific plans. Roots of Trust \(RoT\) is a set of functions within the Trusted Computing Model that are always trusted by the computer’s operating system \(OS\).
+
+
+
+  Tools to assist in cloud security include CloudInspect and CloudPassage Halo. Core’s CloudInspect is “a tool that profits from the Core Impact & Core Insight technologies to offer penetration-testing as a service from Amazon Web Services for EC2 users.” It’s designed for AWS cloud subscribers and runs as an automated, all-in-one testing suite specifically for your cloud subscription. CloudPassage’s Halo “provides instant visibility and continuous protection for servers in any combination of data centers, private clouds and public clouds. The Halo platform is delivered as a service, so it deploys in minutes and scales on-demand. Halo uses minimal system resources, so layered security can be deployed where it counts, right at every workload—servers, instances and containers.” Other cloud-specific tools and toolsets mentioned include Dell Cloud Manager, Qualys Cloud Suite, Trend Micro’s Instant-On Cloud Security, and Panda Cloud Office Protection.
+
+
+
+  Cloud Security Alliance released a publication titled “The Dirty Dozen: 12 Top Cloud Security Threats” \(also referred to as “The Treacherous 12”\) and EC-Council has its own list of top threats. Important ones to remember include:
+
+
+
+  •   Data breach or loss   The malicious theft, erasure, or modification of almost anything in the cloud you can think of. While cloud providers deploy their own tools, methods, and controls to protect their overall environment, it’s generally and ultimately up to the subscribers themselves to protect their own data in the cloud. CSA recommends multifactor authentication and encryption as protection against data breaches.
+
+
+
+  •   Abuse of cloud resources   If attackers can create anonymous access to cloud services, they could then leverage the tremendous resources to do whatever they want. Typically this threat isn’t necessarily a specific concern of cloud subscribers, but it’s a very valid concern for the provider. The provider should perform active monitoring to detect any abuse instances as well as have a means to protect/recover from them. Generally speaking, threats of abuse of cloud services apply to the IaaS and PaaS models.
+
+
+
+  •   Insecure interfaces and APIs   Cloud services rely heavily on APIs and web services to function and operate, and without them, functions like auto-scaling, authentication, authorization, and sometimes the operations of cloud applications themselves will fail. Insecure interfaces and APIs can circumvent user-defined policies and really mess around with input data verification efforts. Both provider and subscriber should ensure strong security controls are in place, such as strong encryption and authorization access to APIs and connectivity. This threat applies to all models of cloud.
+
+
+
+  Other threats mentioned that warrant inclusion in our discussion are insufficient due diligence \(for example, moving an application from one cloud environment to another and not knowing the security differences between the two\), shared technology issues \(multitenant environments may not provide proper isolation between systems and applications\), and unknown risk profiles \(subscribers simply do not know exactly what security provisions are made in the background of and by the provider\). Many others, such as malicious insiders, inadequate design, and DDoS are valid for both cloud services and traditional data centers.
+
+
+
+  SOAP \(Simple Object Access Protocol\) is an API that makes it easier for application components to cooperate and exchange information on systems connected over a network. A wrapping attack occurs when a SOAP message is intercepted and the data in the envelope is changed and then sent/replayed.
+
+
+
+  In addition to every other attack mentioned previously in this book, two that ECC mentions explicitly are session riding and side channel attacks. Session riding is simply CSRF under a different name and deals with cloud services instead of traditional data centers. Side channel attacks, also known as a cross-guest VM breach, deal with the virtualization itself: if an attacker can somehow gain control of an existing VM \(or place his own\) on the same physical host as the target, he may be able to attempt a litany of attacks and efforts.
+
+* Malware is generally defined as software designed to harm or secretly access a computer system without the owner’s informed consent. Some states also define malware as computer contaminant. Malvertising involves embedding malware into ad networks in an effort to throw malware across many legitimate sites. Other definition terms of note include overt channels \(legitimate communication channels used by programs across a system or a network\) and covert channels \(used to transport data in unintended ways\).
+
+
+
+  Most malware is simply downloaded from the Internet with or without the user’s knowledge. Sometimes legitimate sites get compromised, leading to infections on visiting systems. Other times drive-by downloading infects the system, usually via some weird Java vulnerability delivered through an ad stream or something like it. Peer-to-peer applications or web application “features” are often hijacked to distribute malware, and an IRC channel is always a great way to distribute malware. Sending malware \(usually a Trojan\) via e-mail, file sharing, or a browser is also a good distribution method.
+
+
+
+  Wrappers are programs that allow you to bind an executable of your choice \(Trojan\) to an innocent file your target won’t mind opening. EliteWrap is an example. Crypters are software tools that use a combination of encryption, obfuscation, and code manipulation to render malware as undetectable to AV and other security-monitoring products. Exploit kit examples include Infinity, Bleeding Life, Crimepack, and Blackhole Exploit Kit.
+
+
+
+  A Trojan is software that appears to perform a desirable function for the user prior to running or installing it but instead performs a function, usually without the user’s knowledge, that steals information or otherwise harms the system \(or data\). Although a backdoor isn’t a Trojan, and a Trojan isn’t a backdoor, they’re tied together in this discussion and on your exam: the Trojan is the means of delivery, and the backdoor provides the open access.
+
+
+
+  Trojan types include defacement Trojans, proxy server Trojans, botnet Trojans \(Tor-based Chewbacca and Skynet\), remote access Trojans \(RAT, MoSucker, Optix Pro, and Blackhole\), and e-banking Trojans \(Zeus and Spyeye\). Covert Channel Tunneling Trojan \(CCTT\) is one form of remote access Trojan that uses a variety of exploitation techniques to create data transfer channels in previously authorized data streams. It’s designed to provide an external shell from within the internal environment.
+
+
+
+  A command shell Trojan is intended to provide a backdoor to the system that you connect to via command-line access. Netcat is known as the “Swiss Army knife” of TCP/IP hacking and provides all sorts of control over a remote shell on a target. Netcat can be used for outbound or inbound connections, over TCP or UDP, to or from any port on the machine. It offers DNS forwarding, port mapping and forwarding, and proxying. You can even use it as a port scanner if you’re really in a bind.
+
+
+
+  Port numbers in use by Trojans should be memorized for your exam:
+
+
+
+  Images
+
+
+
+  Netstat will show all connections in one of several states—everything from SYN\_SEND \(indicating active open\) to CLOSED \(the server has received an ACK from the client and closed the connection\). Fport is a free tool from McAfee that reports all open TCP/IP and UDP ports and maps them to the owning applications. Process Explorer is a free tool from Microsoft \(formerly from SysInternals\) that can tell you almost anything you’d want to know about a running process. Some of the options for monitoring the registry are SysAnalyzer, Tiny Watcher, Active Registry Monitor, and Regshot.
+
+
+
+  Windows will automatically run everything located in Run, RunServices, RunOnce, and RunServicesOnce, and you’ll find that most questions on the exam are centered around or show you settings from HKEY\_LOCAL\_MACHINE.
+
+
+
+  A virus is a self-replicating program that reproduces its code by attaching copies into other executable codes. In other words, viruses create copies of themselves in other programs, then activate on some sort of trigger event \(such as a specific user task, a particular time, or an event of some sort\). One method for getting viruses onto a system is known as a virus hoax or fake antivirus. The process involves letting a target know about a terrible virus running rampant through the world, then providing them an antivirus program \(or signature file\) to protect themselves with.
+
+
+
+  Here are the virus types for exam memorization:
+
+
+
+  •   Ransomware   This malware locks you out of your own system resources and demands an online payment of some sort in order to release them back to you. The ransomware “family” includes examples such as Cryptorbit, CryptoLocker, CryptoDefense, and police-themed. Specific versions to know include WannaCry and Petya.
+
+
+
+  •   Boot sector virus   Also known as a system virus, this virus type actually moves the boot sector to another location on the hard drive, forcing the virus code to be executed first.
+
+
+
+  •   Shell virus   Working just like the boot sector virus, this virus type wraps itself around an application’s code, inserting its own code before the application’s. Every time the application is run, the virus code is run first.
+
+
+
+  •   Cluster virus   This virus modifies directory table entries so that user or system processes are pointed to the virus code itself instead of the application or action intended.
+
+
+
+  •   Multipartite virus   Attempts to infect both files and the boot sector at the same time. This generally refers to a virus with multiple infection vectors.
+
+
+
+  •   Macro virus   Usually written with Visual Basic for Applications \(VBA\), this virus type infects template files created by Microsoft Office, normally Word and Excel.
+
+
+
+  •   Polymorphic code virus   This virus type mutates its code using a built-in polymorphic engine. These viruses are difficult to find and remove because their signatures constantly change. No part of the virus stays the same from infection to infection.
+
+
+
+  •   Encryption virus   Shockingly, these viruses use encryption to hide the code from antivirus scanners.
+
+
+
+  •   Metamorphic virus   This virus type rewrites itself every time it infects a new file.
+
+
+
+  •   Stealth virus   Also known as a “tunneling virus,” this one attempts to evade antivirus \(AV\) applications by intercepting the AV’s requests to the operating system \(OS\) and returning them to itself instead of OS.
+
+
+
+  •   Cavity virus   Cavity viruses overwrite portions of host files so as not to increase the actual size of the file. This is done using the null content sections of the file and leaves the file’s actual functionality intact.
+
+
+
+  •   Sparse infector virus   This virus type only infects occasionally.
+
+
+
+  •   File extension virus   These viruses change the file extensions of files to take advantage of most people having file extension view turned off.
+
+
+
+  A worm is a self-replicating malware computer program that uses a computer network to send copies of itself to other systems without human intervention. Usually it doesn’t alter files, but it resides in active memory and duplicates itself, eating up resources and wreaking havoc along the way. The most common use for a worm in the hacking world is the creation of botnets. “Ghost Eye Worm” is a hacking tool that uses random messaging on Facebook and other sites to perform malicious actions. Other worms include the following:
+
+
+
+  •   Code Red   Exploited indexing software on IIS servers in 2001.
+
+
+
+  •   Darlloz   The worm for the “Internet of Things,” darlloz is a Linux-based worm that targets running ARM, MIPS, and PowerPC architectures.
+
+
+
+  •   Slammer   Also known as SQL Slammer, this was a denial-of-service worm attacking buffer overflow weaknesses in Microsoft SQL Services.
+
+
+
+  •   Nimda   A successful file infection virus that modified and touched nearly all web content on a machine.
+
+
+
+  •   Bug Bear   Propagating over open network shares and e-mail, Bug Bear terminated AV applications and set up a backdoor for later use.
+
+
+
+  •   Pretty Park   Pretty Park spread via e-mail \(attempting a send every 30 minutes\) and took advantage of IRC to propagate stolen passwords and the like.
+
+
+
+  Tools like binText and UPX can help in malware analysis. Others that can help are IDA Pro \(www.hex-rays.com\), VirusTotal \(www.virustotal.com\), Anubis \(Anubis.iseclab.org\), and Threat Analyzer \(www.threattracksecurity.com\).
+
+
+
+  The standard DoS attack seeks to accomplish nothing more than taking down a resource or denying access to it by authorized users. The distributed denial-of-service \(DDoS\) attack comes not from one system but many, and they’re usually part of a botnet. The botnet is a network of zombie computers the hacker can use to start a distributed attack from \(examples of botnet software/Trojans are Shark and Poison Ivy\). For study purposes, the preferred communications channel used to signal the bots is IRC or Internet Chat Query \(ICQ\). Another way of saying “botnet” may be the distributed reflection denial of service \(DRDoS\) attack, also known as a spoof attack. It uses multiple intermediary machines to pull off the denial of service, by having the secondary machine send the attack at the behest of the attacker. The attacker remains hidden because the attack appears to originate from the secondary machine.
+
+
+
+  ECC lists four basic categories of Dos/DDoS as well as several examples of DoS/DDoS attacks. The categories are as follows:
+
+
+
+  •   Fragmentation attacks   These attacks take advantage of the system’s ability \(or lack thereof\) to reconstruct fragmented packets.
+
+
+
+  •   Volumetric attacks   Also known as bandwidth attacks, these consume all available bandwidth for the system or service.
+
+
+
+  •   Application attacks   These attacks consume resources necessary for the application to run, effectively making it unavailable to others.
+
+
+
+  •   TCP state-exhaustion attacks   These attacks go after load balancers, firewalls, and application servers by attempting to consume their connection state tables.
+
+
+
+  Here’s a short list of attacks, with all the salient information you’ll need:
+
+
+
+  •   SYN attack   The hacker will send thousands upon thousands of SYN packets to the machine with a false source IP address. The machine will attempt to respond with a SYN/ACK but will be unsuccessful \(because the address is false\). Eventually, all the machine’s resources are engaged, and it becomes a giant paperweight.
+
+
+
+  •   SYN flood   In this attack, the hacker sends thousands of SYN packets to the target but never responds to any of the return SYN/ACK packets. Because there is a certain amount of time the target must wait to receive an answer to the SYN/ACK, it will eventually bog down and run out of available connections.
+
+
+
+  •   ICMP flood   Here, the attacker sends ICMP Echo packets to the target with a spoofed \(fake\) source address. The target continues to respond to an address that doesn’t exist and eventually reaches a limit of packets per second sent.
+
+
+
+  •   Smurf   The attacker sends a large number of pings to the broadcast address of the subnet, with the source IP spoofed to that of the target. The entire subnet will then begin sending ping responses to the target, exhausting the resources there. A fraggle attack is similar but uses UDP for the same purpose.
+
+
+
+  •   Ping of death   \(This isn’t a valid attack with modern systems, but is still a definition you may need to know.\) In the ping of death, an attacker fragments an ICMP message to send to a target. When the fragments are reassembled, the resultant ICMP packet is larger than the maximum size and crashes the system.
+
+
+
+  •   Teardrop   In a teardrop attack, a large number of garbled IP fragments with overlapping, oversized payloads are sent to the target machine. On older operating systems \(such as Windows 3.1x, Windows 95, and Windows NT operating systems\), this takes advantage of weaknesses in the fragment reassembly functionality of their TCP/IP stack, causing the system to crash or reboot.
+
+
+
+  •   Peer to peer   In this attack, clients of a peer-to-peer file-sharing hub are disconnected and directed to connect with the target system.
+
+
+
+  •   Permanent   Phlashing refers to a DoS attack that causes permanent damage to a system. Usually this includes damage to the hardware and can also be known as bricking a system.
+
+
+
+  The real answer to a true DDoS is the involvement of your ISP up channel. It will be next to impossible for you, at an endpoint locale, to keep up with attacks from a sophisticated global, or even geographically close, botnet. The ISP may wind up blocking a lot of legitimate traffic too, but it may be all you can do until the storm passes.
+
+
+
+  In session hijacking, an attacker waits for a session to begin and, after all the pesky authentication gets done, jumps in to steal the session for himself. The server isn’t even aware of what happened, and the client simply connects again in a different session. The following more completely describes the session hijack steps \(per EC-Council\):
+
+
+
+  1.   Sniff the traffic between the client and the server.
+
+
+
+  2.   Monitor the traffic and predict the sequence numbering.
+
+
+
+  3.   Desynchronize the session with the client.
+
+
+
+  4.   Predict the session token and take over the session.
+
+
+
+  5.   Inject packets to the target server.
+
+
+
+  You’ll need to remember that the sequence numbers increment on acknowledgment. Additionally, you’ll almost certainly get asked a scenario version of sequence numbering. You’ll need to know, given an acknowledgment number and a window size, what sequence number would be acceptable to the system. For example, an acknowledgment of 105 with a window size of 200 means you could expect sequence numbering from 105 through 305.
+
+
+
+  IPSec is used to secure IP communication by providing encryption and authentication services to each packet, and it has several architectural components you’ll need to know. First, IPSec works in two modes. In transport mode, the payload and ESP trailer are encrypted; however, the IP header of the original packet is not. Transport can be used in network address translation \(NAT\) because the original packet is still routed in exactly the same manner as it would have been without IPSec. Tunnel mode, however, encrypts the whole thing, encapsulating the entire original packet in a new IPSec shell. This makes it incompatible with NAT. The rest of IPSec architecture includes the following protocols:
+
+
+
+  •   Authentication Header   AH is a protocol within IPSec that guarantees the integrity and authentication of the IP packet sender.
+
+
+
+  •   Encapsulating Security Payload   ESP is a protocol that also provides origin authenticity and integrity, but it can take care of confidentiality \(through encryption\) too. ESP does not provide integrity and authentication for the entire IP packet in transport mode, but in tunnel mode protection is provided to the entire IP packet.
+
+
+
+  •   Internet Key Exchange   IKE is the protocol that produces the keys for the encryption process.
+
+
+
+  •   Oakley   A protocol that uses Diffie-Hellman to create master and session keys.
+
+
+
+  •   Internet Security Association Key Management Protocol Software that facilitates encrypted communication between two endpoints
+
+* Cryptography is the science or study of protecting information, whether in transit or at rest, by using techniques to render the information unusable to anyone who does not possess the means to decrypt it. Plain-text data \(something you can read\) is turned into cipher-text data \(something you can’t read\) by the application of some form of encryption. Encrypting data provides confidentiality because only those with the “key” can see it. Integrity can also be provided by hashing algorithms. Nonrepudiation is the means by which a recipient can ensure the identity of the sender and that neither party can deny having sent or received the message.
+
+
+
+  Encryption algorithms—mathematical formulas used to encrypt and decrypt data—are highly specialized and complex. There are two methods in which the algorithms actually work, and there are two methods by which keys can be used and shared. In stream ciphers, bits of data are encrypted as a continuous stream. In other words, readable bits in their regular pattern are fed into the cipher and are encrypted one at a time. These work at a high rate of speed. Block ciphers combine data bits into blocks and feed them into the cipher. Each block of data, usually 64 bits at a time, is then encrypted with the key and algorithm. These ciphers are considered simpler, and slower, than stream ciphers.
+
+
+
+  Symmetric encryption, also known as single key or shared key, simply means one key is used both to encrypt and to decrypt the data. It is considered fast and strong but poses some significant weaknesses. It’s a great choice for bulk encryption because of its speed, but key distribution is an issue because the delivery of the key for the secured channel must be done offline. Additionally, scalability is a concern because as the network gets larger, the number of keys that must be generated goes up exponentially. DES, 3DES, Advanced Encryption Standard \(AES\), International Data Encryption Algorithm \(IDEA\), Twofish, and Rivest Cipher \(RC\) are examples.
+
+
+
+  Asymmetric encryption comes down to this: what the one key encrypts, the other key decrypts. It’s important to remember the public key is the one used for encryption, whereas the private key is used for decryption. Either can be used for encryption or decryption within the pair, but in general remember public = encrypt, private = decrypt. Asymmetric encryption can provide both confidentiality and nonrepudiation and solves the problems of key distribution and scalability. The weaknesses include its performance \(asymmetric is slower than symmetric, especially on bulk encryption\) and processing power \(asymmetric usually requires a much longer key length, so it’s suitable for smaller amounts of data\). Diffie-Hellman, Elliptic Curve Cryptosystem \(ECC\), El Gamal, and RSA are examples.
+
+
+
+  A hashing algorithm is a one-way mathematical function that takes an input and produces a single number \(integer\) based on the arrangement of the data bits in the input. It provides a means to verify the integrity of a piece of data—change a single bit in the arrangement of the original data, and you’ll get a different response. The attack or effort used against a hashing algorithm is known as a collision or a collision attack. A collision occurs when two or more files create the same output, which is not supposed to happen. To protect against collision attacks and the use of rainbow tables, you can also use a salt, which is a collection of random bits used as a key in addition to the hashing algorithm. MD5, SHA-1, SHA-2, and SHA-3 are examples of hash algorithms.
+
+
+
+  Steganography is the practice of concealing a message inside a text, image, audio, or video file in such a way that only the sender and recipient even know of its existence, let alone the manner in which to decipher it. Indications of steganography include character positions \(in text files, look for text patterns, unusual blank spaces, and language anomalies\) and large file sizes and color palette faults in image files. Audio and video files require some statistical analysis and specific tools.
+
+
+
+  In image steganography, there are three main techniques: least significant bit insertion, masking and filtering, and algorithmic transformation. Masking hides the data in much the same way as a watermark on a document; however, it’s accomplished by modifying the luminescence of image parts. Algorithmic transformation allows steganographers to hide data in the mathematical functions used in image compression. Tools like OmniHide Pro and Masker do a good job of sticking messages into the video stream smoothly and easily. DeepSound and MP3Stego are both tools for audio steganography. Other tools include QuickStego \(quickcrypto.com\), gifshuffle and SNOW \(darkside.com.au\), Steganography Studio \(stegstudio.sourceforge.net\), and OpenStego \(www.openstego.info\).
+
+
+
+  PKI is a structure designed to verify and authenticate the identity of individuals within the enterprise taking part in a data exchange. It can consist of hardware, software, and policies that create, manage, store, distribute, and revoke keys and digital certificates. The system starts at the top, with a \(usually\) neutral party known as the certificate authority \(CA\) that creates and issues digital certificates. The CA also keeps track of all the certificates within the system and maintains a certificate revocation list \(CRL\), used to track which certificates have problems and which have been revoked. The CA may be internal to begin with, and there could be any number of subordinate CAs—known as registration authorities \(RAs\)—to handle things internally \(most root CAs are removed from network access to protect the integrity of the system\). In many PKI systems, an outside entity known as a validation authority \(VA\) is used to validate certificates—usually done via Online Certificate Status Protocol \(OCSP\). A certificate authority can be set up to trust a CA in a completely different PKI through something called cross-certification. This allows both PKI CAs to validate certificates generated from either side.
+
+
+
+  CAs work in a trust model. This describes how entities within an enterprise deal with keys, signatures, and certificates, and there are three basic models. In the web of trust, multiple entities sign certificates for one another. In other words, users within this system trust each other based on certificates they receive from other users on the same system. A single authority system has a CA at the top that creates and issues certificates. Users trust each other based on the CA. The hierarchical trust system also has a CA at the top \(which is known as the root CA\) but makes use of one or more registration authorities \(subordinate CAs\) underneath it to issue and manage certificates. This system is the most secure because users can track the certificate back to the root to ensure authenticity without a single point of failure.
+
+
+
+  A digital certificate is an electronic file that is used to verify a user’s identity, providing nonrepudiation throughout the system. The certificate typically follows the X.509 standard, which defines what should and should not be in a digital certificate. Version, Serial Number, Subject, Algorithm ID \(or Signature Algorithm\), Issuer, Valid From and Valid To, Key Usage, Subject’s Public Key, and Optional are all fields within a digital certificate.
+
+
+
+  A self-signed certificate is one created and signed by the entity internally and never intended to be used in any other situation or circumstance. Signed certificates generally indicate a CA is involved and the signature validating the identity of the entity is confirmed via an external source—in some instances a validation authority \(VA\). Signed certificates, as opposed to self-signed certificates, can be trusted: assuming the CA chain is validated and not corrupted, it’s good everywhere.
+
+
+
+  A digital signature is nothing more than an algorithmic output that is designed to ensure the authenticity \(and integrity\) of the sender. FIPS 186-2 specifies that the Digital Signature Algorithm \(DSA\) be used in the generation and verification of digital signatures. DSA is a Federal Information Processing Standard that was proposed by the National Institute of Standards and Technology \(NIST\) in August 1991 for use in their Digital Signature Standard \(DSS\). The steps in the use of a digital signature include the hashing of the message, with the result of the hash being encrypted by the sender’s private key. The recipient then decrypts the hash result using the sender’s public key, verifying the sender’s identity.
+
+
+
+  Data at rest \(DAR\) is data that is in a stored state and not currently accessible. Protection of data on mobile devices from loss or theft while it is in a resting state usually entails full disk encryption \(FDE\), where pre-boot authentication \(usually an account and password\) is necessary to “unlock” the drive before the system can even boot up. FDE can be software or hardware based, and can use network-based authentication \(Active Directory, for example\) and/or local authentication sources \(a local account or locally cached from a network source\). Software-based FDE can even provide central management, making key management and recovery actions much easier.
+
+
+
+  Tools helpful in encrypting files and folders for other protective services include Microsoft Encrypted File Systems \(EFS\), VeraCrypt, AxCrypt, and GNU Privacy Guard. The point is, full disk encryption may sound like a great idea in the boardroom, but once the drive is unlocked, the data inside is not protected.
+
+
+
+  Encrypted communication methods include the following:
+
+
+
+  •   Secure Shell \(SSH\)   A secured version of Telnet, using TCP port 22, by default, and relying on public key cryptography for its encryption.
+
+
+
+  •   Secure Sockets Layer \(SSL\)   Encrypts data at the transport layer and above, for secure communication across the Internet. It uses RSA encryption and digital certificates and can be used with a wide variety of upper-layer protocols. SSL uses a six-step process for securing a channel.
+
+
+
+  •   Transport Layer Security \(TLS\)   Uses an RSA algorithm of 1024 and 2048 bits; TLS is the successor to SSL.
+
+
+
+  •   Internet Protocol Security \(IPSec\)   Network layer tunneling protocol that can be used in two modes: tunnel \(entire IP packet encrypted\) and transport \(data payload encrypted\).
+
+
+
+  •   PGP \(Pretty Good Privacy\)   Used for signing, compression, and encrypting and decrypting e-mails, files, directories, and even whole disk partitions, mainly in an effort to increase the security of e-mail communications.
+
+
+
+  Heartbleed and POODLE were successful attacks against secure communications. Heartbleed exploits the heartbeat feature in OpenSSL, which tricks the server into sending 64Kb of data from its memory. You can use the nmap command nmap -d --script ssl-heartbleed --script-args vulns.showall -sV \[host\] to search for the vulnerability: the return will say “State: NOT VULNERABLE” if you’re good to go. The Metasploit auxiliary module openssl\_heartbleed can be used to exploit this. Open SSL versions 1.0.1 and 1.0.1f are vulnerable, and the CVE notation is CVE-2014-0160.
+
+
+
+  POODLE \(Padding Oracle On Downgraded Legacy Encryption\) took advantage of backward-compatibility features in TLS clients, allowing sessions to drop back to the vulnerable SSL 3.0, which has a design flaw that allows the padding data at the end of a block cipher to be changed so that the encryption cipher becomes less secure each time it is passed. Defined as “RC4 biases,” if the same secret is sent over several sessions, more and more information about it will leak. Mitigation for POODLE is to not use SSL 3.0 at all. You can implement TLS\_FALLBACK\_SCSV \(a fake cipher suite advertised in the Client Hello message, which starts the SSL/TLS handshake\) on areas that must remain backward compatible. Another mitigation is to implement something called “anti-POODLE record splitting.” In short, this splits records into several parts, ensuring none of them can be attacked. However, although this may frustrate the exploit’s ability to gather data, it also may cause compatibility issues due to problems in server-side implementations.
+
+
+
+  Cipher attacks fall into a few categories and types. Known plain-text attacks, cipher-text-only attacks, and replay attacks are examples. Man-in-the-middle is usually listed as a type of attack by many security professionals and study guides \(depending on the test version you get, it may even be listed as such\). Just keep in mind that a man-in-the-middle situation simply means the attacker has positioned himself between the two communicating entities. Brute force refers to an attempt to try every possible combination against a target until successful.
+
+* Social engineering is the art of manipulating a person, or a group of people, into providing information or a service they otherwise would never have given. Social engineers prey on people’s natural desire to help one another, their tendency to listen to authority, and their trust of offices and entities. ECC defines four phases of successful social engineering:
+
+
+
+  1.   Research \(dumpster dive, visit websites, tour the company, and so on\).
+
+
+
+  2.   Select the victim \(identify frustrated employee or other promising targets\).
+
+
+
+  3.   Develop a relationship.
+
+
+
+  4.   Exploit the relationship \(collect sensitive information\).
+
+
+
+  Social engineering is a nontechnical method of attacking systems, which means it’s not limited to people with technical know-how. EC-Council defines five main reasons and four factors that allow social engineering to happen. Human nature \(to trust others\), ignorance of social engineering efforts, fear \(of consequences of not providing the requested information\), greed \(promised gain for providing requested information\), and a sense of moral obligation are all reasons people fall victim to social engineering attacks. As for the factors that allow these attacks to succeed, insufficient training, unregulated information \(or physical\) access, complex organizational structure, and lack of security policies all play roles.
+
+
+
+  All social engineering attacks fall into one of three categories: human based, computer based, or mobile based. Human-based social engineering uses interaction in conversation or other circumstances between people to gather useful information.
+
+
+
+  Dumpster diving is digging through the trash for useful information. Although technically a physical security issue, dumpster diving is covered as a social engineering topic per EC-Council. Impersonation is a name given to a huge swath of attack vectors. Basically the social engineer pretends to be someone or something he or she is not, and that someone or something—like, say, an employee, a valid user, a repairman, an executive, a help desk person, or an IT security expert—is someone or something the target either respects, fears, or trusts. Pretending to be someone you’re not can result in physical access to restricted areas \(providing further opportunities for attacks\), not to mention any sensitive information \(including the credentials\) your target feels you have a need and right to know. Using a phone during a social engineering effort is known as “vishing.”
+
+
+
+  Shoulder surfing and eavesdropping are other valuable human-based social engineering methods. An attacker taking part in shoulder surfing simply looks over the shoulder of a user and watches them log in, access sensitive data, or provide valuable steps in authentication. This can also be done “long distance,” using vision-enhancing devices like telescopes and binoculars.
+
+
+
+  Tailgating occurs when an attacker has a fake badge and simply follows an authorized person through the opened security door. Piggybacking is a little different in that the attacker doesn’t have a badge but asks for someone to let her in anyway. If you see an exam question listing both tailgating and piggybacking, the difference between the two comes down to the presence of a fake ID badge \(tailgaters have them, piggybackers don’t\). On questions where they both do not appear as answers, the two are used interchangeably.
+
+
+
+  Reverse social engineering is when the attacker poses as some form of authority or technical support and sets up a scenario whereby the user feels he must dial in for support. Potential targets for social engineering are referred to as “Rebecca” or “Jessica.” When you’re communicating with other attackers, the terms can provide information on whom to target—for example, “Rebecca, the receptionist, was very pleasant and easy to work with.” Disgruntled employees and insider attacks present the greatest risk to an organization.
+
+
+
+  Computer-based attacks are those attacks carried out with the use of a computer. Attacks include specially crafted pop-up windows, hoax e-mails, chain letters, instant messaging, spam, and phishing. Social networking and spoofing sites or access points also belong in the mix.
+
+
+
+  Most likely the simplest and most common method of computer-based social engineering is known as phishing. A phishing attack involves crafting an e-mail that appears legitimate but in fact contains links to fake websites or to download malicious content. Another version of this attack is known as spear phishing. Whereas a phishing attack usually involves a mass-mailing of a crafted e-mail in hopes of snagging some unsuspecting reader, spear phishing is a targeted attack against an individual or a small group of individuals within an organization. Spear phishing usually is a result of a little reconnaissance work that has churned up some useful information. Options that can help mitigate against phishing include the Netcraft Toolbar and the PhishTank Toolbar.
+
+
+
+  Setting up multiple layers of defense, including change-management procedures and strong authentication measures, is a good start in social engineering mitigation. Other physical and technical controls can also be set up, but the only real defense against social engineering is user education.
+
+
+
+  Mobile social engineering attacks are those that take advantage of mobile devices—that is, applications or services in mobile devices—in order to carry out their end goal. ZitMo \(ZeuS-in-the-Mobile\) is a piece of malware for Android phones that exploits an already-owned PC to take control of a phone in order to steal credentials and two-factor codes. EC-Council defines four categories of mobile-based social engineering attacks: publishing malicious apps, repackaging legitimate apps, fake security applications, and SMS \(per EC-Council, this is known as “smishing”\).
+
+
+
+  Physical security is perhaps one of the most overlooked areas in an overall security program. Physical security includes the plans, procedures, and steps taken to protect your assets from deliberate or accidental events that could cause damage or loss. Physical security measures come down to three major components: physical, technical, and operational. Physical measures include all the things you can touch, taste, smell, or get shocked by. Technical measures are measures taken with technology in mind to protect explicitly at the physical level. Operational measures are the policies and procedures you set up to enforce a security-minded operation. Access controls are physical measures designed to prevent access to controlled areas. They include biometric controls, identification/entry cards, door locks, and mantraps. FRR, FAR, and CER are important biometric measurements. False rejection rate \(FRR\) is the percentage of time a biometric reader will deny access to a legitimate user. The percentage of time that an unauthorized user is granted access by the system, known as false acceptance rate \(FAR\), is the second major factor. These are usually graphed on a chart, and the intercepting mark, known as crossover error rate \(CER\), becomes a ranking method to determine how well the system functions overall.
+
+
+
+  The mantrap, designed as a pure physical access control, provides additional control and screening at the door or access hallway to the controlled area. In the mantrap, two doors are used to create a small space to hold a person until appropriate authentication has occurred. The user enters through the first door, which must shut and lock before the second door can be cleared. Once inside the enclosed room, which normally has clear walls, the user must authenticate through some means—biometric, token with PIN, password, and so on—to open the second door.
+
+* Security assessments can be one of two types: a security audit \(vulnerability assessment\) or a penetration test. The security audit scans and tests a system or network for existing vulnerabilities but does not intentionally exploit any of them. This assessment is designed to uncover potential security holes in the system and report them to the client for their action. It does not fix or patch vulnerabilities, nor does it exploit them. It only points them out for the client’s benefit.
+
+
+
+  A penetration test actively seeks to exploit vulnerabilities encountered on target systems or networks. This shows the potential consequences of a hacker breaking in through unpatched vulnerabilities. Penetration tests are carried out by highly skilled individuals according to an agreement signed before testing begins. This agreement spells out the limitations, constraints, and liabilities between the organization and the penetration test team.
+
+
+
+  Penetration tests consist of two types of assessment: external and internal. An external assessment analyzes publicly available information and conducts network scanning, enumeration, and testing from the network perimeter—usually from the Internet. An internal assessment is performed from within the organization, from various network access points.
+
+
+
+  Black-box testing occurs when the attacker has no prior knowledge of the infrastructure at all \(your scope is defined, and you’ll be provided the minimal amount of information required\). This testing takes the longest to accomplish and simulates a true outside hacker. White-box testing simulates an internal user who has complete knowledge of the company’s infrastructure. Gray-box testing provides limited information on the infrastructure. Sometimes gray-box testing is born out of a black-box test that determines more knowledge is needed.
+
+
+
+  Testing can also be further broken down according to the way it is accomplished. Automated testing uses an all-inclusive toolset. Automated tools can provide plenty of information and many legitimate results for a lesser price than manual testing with a full test team. However, they are also susceptible to false positives and false negatives and don’t always stop where they’re supposed to \(software can’t read your agreement contract\). Manual testing is the best choice for security assessment. It requires good planning, design, and scheduling, and it provides the best benefit to the client. Manual testing is accomplished by a pen test team, following the explicit guidelines laid out before the assessment.
+
+
+
+  There are three main phases to a pen test. In the pre-attack phase, reconnaissance and data-gathering efforts are accomplished. Gathering competitive intelligence, identifying network ranges, checking network filters for open ports, and so on, are all carried out in this phase. Running whois, DNS enumeration, finding the network IP address range, and network scanning are all examples of tasks in this phase.
+
+
+
+  Attempting to penetrate the network perimeter, acquire targets, execute attacks, and elevate privileges are steps taken in the attack phase. Verifying ACLs by crafting packets, checking to see whether you can use any covert tunnels inside the organization, and using XSS, buffer overflows, and SQL injections are all examples of tasks performed in this phase. After acquiring specific targets, you’ll move into password cracking and privilege escalation, using a variety of methods. Finally, once you’ve gained access, it’s time to execute your attack code.
+
+
+
+  The post-attack phase consists of two major steps. The first step involves cleaning up your testing efforts. Anything that has been uploaded to the organization’s systems in the way of files or folders needs to be removed. Any tools, malware, backdoors, or other attack software loaded on the client’s systems need to be taken off. Any registry changes you’ve made need to be reset to their original settings. The goal of this phase is to return everything to the pre-test state.
+
+
+
+  The second step involves writing the pen test report, due after all testing is complete. The pen test report should contain the following items:
+
+
+
+  •   An executive summary of the organization’s overall security posture. \(If you’re testing under the auspices of FISMA, DIACAP, HIPAA, or some other standard, this will be tailored to the standard.\)
+
+
+
+  •   The names of all participants and the dates of all tests.
+
+
+
+  •   A list of findings, usually presented in order of highest risk.
+
+
+
+  •   An analysis of each finding and the recommended mitigation steps \(if available\).
+
+
+
+  •   Log files and other evidence from your toolset.
+
