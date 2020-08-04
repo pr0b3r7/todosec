@@ -13,7 +13,7 @@ netstat -tulpn | grep <tcp port number>
 Check if port 8080 is open
 
 ```text
-netstat   -tap | grep  8080 
+netstat   -tap | grep  8080
 ```
 
 Traceroute to specific TCP port - &lt;"traceroute" + -p \(port\) + "TCP port number" + target host, dotted decimal&gt;
@@ -133,7 +133,7 @@ Specific to RHEL7
 ```text
 Restart network service using SYSTEMCTL; PING to host on defined subnet using range {1...(1+n)}
 
-    sudo systemctl restart network && netstat -rn && sudo tcpdump host 100.65.150.111 && for i in {1..254}; do ping -c 5 192.168.1.$i | grep '1'; done 
+    sudo systemctl restart network && netstat -rn && sudo tcpdump host 100.65.150.111 && for i in {1..254}; do ping -c 5 192.168.1.$i | grep '1'; done
 ```
 
 Specific to RHEL6

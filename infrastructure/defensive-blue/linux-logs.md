@@ -4,7 +4,7 @@ description: Check various logs in RHEL5
 
 # Linux Logs
 
-Reference: https://access.redhat.com/documentation/en-us/red\_hat\_enterprise\_linux/5/html/deployment\_guide/ch-logfiles
+Reference: [https://access.redhat.com/documentation/en-us/red\_hat\_enterprise\_linux/5/html/deployment\_guide/ch-logfiles](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/5/html/deployment_guide/ch-logfiles)
 
 `cat /etc/syslog.conf`
 
@@ -12,7 +12,7 @@ Reference: https://access.redhat.com/documentation/en-us/red\_hat\_enterprise\_l
 
 " \# Log all kernel messages to the console. Logging much else clutters up the screen.
 
-`kern.*                                                 /dev/console`
+`kern.* /dev/console`
 
 ### Log anything \(except mail\) of level info or higher.
 
@@ -34,7 +34,7 @@ Don't log private authentication messages!
 
 ## Everybody gets emergency messages
 
-_`.emerg`_ 
+_`.emerg`_
 
 ## Save news errors of level crit and higher in a special file.
 
@@ -46,5 +46,5 @@ _`.emerg`_
 
 ## Log all messages to a remote logging server:
 
-`.   @server.domain.com"`
+`. @server.domain.com"`
 

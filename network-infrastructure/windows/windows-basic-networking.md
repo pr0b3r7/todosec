@@ -20,7 +20,7 @@ Displays all connections and listening ports '-a' and ... Displays addresses and
 
 ```text
 netstat –yan | find “8080” 
-netstat –yan | findstr “22” 
+netstat –yan | findstr “22”
 ```
 
 Filter and show only TCP protocol
@@ -77,7 +77,7 @@ NSlookup using PowerShell
 
 ```text
 Resolve-DnsName www.domain.com
-Resolve-DnsName www.domain.com -Type MX -Server 8.8.8.8 
+Resolve-DnsName www.domain.com -Type MX -Server 8.8.8.8
 ```
 
 Permanent Route Add/Remove &lt;"route" + "add"/"DELETE" + network ID + "mask" + subnet mask, dotted decimal + gateway ipv4&gt;

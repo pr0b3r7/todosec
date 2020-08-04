@@ -24,7 +24,7 @@ site:oscp.com -site:www.oscp.com
 To look for a specific filetype use . i.e pdf
 
 ```text
-site:oscp.com -site:www.oscp.com filetype:pdf 
+site:oscp.com -site:www.oscp.com filetype:pdf
 ```
 
 On search settings, access Advanced search for extended filters \(if unsure about syntax\)
@@ -36,7 +36,7 @@ PENDING***Search for Google Syntax (must)
 Google Hacking Database Exploit Database
 
 ```text
-example search to do on google under Files containing passwords: enable secret ext:cfg -git -cisco.com 
+example search to do on google under Files containing passwords: enable secret ext:cfg -git -cisco.com
 ```
 
 Shodan Webcams, default passwords, web servers,

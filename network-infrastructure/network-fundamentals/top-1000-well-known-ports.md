@@ -4,8 +4,6 @@ description: 'https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers'
 
 # Top 1000 Well Known Ports
 
-
-
 <table>
   <thead>
     <tr>
@@ -55,7 +53,7 @@ description: 'https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers'
       <td style="text-align:left">N/A</td>
       <td style="text-align:left">N/A</td>
       <td style="text-align:left">Unofficial</td>
-      <td style="text-align:left">In programming <a href="https://www.youtube.com/watch?v=s7wmiS2mSXY">APIs </a>(not
+      <td style="text-align:left">In programming <a href="https://www.youtube.com/watch?v=s7wmiS2mSXY">APIs</a> (not
         in communication between hosts), requests a system-allocated (dynamic)
         port<a href="https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-Port_0_Linux-5">[5]</a>
       </td>
@@ -78,7 +76,7 @@ description: 'https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers'
       <td style="text-align:left">Assigned</td>
       <td style="text-align:left">Assigned</td>
       <td style="text-align:left">Official</td>
-      <td style="text-align:left"><a href="https://en.wikipedia.org/wiki/Remote_Job_Entry">Remote Job Entry</a>
+      <td style="text-align:left"><a href="https://en.wikipedia.org/wiki/Remote_Job_Entry">Remote Job Entry</a> 
         <a
         href="https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-rfc407-7">[7]</a>was historically using socket 5 in its <a href="https://en.wikipedia.org/wiki/Network_socket#History">old socket form</a>,
           while MIB PIM has identified it as TCP/5<a href="https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-rfc2896-8">[8]</a> and
@@ -90,7 +88,7 @@ description: 'https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers'
       <td style="text-align:left">Yes</td>
       <td style="text-align:left">Yes</td>
       <td style="text-align:left">Official</td>
-      <td style="text-align:left"><a href="https://en.wikipedia.org/wiki/Echo_Protocol">Echo Protocol</a>
+      <td style="text-align:left"><a href="https://en.wikipedia.org/wiki/Echo_Protocol">Echo Protocol</a> 
         <a
         href="https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-rfc862-9">[9]</a><a href="https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-apple-kb-HT202944-10">[10]</a>
       </td>
@@ -101,7 +99,7 @@ description: 'https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers'
       <td style="text-align:left">Yes</td>
       <td style="text-align:left">Yes</td>
       <td style="text-align:left">Official</td>
-      <td style="text-align:left"><a href="https://en.wikipedia.org/wiki/Discard_Protocol">Discard Protocol</a>
+      <td style="text-align:left"><a href="https://en.wikipedia.org/wiki/Discard_Protocol">Discard Protocol</a> 
         <a
         href="https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-rfc863-11">[11]</a>
       </td>
@@ -112,7 +110,7 @@ description: 'https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers'
       <td style="text-align:left">No</td>
       <td style="text-align:left">Yes</td>
       <td style="text-align:left">Unofficial</td>
-      <td style="text-align:left"><a href="https://en.wikipedia.org/wiki/Wake-on-LAN">Wake-on-LAN</a>
+      <td style="text-align:left"><a href="https://en.wikipedia.org/wiki/Wake-on-LAN">Wake-on-LAN</a> 
         <a
         href="https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-msft-tn-bb632665-13">[13]</a>
       </td>
@@ -135,7 +133,7 @@ description: 'https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers'
       <td style="text-align:left">Yes</td>
       <td style="text-align:left">Yes</td>
       <td style="text-align:left">Official</td>
-      <td style="text-align:left"><a href="https://en.wikipedia.org/wiki/Daytime_Protocol">Daytime Protocol</a>
+      <td style="text-align:left"><a href="https://en.wikipedia.org/wiki/Daytime_Protocol">Daytime Protocol</a> 
         <a
         href="https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-rfc867-16">[16]</a>
       </td>
@@ -168,7 +166,7 @@ description: 'https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers'
       <td style="text-align:left">Yes</td>
       <td style="text-align:left">Yes</td>
       <td style="text-align:left">Official</td>
-      <td style="text-align:left"><a href="https://en.wikipedia.org/wiki/Message_Send_Protocol">Message Send Protocol</a>
+      <td style="text-align:left"><a href="https://en.wikipedia.org/wiki/Message_Send_Protocol">Message Send Protocol</a> 
         <a
         href="https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-rfc1159-18">[18]</a><a href="https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-rfc1312-19">[19]</a>
       </td>
@@ -202,9 +200,9 @@ description: 'https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers'
       <td style="text-align:left">Assigned</td>
       <td style="text-align:left">Official</td>
       <td style="text-align:left"><a href="https://en.wikipedia.org/wiki/File_Transfer_Protocol">File Transfer Protocol</a> (FTP)
-        control (command)<a href="https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-apple-kb-HT202944-10">[10]</a>
+        control (command)<a href="https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-apple-kb-HT202944-10">[10]</a> 
         <a
-        href="https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-rfc4960-12">[12]</a><a href="https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-rfc765-21">[21]</a>
+        href="https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-rfc4960-12">[12]</a><a href="https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-rfc765-21">[21]</a> 
           <a
           href="https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-rfc959-22">[22]</a>
       </td>
@@ -231,7 +229,7 @@ description: 'https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers'
       <td style="text-align:left">Assigned</td>
       <td style="text-align:left">Official</td>
       <td style="text-align:left"><a href="https://en.wikipedia.org/wiki/Telnet">Telnet</a> protocol&#x2014;unencrypted
-        text communications<a href="https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-apple-kb-HT202944-10">[10]</a>
+        text communications<a href="https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-apple-kb-HT202944-10">[10]</a> 
         <a
         href="https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-rfc854-23">[23]</a>
       </td>
@@ -253,7 +251,7 @@ description: 'https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers'
       <td style="text-align:left">Yes</td>
       <td style="text-align:left">Yes</td>
       <td style="text-align:left">Official</td>
-      <td style="text-align:left"><a href="https://en.wikipedia.org/wiki/Time_Protocol">Time Protocol</a>
+      <td style="text-align:left"><a href="https://en.wikipedia.org/wiki/Time_Protocol">Time Protocol</a> 
         <a
         href="https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-rfc868-25">[25]</a>
       </td>
@@ -264,7 +262,7 @@ description: 'https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers'
       <td style="text-align:left">Assigned</td>
       <td style="text-align:left">Yes</td>
       <td style="text-align:left">Official</td>
-      <td style="text-align:left"><a href="https://en.wikipedia.org/wiki/ARPA_Host_Name_Server_Protocol">Host Name Server Protocol</a>
+      <td style="text-align:left"><a href="https://en.wikipedia.org/wiki/ARPA_Host_Name_Server_Protocol">Host Name Server Protocol</a> 
         <a
         href="https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-ien116-26">[26]</a>
       </td>
@@ -275,7 +273,7 @@ description: 'https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers'
       <td style="text-align:left">Yes</td>
       <td style="text-align:left">Assigned</td>
       <td style="text-align:left">Official</td>
-      <td style="text-align:left"><a href="https://en.wikipedia.org/wiki/WHOIS">WHOIS</a> protocol<a href="https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-rfc812-27">[27]</a>
+      <td style="text-align:left"><a href="https://en.wikipedia.org/wiki/WHOIS">WHOIS</a> protocol<a href="https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-rfc812-27">[27]</a> 
         <a
         href="https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-rfc954-28">[28]</a><a href="https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-rfc3912-29">[29]</a>
       </td>
@@ -413,7 +411,7 @@ description: 'https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers'
       <td style="text-align:left">Official</td>
       <td style="text-align:left"><a href="https://en.wikipedia.org/wiki/Trivial_File_Transfer_Protocol">Trivial File Transfer Protocol</a> (TFTP)
         <a
-        href="https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-apple-kb-HT202944-10">[10]</a><a href="https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-ien133-37">[37]</a>
+        href="https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-apple-kb-HT202944-10">[10]</a><a href="https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-ien133-37">[37]</a> 
           <a
           href="https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-rfc783-38">[38]</a><a href="https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-rfc1350-39">[39]</a>
       </td>
@@ -435,7 +433,7 @@ description: 'https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers'
       <td style="text-align:left">Yes</td>
       <td style="text-align:left">Yes</td>
       <td style="text-align:left">Official</td>
-      <td style="text-align:left"><a href="https://en.wikipedia.org/wiki/NETRJS">NETRJS</a> protocol<a href="https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-rfc88-41">[41]</a>
+      <td style="text-align:left"><a href="https://en.wikipedia.org/wiki/NETRJS">NETRJS</a> protocol<a href="https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-rfc88-41">[41]</a> 
         <a
         href="https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-rfc740-42">[42]</a><a href="https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-rfc820-43">[43]</a>
       </td>
@@ -446,9 +444,9 @@ description: 'https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers'
       <td style="text-align:left">Yes</td>
       <td style="text-align:left">Assigned</td>
       <td style="text-align:left">Official</td>
-      <td style="text-align:left"><a href="https://en.wikipedia.org/wiki/Finger_protocol">Finger protocol</a>
+      <td style="text-align:left"><a href="https://en.wikipedia.org/wiki/Finger_protocol">Finger protocol</a> 
         <a
-        href="https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-apple-kb-HT202944-10">[10]</a><a href="https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-rfc742-44">[44]</a>
+        href="https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-apple-kb-HT202944-10">[10]</a><a href="https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-rfc742-44">[44]</a> 
           <a
           href="https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-rfc1288-45">[45]</a>
       </td>
@@ -461,7 +459,7 @@ description: 'https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers'
       <td style="text-align:left">Official</td>
       <td style="text-align:left"><a href="https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol">Hypertext Transfer Protocol</a> (HTTP)
         <a
-        href="https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-apple-kb-HT202944-10">[10]</a><a href="https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-rfc2616-46">[46]</a>
+        href="https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-apple-kb-HT202944-10">[10]</a><a href="https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-rfc2616-46">[46]</a> 
           <a
           href="https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-rfc7230-47">[47]</a><a href="https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-rfc7540-48">[48]</a>
       </td>
@@ -517,9 +515,9 @@ description: 'https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers'
       <td style="text-align:left">Yes</td>
       <td style="text-align:left">Assigned</td>
       <td style="text-align:left">Official</td>
-      <td style="text-align:left"><a href="https://en.wikipedia.org/wiki/Kerberos_(protocol)">Kerberos</a>
+      <td style="text-align:left"><a href="https://en.wikipedia.org/wiki/Kerberos_(protocol)">Kerberos</a> 
         <a
-        href="https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-apple-kb-HT202944-10">[10]</a><a href="https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-rfc1510-51">[51]</a>
+        href="https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-apple-kb-HT202944-10">[10]</a><a href="https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-rfc1510-51">[51]</a> 
           <a
           href="https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-rfc4120-52">[52]</a>authentication system</td>
       <td style="text-align:left"></td>
@@ -529,7 +527,7 @@ description: 'https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers'
       <td style="text-align:left">Yes</td>
       <td style="text-align:left">Yes</td>
       <td style="text-align:left">Unofficial</td>
-      <td style="text-align:left"><a href="https://en.wikipedia.org/wiki/PointCast_(dotcom)">PointCast (dotcom)</a>
+      <td style="text-align:left"><a href="https://en.wikipedia.org/wiki/PointCast_(dotcom)">PointCast (dotcom)</a> 
         <a
         href="https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-IANA-1">[1]</a>[<a href="https://en.wikipedia.org/wiki/Wikipedia:Independent_sources">third-party source needed</a>]</td>
       <td
@@ -562,7 +560,7 @@ description: 'https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers'
       <td style="text-align:left">Official</td>
       <td style="text-align:left"><a href="https://en.wikipedia.org/wiki/International_Organization_for_Standardization">ISO</a> Transport
         Service Access Point (<a href="https://en.wikipedia.org/wiki/TSAP">TSAP</a>)
-        Class 0 protocol;<a href="https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-rfc983-55">[55]</a>
+        Class 0 protocol;<a href="https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-rfc983-55">[55]</a> 
         <a
         href="https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-rfc1006-56">[56]</a>
       </td>
@@ -582,7 +580,7 @@ description: 'https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers'
       <td style="text-align:left">Yes</td>
       <td style="text-align:left">Yes</td>
       <td style="text-align:left">Official</td>
-      <td style="text-align:left"><a href="https://en.wikipedia.org/wiki/CCSO_Nameserver">CCSO Nameserver</a>
+      <td style="text-align:left"><a href="https://en.wikipedia.org/wiki/CCSO_Nameserver">CCSO Nameserver</a> 
         <a
         href="https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-rfc2378-57">[57]</a>
       </td>
@@ -623,7 +621,7 @@ description: 'https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers'
       <td style="text-align:left">Yes</td>
       <td style="text-align:left">Assigned</td>
       <td style="text-align:left">Official</td>
-      <td style="text-align:left">Post Office Protocol, version 3 (POP3)<a href="https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-apple-kb-HT202944-10">[10]</a>
+      <td style="text-align:left">Post Office Protocol, version 3 (POP3)<a href="https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-apple-kb-HT202944-10">[10]</a> 
         <a
         href="https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-rfc1081-60">[60]</a><a href="https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-rfc1939-61">[61]</a>
       </td>
@@ -644,7 +642,7 @@ description: 'https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers'
       <td style="text-align:left">No</td>
       <td style="text-align:left">Official</td>
       <td style="text-align:left"><a href="https://en.wikipedia.org/wiki/Ident_protocol">Ident</a>, authentication
-        service/identification protocol,<a href="https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-apple-kb-HT202944-10">[10]</a>
+        service/identification protocol,<a href="https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-apple-kb-HT202944-10">[10]</a> 
         <a
         href="https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-rfc1413-62">[62]</a>used by <a href="https://en.wikipedia.org/wiki/Internet_Relay_Chat">IRC</a> servers
           to identify users</td>
@@ -667,7 +665,7 @@ description: 'https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers'
       <td style="text-align:left">Yes</td>
       <td style="text-align:left">Assigned</td>
       <td style="text-align:left">Official</td>
-      <td style="text-align:left"><a href="https://en.wikipedia.org/wiki/Simple_File_Transfer_Protocol">Simple File Transfer Protocol</a>
+      <td style="text-align:left"><a href="https://en.wikipedia.org/wiki/Simple_File_Transfer_Protocol">Simple File Transfer Protocol</a> 
         <a
         href="https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-apple-kb-HT202944-10">[10]</a><a href="https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-rfc913-64">[64]</a>
       </td>
@@ -700,7 +698,7 @@ description: 'https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers'
       <td style="text-align:left">Official</td>
       <td style="text-align:left"><a href="https://en.wikipedia.org/wiki/Network_News_Transfer_Protocol">Network News Transfer Protocol</a> (NNTP),
         <a
-        href="https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-apple-kb-HT202944-10">[10]</a>retrieval of newsgroup messages<a href="https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-rfc977-65">[65]</a>
+        href="https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-apple-kb-HT202944-10">[10]</a>retrieval of newsgroup messages<a href="https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-rfc977-65">[65]</a> 
           <a
           href="https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-rfc3977-66">[66]</a>
       </td>
@@ -758,7 +756,7 @@ description: 'https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers'
       <td style="text-align:left">Yes</td>
       <td style="text-align:left">Official</td>
       <td style="text-align:left"><a href="https://en.wikipedia.org/wiki/NetBIOS">NetBIOS</a> Name Service,
-        used for name registration and <a href="https://en.wikipedia.org/wiki/Name_resolution_(computer_systems)">resolution</a>
+        used for name registration and <a href="https://en.wikipedia.org/wiki/Name_resolution_(computer_systems)">resolution</a> 
         <a
         href="https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-rfc1001-68">[68]</a><a href="https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-rfc1002-69">[69]</a>
       </td>
@@ -769,7 +767,7 @@ description: 'https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers'
       <td style="text-align:left">Assigned</td>
       <td style="text-align:left">Yes</td>
       <td style="text-align:left">Official</td>
-      <td style="text-align:left">NetBIOS Datagram Service<a href="https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-apple-kb-HT202944-10">[10]</a>
+      <td style="text-align:left">NetBIOS Datagram Service<a href="https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-apple-kb-HT202944-10">[10]</a> 
         <a
         href="https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-rfc1001-68">[68]</a><a href="https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-rfc1002-69">[69]</a>
       </td>
@@ -780,7 +778,7 @@ description: 'https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers'
       <td style="text-align:left">Yes</td>
       <td style="text-align:left">Assigned</td>
       <td style="text-align:left">Official</td>
-      <td style="text-align:left">NetBIOS Session Service<a href="https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-rfc1001-68">[68]</a>
+      <td style="text-align:left">NetBIOS Session Service<a href="https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-rfc1001-68">[68]</a> 
         <a
         href="https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-rfc1002-69">[69]</a>
       </td>
@@ -861,7 +859,7 @@ description: 'https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers'
       <td style="text-align:left">Yes</td>
       <td style="text-align:left">Official</td>
       <td style="text-align:left"><a href="https://en.wikipedia.org/wiki/Simple_Network_Management_Protocol">Simple Network Management Protocol</a> Trap
-        (SNMPTRAP)<a href="https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-rfc1157-74">[74]</a>
+        (SNMPTRAP)<a href="https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-rfc1157-74">[74]</a> 
         <a
         href="https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-cisco-support-7244-75">[75]</a>[<a href="https://en.wikipedia.org/wiki/Wikipedia:Citation_needed">citation needed</a>]</td>
       <td
@@ -939,7 +937,7 @@ description: 'https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers'
       <td style="text-align:left">Yes</td>
       <td style="text-align:left">Assigned</td>
       <td style="text-align:left">Official</td>
-      <td style="text-align:left"><a href="https://en.wikipedia.org/wiki/Quick_Mail_Transfer_Protocol">Quick Mail Transfer Protocol</a>
+      <td style="text-align:left"><a href="https://en.wikipedia.org/wiki/Quick_Mail_Transfer_Protocol">Quick Mail Transfer Protocol</a> 
         <a
         href="https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-qmtp.txt-80">[80]</a>[<a href="https://en.wikipedia.org/wiki/Wikipedia:Verifiability#Self-published_sources">self-published source</a>]</td>
       <td
@@ -1305,7 +1303,7 @@ description: 'https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers'
       <td style="text-align:left">Yes</td>
       <td style="text-align:left">Assigned</td>
       <td style="text-align:left">Official</td>
-      <td style="text-align:left">Microsoft-DS (Directory Services) <a href="https://en.wikipedia.org/wiki/Server_Message_Block">SMB</a>
+      <td style="text-align:left">Microsoft-DS (Directory Services) <a href="https://en.wikipedia.org/wiki/Server_Message_Block">SMB</a> 
         <a
         href="https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-apple-kb-HT202944-10">[10]</a>file sharing</td>
       <td style="text-align:left"></td>
@@ -1333,7 +1331,7 @@ description: 'https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers'
       <td style="text-align:left">Yes</td>
       <td style="text-align:left">No</td>
       <td style="text-align:left">Official</td>
-      <td style="text-align:left">Authenticated <a href="https://en.wikipedia.org/wiki/Simple_Mail_Transfer_Protocol">SMTP</a>
+      <td style="text-align:left">Authenticated <a href="https://en.wikipedia.org/wiki/Simple_Mail_Transfer_Protocol">SMTP</a> 
         <a
         href="https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-apple-kb-HT202944-10">[10]</a>over <a href="https://en.wikipedia.org/wiki/Transport_Layer_Security">TLS/SSL</a> (
           <a
@@ -1621,7 +1619,7 @@ description: 'https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers'
       <td style="text-align:left">Assigned</td>
       <td style="text-align:left">Official</td>
       <td style="text-align:left"><a href="https://en.wikipedia.org/wiki/Apple_Filing_Protocol">Apple Filing Protocol</a> (AFP)
-        over <a href="https://en.wikipedia.org/wiki/Transmission_Control_Protocol">TCP</a>
+        over <a href="https://en.wikipedia.org/wiki/Transmission_Control_Protocol">TCP</a> 
         <a
         href="https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-apple-kb-HT202944-10">[10]</a>
       </td>
@@ -1706,7 +1704,7 @@ description: 'https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers'
       <td style="text-align:left">Yes</td>
       <td style="text-align:left">Assigned</td>
       <td style="text-align:left">Official</td>
-      <td style="text-align:left"><a href="https://en.wikipedia.org/wiki/Mail_submission_agent">email message submission</a>
+      <td style="text-align:left"><a href="https://en.wikipedia.org/wiki/Mail_submission_agent">email message submission</a> 
         <a
         href="https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-apple-kb-HT202944-10">[10]</a><a href="https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-89">[89]</a> (
           <a
@@ -2047,7 +2045,7 @@ description: 'https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers'
       <td style="text-align:left">Yes</td>
       <td style="text-align:left"></td>
       <td style="text-align:left">Official</td>
-      <td style="text-align:left">IRIS<a href="https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-97">[97]</a>
+      <td style="text-align:left">IRIS<a href="https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-97">[97]</a> 
         <a
         href="https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-98">[98]</a>(Internet Registry Information Service) over <a href="https://en.wikipedia.org/wiki/BEEP">BEEP</a> (Blocks
           Extensible Exchange Protocol)<a href="https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-99">[99]</a> (
@@ -2070,10 +2068,10 @@ description: 'https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers'
       <td style="text-align:left"></td>
       <td style="text-align:left">Official</td>
       <td style="text-align:left"><a href="https://en.wikipedia.org/wiki/Cisco">Cisco</a> Tag Distribution
-        Protocol<a href="https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-100">[100]</a>
+        Protocol<a href="https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-100">[100]</a> 
         <a
         href="https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-101">[101]</a><a href="https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-102">[102]</a>&#x2014;being
-          replaced by the MPLS <a href="https://en.wikipedia.org/wiki/Label_Distribution_Protocol">Label Distribution Protocol</a>
+          replaced by the MPLS <a href="https://en.wikipedia.org/wiki/Label_Distribution_Protocol">Label Distribution Protocol</a> 
           <a
           href="https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-103">[103]</a>
       </td>
@@ -2221,7 +2219,7 @@ description: 'https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers'
       <td style="text-align:left">Yes</td>
       <td style="text-align:left">Assigned</td>
       <td style="text-align:left">Official</td>
-      <td style="text-align:left"><a href="https://en.wikipedia.org/wiki/Certificate_Management_Protocol">Certificate Management Protocol</a>
+      <td style="text-align:left"><a href="https://en.wikipedia.org/wiki/Certificate_Management_Protocol">Certificate Management Protocol</a> 
         <a
         href="https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-rfc4210-106">[106]</a>
       </td>
@@ -2270,7 +2268,7 @@ description: 'https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers'
       <td style="text-align:left">Yes</td>
       <td style="text-align:left"></td>
       <td style="text-align:left">Unofficial</td>
-      <td style="text-align:left"><a href="https://en.wikipedia.org/wiki/Adobe_Flash">Adobe Flash</a>
+      <td style="text-align:left"><a href="https://en.wikipedia.org/wiki/Adobe_Flash">Adobe Flash</a> 
         <a
         href="https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-107">[107]</a>
       </td>
@@ -2380,7 +2378,7 @@ description: 'https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers'
       <td style="text-align:left">Yes</td>
       <td style="text-align:left">Yes</td>
       <td style="text-align:left">Unofficial</td>
-      <td style="text-align:left"><a href="https://en.wikipedia.org/wiki/VMware_ESXi">VMware ESXi</a>
+      <td style="text-align:left"><a href="https://en.wikipedia.org/wiki/VMware_ESXi">VMware ESXi</a> 
         <a
         href="https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-vmware-kb-1022256-108">[108]</a><a href="https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-vmware-kb-1005189-109">[109]</a>
       </td>
@@ -2391,7 +2389,7 @@ description: 'https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers'
       <td style="text-align:left">Yes</td>
       <td style="text-align:left"></td>
       <td style="text-align:left">Unofficial</td>
-      <td style="text-align:left">VMware ESXi<a href="https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-vmware-kb-1022256-108">[108]</a>
+      <td style="text-align:left">VMware ESXi<a href="https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-vmware-kb-1022256-108">[108]</a> 
         <a
         href="https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-vmware-kb-1005189-109">[109]</a>
       </td>
@@ -2403,7 +2401,7 @@ description: 'https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers'
       <td style="text-align:left">Reserved</td>
       <td style="text-align:left">Official</td>
       <td style="text-align:left"><a href="https://en.wikipedia.org/wiki/BIND">BIND</a> remote name daemon
-        control (RNDC)<a href="https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-centos-5-deployment-rndc-110">[110]</a>
+        control (RNDC)<a href="https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-centos-5-deployment-rndc-110">[110]</a> 
         <a
         href="https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-man-rndc.8-111">[111]</a>
       </td>
@@ -2426,7 +2424,7 @@ description: 'https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers'
       <td style="text-align:left"></td>
       <td style="text-align:left">Unofficial</td>
       <td style="text-align:left"><a href="https://en.wikipedia.org/wiki/Microsoft_Remote_Web_Workplace">Microsoft Remote Web Workplace</a>,
-        a feature of <a href="https://en.wikipedia.org/wiki/Windows_Small_Business_Server">Windows Small Business Server</a>
+        a feature of <a href="https://en.wikipedia.org/wiki/Windows_Small_Business_Server">Windows Small Business Server</a> 
         <a
         href="https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-msft-tn-cc52751-113">[113]</a>
       </td>

@@ -6,11 +6,11 @@ description: >-
 
 # Netcat/Ncat - WIP
 
-#### This tool allows us to bind to a given port of a given IP address. It is of help when trying to send files between machines, developing exploit payloads that would serve a backdoor on a target.
+## This tool allows us to bind to a given port of a given IP address. It is of help when trying to send files between machines, developing exploit payloads that would serve a backdoor on a target.
 
 The scope of this document limits to a discussion of how to use [netcat](https://nc110.sourceforge.io/)/[ncat ](https://nmap.org/ncat/)to connect to clients and serve opening ports
 
-#### Connecting vs Listening
+## Connecting vs Listening
 
 To attempt to establish a connection with TCP port:
 
@@ -24,7 +24,7 @@ To listen on TCP port:
 nc -nvlp 4444
 ```
 
-#### Bind Shell: Attacker connects to a victim on listening PORTS
+## Bind Shell: Attacker connects to a victim on listening PORTS
 
 1. On Windows Machine - set netcat/ncat to listen on 4444/TCP:
 
@@ -38,7 +38,7 @@ nc -nvlp 4444
 
 In the Bind Shell case described in 1 & 2 the Windows machine is the victim that has been set up to listen on 4444/TCP
 
-#### Reverse Shell: Victim connects to attacker on listening PORTS
+## Reverse Shell: Victim connects to attacker on listening PORTS
 
 This is the one you will be using the most
 

@@ -8,9 +8,9 @@ description: >-
 
 ## OSI Model - Open Systems Interconnection Model
 
-Think of it as an effort to explain how networks work. It sorts functionality in the form of layers. 
+Think of it as an effort to explain how networks work. It sorts functionality in the form of layers.
 
-If you master it, you may have an understanding of how networks work at each layer and how data is communicated and transferred between layers. 
+If you master it, you may have an understanding of how networks work at each layer and how data is communicated and transferred between layers.
 
 ### There are 7 Layers, you may remember them with the following mnemonic device:
 
@@ -43,7 +43,7 @@ _\(layer - protocol data unit\*\)_
 
 ## Network Layer
 
-Used for the transfer or flow of packets across the network. 
+Used for the transfer or flow of packets across the network.
 
 To specify the format of packets and provide an addressing system that enables packets to be routed to the correct destination and a response to be routed back to the source of the communication, two main addressing schemes are in use today, which in reality are two iterations of the same protocol: Internet Protocol - IP:
 
@@ -82,7 +82,7 @@ Table below from Cisco's documentation should provide a quick reference in binar
 
 ### IPv4 Packet Header
 
-Many different fields are defined in the packet header of an IPv4 packet. These binary values are referenced as the packet is forwarded across the network. 
+Many different fields are defined in the packet header of an IPv4 packet. These binary values are referenced as the packet is forwarded across the network.
 
 * IP Source Address of the packet
 * IP Destination Address of the packet
@@ -106,11 +106,11 @@ Some [statistics ](https://www.google.com/intl/en/ipv6/statistics.html)by google
 
 Facilitates end-to-end connections that transmit data between hosts via the use of protocols like TCP and UDP
 
-Every machine has ports open as means to provide services to other machines in the network. 
+Every machine has ports open as means to provide services to other machines in the network.
 
-The Transmission Control Protocol \(TCP\) and the User Datagram Protocol \(UDP\) are two Transport Layer protocols that use port numbers that corresponding to services or applications communicating in said ports. These are two common but not the only Layer 4 \(transport\) protocols. 
+The Transmission Control Protocol \(TCP\) and the User Datagram Protocol \(UDP\) are two Transport Layer protocols that use port numbers that corresponding to services or applications communicating in said ports. These are two common but not the only Layer 4 \(transport\) protocols.
 
- [Internet Assigned Numbers Authority](https://en.wikipedia.org/wiki/Internet_Assigned_Numbers_Authority) \(IANA\) maintains [port assignments.](top-1000-well-known-ports.md) 
+[Internet Assigned Numbers Authority](https://en.wikipedia.org/wiki/Internet_Assigned_Numbers_Authority) \(IANA\) maintains [port assignments.](top-1000-well-known-ports.md)
 
 ### TCP Header
 
@@ -122,7 +122,7 @@ Contains Source Port, Destination Port, TCP Flags and options as well as sequenc
 
 #### TCP Header Flags
 
-Responsible for the transmission and flow of packets across the network. Port scanning methods involve techniques that employ packets with specially selected TCP flags to determine the targets OS, service versions and alert about the presence of a firewall or packet filtering methods. 
+Responsible for the transmission and flow of packets across the network. Port scanning methods involve techniques that employ packets with specially selected TCP flags to determine the targets OS, service versions and alert about the presence of a firewall or packet filtering methods.
 
 ![TCP Header Flags](../../.gitbook/assets/image%20%2821%29.png)
 
@@ -145,9 +145,7 @@ Connection-less protocol used to transmit data in an unordered manner. Examples 
 
 #### UDP Header
 
-Includes Source and Destination Port since this is a much simpler protocol that lacks many of the reliable transmission features TCP offers. Since there is no sequencing of data it is appropriate for applications like voice over IP, video conference... etc. 
+Includes Source and Destination Port since this is a much simpler protocol that lacks many of the reliable transmission features TCP offers. Since there is no sequencing of data it is appropriate for applications like voice over IP, video conference... etc.
 
-Low-Latency applications are called as such because of their nature, the speed of the transmission and delivery of data is more important than its reliable transmission or even complete arrival. Think of when the video glitches/freezes green and the image in a video call comes back pixelated until it recovers and you can see your significant other clearly again. 
-
-
+Low-Latency applications are called as such because of their nature, the speed of the transmission and delivery of data is more important than its reliable transmission or even complete arrival. Think of when the video glitches/freezes green and the image in a video call comes back pixelated until it recovers and you can see your significant other clearly again.
 

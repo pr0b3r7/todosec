@@ -2,111 +2,111 @@
 
 Linux basic command refresher:
 
-**echo** - display a line of text i.e
+**echo** - display a line of text i.e
 
-`echo "hola"`
+`echo "hola"`
 
-Include text string "foobar3" into file
+Include text string "foobar3" into file
 
-`echo foobar3 > file.txt`
+`echo foobar3 > file.txt`
 
-Include text string "foobar2" into next line of file.txt
+Include text string "foobar2" into next line of file.txt
 
 `echo foobar2 >> file.txt`
 
-If we ran cat against file.txt, it would look like this:
+If we ran cat against file.txt, it would look like this:
 
 `foobar3`
 
 `foobar2`
 
-**Kali Linux Services**
+**Kali Linux Services**
 
 HTTP via Apache2
 
 Enable service on startup
 
-`systemctl enable/disable Apache2`
+`systemctl enable/disable Apache2`
 
-Toggle service On/Off
+Toggle service On/Off
 
-`service apache2 stop/start`
+`service apache2 stop/start`
 
-Note: HTTP files are stored at /var/www/html
+Note: HTTP files are stored at /var/www/html
 
-View all files in /var/www/html with -la flag for display a list and all hidden files in the present directory
+View all files in /var/www/html with -la flag for display a list and all hidden files in the present directory
 
-`ls -la /var/www/html` 
+`ls -la /var/www/html`
 
-Present directory can be shown with:
+Present directory can be shown with:
 
 `pwd`
 
-**SSH via** _**ssh**_****
+**SSH via** _**ssh**_
 
-enable ssh service on startup\#\#
+enable ssh service on startup\#\#
 
 `systemctl enable/stop ssh`
 
-toggle ssh service On/Off
+toggle ssh service On/Off
 
-`service ssh stop/start`
+`service ssh stop/start`
 
 **Configure SSH on Kali to allow login w root password \(insecure\)**
 
- 
-
-    1. In '/etc/ssh/sshd\_config' replace 'PermitRootLogin without-password'by 'PermitRootLogin yes'
-
-    2. Restart your ssh daemon
+1. In '/etc/ssh/sshd\_config' replace 'PermitRootLogin without-password'by 'PermitRootLogin yes'
+2. Restart your ssh daemon
 
 `service ssh restart`
 
-3. Change Kali default ssh keys to avoid MITM attack:
+1. Change Kali default ssh keys to avoid MITM attack:
+2. Move the default Kali ssh keys to a new folder:
 
-4. Move the default Kali ssh keys to a new folder:
-
-`cd /etc/ssh/`
+`cd /etc/ssh/`
 
 `mkdir default_keys`
 
 `mv ssh_host_* default_keys/`
 
-5. Regenerate the keys
+1. Regenerate the keys
 
-   `/etc/ssh#  dpkg-reconfigure openssh-server`    
+   `/etc/ssh# dpkg-reconfigure openssh-server`
 
-6. Verify Hashes are different
+2. Verify Hashes are different
 
-**New Keys**
+**New Keys**
 
-`root@kali:~/Desktop#  md5sum /etc/ssh/ssh_host_*`
+`root@kali:~/Desktop# md5sum /etc/ssh/ssh_host_*`
 
 **Old keys**
 
 `root@kali~/Desktop# md5sum /etc/ssh/default_keys/ssh_host_*`
 
-7. Restart SSH service 
+1. Restart SSH service 
 
-`systemctl restart ssh.service`
+`systemctl restart ssh.service`
 
-8. SET MOTD for extra badassness \(Essential\)
+1. SET MOTD for extra badassness
 
-`sudo nano /etc/MOTD`
+   \(Essential\)
 
-9. Remove current MOTD \(Possibly Wack\)
+`sudo nano /etc/MOTD`
 
-`rm /etc/motd`
+1. Remove current MOTD
 
-**11. Don't forget to backup ssh config!**
+   \(Possibly Wack\)
 
-`cp /etc/ssh/sshd_config /etc/ssh/sshd_config_backup`
+`rm /etc/motd`
 
-**12. Change port ssh listens on** 
+**11. Don't forget to backup ssh config !**
 
-`find '#Port 22' change 22 to desired TCP port.` 
+`cp /etc/ssh/sshd_config /etc/ssh/sshd_config_backup`
 
-**13. Restart openssh**
+**12. Change port ssh listens on**
+
+`find '#Port 22' change 22 to desired TCP port.`
+
+**13. Restart openssh**
 
 `systemctl restart ssh`
 

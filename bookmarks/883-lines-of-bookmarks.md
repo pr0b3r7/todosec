@@ -1,7 +1,6 @@
-# 2k Lines of Bookmarks
+# 883 Lines of Bookmarks
 
 ```text
-
 Information gathering:
 
 (multi) http://www.subnetonline.com/
@@ -885,1177 +884,1092 @@ http://www.cs.ucsb.edu/~adoupe/static/black-box-scanners-dimva2010.pdf
 http://www.spy-hunter.com/Database_Pen_Testing_ISSA_March_25_V2.pdf
 http://perishablepress.com/press/2006/01/10/stupid-htaccess-tricks/
 ```
-VULNERABILITY RESEARCH SITES
-•   CodeRed Center   www.eccouncil.org
 
-•   Exploit Database   www.exploit-db.com
+VULNERABILITY RESEARCH SITES • CodeRed Center www.eccouncil.org
 
-•   HackerStorm   hackerstorm.co.uk
+• Exploit Database www.exploit-db.com
 
-•   Help Net Security   www.net-security.org
+• HackerStorm hackerstorm.co.uk
 
-•   MSVR   http://technet.microsoft.com
+• Help Net Security www.net-security.org
 
-•   National Vulnerability Database   http://nvd.nist.gov
+• MSVR [http://technet.microsoft.com](http://technet.microsoft.com)
 
-•   SC Media   www.scmagazine.com
+• National Vulnerability Database [http://nvd.nist.gov](http://nvd.nist.gov)
 
-•   Secunia   www.secunia.com
+• SC Media www.scmagazine.com
 
-•   SecuriTeam   www.securiteam.com
+• Secunia www.secunia.com
 
-•   SecurityFocus   www.securityfocus.com
+• SecuriTeam www.securiteam.com
 
-•   Security Magazine   www.securitymagazine.com
+• SecurityFocus www.securityfocus.com
 
-•   SecurityTracker   www.securitytracker.com
+• Security Magazine www.securitymagazine.com
 
-FOOTPRINTING TOOLS
-People Search Tools
-•   411   www.411.com
+• SecurityTracker www.securitytracker.com
 
-•   AnyWho   www.anywho.com
+FOOTPRINTING TOOLS People Search Tools • 411 www.411.com
 
-•   Intelius   www.intelius.com
+• AnyWho www.anywho.com
 
-•   PeekYou   www.peekyou.com
+• Intelius www.intelius.com
 
-•   People Search Now   www.peoplesearchnow.com
+• PeekYou www.peekyou.com
 
-•   Veromi   www.veromi.net
+• People Search Now www.peoplesearchnow.com
 
-•   ZabaSearch   www.zabasearch.com
+• Veromi www.veromi.net
 
-•   ZoomInfo   http://zoominfo.com
+• ZabaSearch www.zabasearch.com
 
-Competitive Intelligence
-•   Euromonitor   www.euromonitor.com
+• ZoomInfo [http://zoominfo.com](http://zoominfo.com)
 
-•   Experian   www.experian.com
+Competitive Intelligence • Euromonitor www.euromonitor.com
 
-•   MarketWatch   www.marketwatch.com
+• Experian www.experian.com
 
-•   The Search Monitor   www.thesearchmonitor.com
+• MarketWatch www.marketwatch.com
 
-•   SEC Info   www.secinfo.com
+• The Search Monitor www.thesearchmonitor.com
 
-•   Wall Street Transcript   www.twst.com
+• SEC Info www.secinfo.com
 
-Tracking Online Reputation
-•   Alexa   www.alexa.com
+• Wall Street Transcript www.twst.com
 
-•   BrandsEye   www.brandseye.com
+Tracking Online Reputation • Alexa www.alexa.com
 
-•   Rankur   https://rankur.com
+• BrandsEye www.brandseye.com
 
-•   ReputationDefender   www.reputation.com
+• Rankur [https://rankur.com](https://rankur.com)
 
-•   Social Mention   www.socialmention.com
+• ReputationDefender www.reputation.com
 
-Website Research/Web Updates Tools
-•   Archive   www.archive.org
+• Social Mention www.socialmention.com
 
-•   ChangeDetection   www.changedetection.com
+Website Research/Web Updates Tools • Archive www.archive.org
 
-•   Check4Change   http://addons.mozilla.com
+• ChangeDetection www.changedetection.com
 
-•   InfoMinder   www.infominder.com
+• Check4Change [http://addons.mozilla.com](http://addons.mozilla.com)
 
-•   iWebTool   www.iwebtool.com
+• InfoMinder www.infominder.com
 
-•   Netcraft   http://news.netcraft.com
+• iWebTool www.iwebtool.com
 
-•   Websnitcher   http://websnitcher.com
+• Netcraft [http://news.netcraft.com](http://news.netcraft.com)
 
-DNS and Whois Tools
-•   Active Whois   www.johnru.com
+• Websnitcher [http://websnitcher.com](http://websnitcher.com)
 
-•   ARIN   http://whois.arin.net/ui/
+DNS and Whois Tools • Active Whois www.johnru.com
 
-•   Better Whois   www.betterwhois.com
+• ARIN [http://whois.arin.net/ui/](http://whois.arin.net/ui/)
 
-•   DNS-Digger   http://dnsdigger.com
+• Better Whois www.betterwhois.com
 
-•   DNSstuff   www.dnsstuff.com
+• DNS-Digger [http://dnsdigger.com](http://dnsdigger.com)
 
-•   Domain Dossier   http://centralops.net
+• DNSstuff www.dnsstuff.com
 
-•   DomainTools   www.domaintools.com
+• Domain Dossier [http://centralops.net](http://centralops.net)
 
-•   Mobile DNS Sniffer   www.dnssniffer.com
+• DomainTools www.domaintools.com
 
-•   Network Solutions   www.networksolutions.com
+• Mobile DNS Sniffer www.dnssniffer.com
 
-•   Nslookup   
+• Network Solutions www.networksolutions.com
 
-•   SmartWhois   www.tamos.com/download/main/
+• Nslookup
 
-•   SpyFu   www.spyfu.com
+• SmartWhois www.tamos.com/download/main/
 
-•   UltraTools Mobile   www.ultratools.com
+• SpyFu www.spyfu.com
 
-Geo-Location Tools
-•   Bing Maps   bing.com/maps
+• UltraTools Mobile www.ultratools.com
 
-•   GeoIP2   www.maxmind.com
+Geo-Location Tools • Bing Maps bing.com/maps
 
-•   GeoIP Lookup   www.ultratools.com
+• GeoIP2 www.maxmind.com
 
-•   Google Maps   maps.google.com
+• GeoIP Lookup www.ultratools.com
 
-•   IPLocation   iplocation.net
+• Google Maps maps.google.com
 
-•   IP Location Finder   tools.keycdn.com
+• IPLocation iplocation.net
 
-•   WikiMapia   www.wikimapia.org
+• IP Location Finder tools.keycdn.com
 
-•   Yahoo! Maps   https://maps.yahoo.com/b/
+• WikiMapia www.wikimapia.org
 
-Traceroute Tools and Links
-•   Path Analyzer Pro   www.pathanalyzer.com
+• Yahoo! Maps [https://maps.yahoo.com/b/](https://maps.yahoo.com/b/)
 
-•   PingPlotter   https://www.pingplotter.com
+Traceroute Tools and Links • Path Analyzer Pro www.pathanalyzer.com
 
-•   Visual IP Trace   www.visualiptrace.com
+• PingPlotter [https://www.pingplotter.com](https://www.pingplotter.com)
 
-•   VisualRoute Trace   www.visualware.com
+• Visual IP Trace www.visualiptrace.com
 
-Website Mirroring Tools and Sites
-•   BlackWidow   http://softbytelabs.com
+• VisualRoute Trace www.visualware.com
 
-•   Hooeey Webprint   www.hooeeywebprint.com.s3-website-us-east-1.amazonaws.com/
+Website Mirroring Tools and Sites • BlackWidow [http://softbytelabs.com](http://softbytelabs.com)
 
-•   HTTrack   www.httrack.com
+• Hooeey Webprint www.hooeeywebprint.com.s3-website-us-east-1.amazonaws.com/
 
-•   NCollector Studio   www.calluna-software.com
+• HTTrack www.httrack.com
 
-•   Reamweaver   http://reamweaver.com
+• NCollector Studio www.calluna-software.com
 
-•   Teleport Pro   www.tenmax.com/teleport/pro/home.htm
+• Reamweaver [http://reamweaver.com](http://reamweaver.com)
 
-•   Wget   www.gnu.org
+• Teleport Pro www.tenmax.com/teleport/pro/home.htm
 
-Operating System Help
-•   Censys   https://censys.io
+• Wget www.gnu.org
 
-•   Netcraft   http://netcraft.com
+Operating System Help • Censys [https://censys.io](https://censys.io)
 
-•   Shodan   www.shodan.io
+• Netcraft [http://netcraft.com](http://netcraft.com)
 
-Metadata Extraction
-•   Buzzstream   tools.buzzstream.com
+• Shodan www.shodan.io
 
-•   ExifTool   http://owl.phy.queensu.ca/~phil/exiftool/
+Metadata Extraction • Buzzstream tools.buzzstream.com
 
-•   ExtractMeta   www.extractmetadata.com
+• ExifTool [http://owl.phy.queensu.ca/~phil/exiftool/](http://owl.phy.queensu.ca/~phil/exiftool/)
 
-•   FOCA   www.elevenpaths.com
+• ExtractMeta www.extractmetadata.com
 
-E-mail Tracking
-•   ContactMonkey   https://contactmonkey.com
+• FOCA www.elevenpaths.com
 
-•   DidTheyReadIt   www.didtheyreadit.com
+E-mail Tracking • ContactMonkey [https://contactmonkey.com](https://contactmonkey.com)
 
-•   eMailTrackerPro   www.emailtrackerpro.com
+• DidTheyReadIt www.didtheyreadit.com
 
-•   GetNotify   www.getnotify.com
+• eMailTrackerPro www.emailtrackerpro.com
 
-•   PoliteMail   www.politemail.com
+• GetNotify www.getnotify.com
 
-•   ReadNotify   www.readnotify.com
+• PoliteMail www.politemail.com
 
-•   Zendio   www.zendio.com
+• ReadNotify www.readnotify.com
 
-Google Hacking
-•   Google Hack Honeypot   http://ghh.sourceforge.net
+• Zendio www.zendio.com
 
-•   Google Hacking Database   www.hackersforcharity.org/ghdb/
+Google Hacking • Google Hack Honeypot [http://ghh.sourceforge.net](http://ghh.sourceforge.net)
 
-•   Google Hacking Master List   http://it.toolbox.com/blogs/managing-infosec/google-hacking-master-list-28302
+• Google Hacking Database www.hackersforcharity.org/ghdb/
 
-•   Google Hacks   http://code.google.com/p/googlehacks/
+• Google Hacking Master List [http://it.toolbox.com/blogs/managing-infosec/google-hacking-master-list-28302](http://it.toolbox.com/blogs/managing-infosec/google-hacking-master-list-28302)
 
-•   Gooscan   www.darknet.org.uk
+• Google Hacks [http://code.google.com/p/googlehacks/](http://code.google.com/p/googlehacks/)
 
-•   Metagoofil   www.edge-security.com
+• Gooscan www.darknet.org.uk
 
-SCANNING AND ENUMERATION TOOLS
-Ping Sweep
-•   Angry IP Scanner   www.angryip.org
+• Metagoofil www.edge-security.com
 
-•   Colasoft Ping   http://colasoft.com
+SCANNING AND ENUMERATION TOOLS Ping Sweep • Angry IP Scanner www.angryip.org
 
-•   Friendly Pinger   www.kilievich.com
+• Colasoft Ping [http://colasoft.com](http://colasoft.com)
 
-•   MegaPing   www.magnetosoft.com
+• Friendly Pinger www.kilievich.com
 
-•   Nmap   http://nmap.org
+• MegaPing www.magnetosoft.com
 
-•   Ping Scanner Pro   www.digilextechnologies.com
+• Nmap [http://nmap.org](http://nmap.org)
 
-•   Pinkie   www.ipuptime.net
+• Ping Scanner Pro www.digilextechnologies.com
 
-•   SolarWinds   www.solarwinds.com
+• Pinkie www.ipuptime.net
 
-•   Ultra Ping Pro   (Multiple download sites)
+• SolarWinds www.solarwinds.com
 
-Scanning Tools
-•   CurrPorts   www.nirsoft.net
+• Ultra Ping Pro \(Multiple download sites\)
 
-•   Fing (mobile)   https://www.fing.io/
+Scanning Tools • CurrPorts www.nirsoft.net
 
-•   Hping   www.hping.org
+• Fing \(mobile\) [https://www.fing.io/](https://www.fing.io/)
 
-•   Infiltrator   www.infiltration-systems.com
+• Hping www.hping.org
 
-•   IPEye   http://ntsecurity.nu
+• Infiltrator www.infiltration-systems.com
 
-•   IP Network Scanner (mobile)   http://10base-t.com
+• IPEye [http://ntsecurity.nu](http://ntsecurity.nu)
 
-•   IP Tools   www.ks-soft.net
+• IP Network Scanner \(mobile\) [http://10base-t.com](http://10base-t.com)
 
-•   LAN Surveyor   www.solarwinds.com
+• IP Tools www.ks-soft.net
 
-•   MegaPing   www.magnetosoft.com
+• LAN Surveyor www.solarwinds.com
 
-•   Netcat   http://netcat.sourceforge.net
+• MegaPing www.magnetosoft.com
 
-•   NetScanTools Pro   www.netscantools.com
+• Netcat [http://netcat.sourceforge.net](http://netcat.sourceforge.net)
 
-•   Network Discovery (mobile)   http://rorist.github.io
+• NetScanTools Pro www.netscantools.com
 
-•   Nmap (Zenmap)   http://nmap.org/
+• Network Discovery \(mobile\) [http://rorist.github.io](http://rorist.github.io)
 
-•   NScan   http://nscan.hypermart.net/
+• Nmap \(Zenmap\) [http://nmap.org/](http://nmap.org/)
 
-•   Pamn IP Scanner (mobile)   http://pips.wjholden.com
+• NScan [http://nscan.hypermart.net/](http://nscan.hypermart.net/)
 
-•   PortDroid (mobile)   www.stealthcopter.com
+• Pamn IP Scanner \(mobile\) [http://pips.wjholden.com](http://pips.wjholden.com)
 
-•   PRTG Net Monitor   www.paessler.com
+• PortDroid \(mobile\) www.stealthcopter.com
 
-•   SuperScan   www.mcafee.com/us/downloads/free-tools/superscan.aspx
+• PRTG Net Monitor www.paessler.com
 
-•   THC-Amap   www.thc.org
+• SuperScan www.mcafee.com/us/downloads/free-tools/superscan.aspx
 
-•   Umit Network Scanner (mobile)   www.umitproject.org
+• THC-Amap www.thc.org
 
-Banner Grabbing
-•   ID Serve   www.grc.com
+• Umit Network Scanner \(mobile\) www.umitproject.org
 
-•   Netcraft   http://netcraft.com
+Banner Grabbing • ID Serve www.grc.com
 
-•   Telnet
+• Netcraft [http://netcraft.com](http://netcraft.com)
 
-•   Xprobe   https://sourceforge.net/projects/xprobe/
+• Telnet
 
-Vulnerability Scanning
-•   Acunetix   www.acunetix.com
+• Xprobe [https://sourceforge.net/projects/xprobe/](https://sourceforge.net/projects/xprobe/)
 
-•   Core Impact   www.coresecurity.com
+Vulnerability Scanning • Acunetix www.acunetix.com
 
-•   GFI LanGuard   www.gfi.com
+• Core Impact www.coresecurity.com
 
-•   MBSA   http://technet.microsoft.com
+• GFI LanGuard www.gfi.com
 
-•   Nessus   www.tenable.com
+• MBSA [http://technet.microsoft.com](http://technet.microsoft.com)
 
-•   Nikto   http://cirt.net/nikto2
+• Nessus www.tenable.com
 
-•   OpenVAS   www.openvas.org
+• Nikto [http://cirt.net/nikto2](http://cirt.net/nikto2)
 
-•   Qualys FreeScan   www.qualys.com
+• OpenVAS www.openvas.org
 
-•   Retina   http://eeye.com
+• Qualys FreeScan www.qualys.com
 
-•   Retina for Mobile   www.beyondtrust.com
+• Retina [http://eeye.com](http://eeye.com)
 
-•   SAINT   http://saintcorporation.com
+• Retina for Mobile www.beyondtrust.com
 
-•   SecurityMetrics (mobile)   www.securitymetrics.com
+• SAINT [http://saintcorporation.com](http://saintcorporation.com)
 
-•   WebInspect   https://software.microfocus.com/en-us/products/webinspect-dynamic-analysis-dast/overview
+• SecurityMetrics \(mobile\) www.securitymetrics.com
 
-•   Wikto   www.sensepost.com
+• WebInspect [https://software.microfocus.com/en-us/products/webinspect-dynamic-analysis-dast/overview](https://software.microfocus.com/en-us/products/webinspect-dynamic-analysis-dast/overview)
 
-Network Mapping
-•   HP Network Node Manager   www8.hp.com
+• Wikto www.sensepost.com
 
-•   IPsonar   www.lumeta.com
+Network Mapping • HP Network Node Manager www8.hp.com
 
-•   LANState   www.10-strike.com
+• IPsonar www.lumeta.com
 
-•   NetMapper   www.opnet.com
+• LANState www.10-strike.com
 
-•   NetMaster (mobile)   www.nutecapps.com
+• NetMapper www.opnet.com
 
-•   Network SAK (mobile)   http://foobang.weebly.com
+• NetMaster \(mobile\) www.nutecapps.com
 
-•   Network Topology Mapper   www.solarwinds.com
+• Network SAK \(mobile\) [http://foobang.weebly.com](http://foobang.weebly.com)
 
-•   Network View   www.networkview.com
+• Network Topology Mapper www.solarwinds.com
 
-•   OpManager   www.manageengine.com
+• Network View www.networkview.com
 
-•   Scany (mobile)   http://happymagenta.com
+• OpManager www.manageengine.com
 
-Proxy, Anonymizer, and Tunneling
-•   Anonymizer   http://anonymizer.com
+• Scany \(mobile\) [http://happymagenta.com](http://happymagenta.com)
 
-•   Anonymouse   http://anonymouse.org/
+Proxy, Anonymizer, and Tunneling • Anonymizer [http://anonymizer.com](http://anonymizer.com)
 
-•   Bitvise   www.bitvise.com
+• Anonymouse [http://anonymouse.org/](http://anonymouse.org/)
 
-•   CyberGhost VPN   www.cyberghostvpn.com
+• Bitvise www.bitvise.com
 
-•   G-Zapper   www.dummysoftware.com
+• CyberGhost VPN www.cyberghostvpn.com
 
-•   HTTP Tunnel   www.http-tunnel.com
+• G-Zapper www.dummysoftware.com
 
-•   NetShade (mobile)   www.raynersw.com
+• HTTP Tunnel www.http-tunnel.com
 
-•   Proxifier   www.proxifier.com
+• NetShade \(mobile\) www.raynersw.com
 
-•   Proxy Browser for Android (mobile)   https://play.google.com
+• Proxifier www.proxifier.com
 
-•   ProxyChains   http://proxychains.sourceforge.net/
+• Proxy Browser for Android \(mobile\) [https://play.google.com](https://play.google.com)
 
-•   ProxyDroid (mobile)   https://github.com
+• ProxyChains [http://proxychains.sourceforge.net/](http://proxychains.sourceforge.net/)
 
-•   Proxy Switcher   www.proxyswitcher.com
+• ProxyDroid \(mobile\) [https://github.com](https://github.com)
 
-•   Proxy Workbench   proxyworkbench.com
+• Proxy Switcher www.proxyswitcher.com
 
-•   Psiphon   http://psiphon.ca
+• Proxy Workbench proxyworkbench.com
 
-•   Super Network Tunnel   www.networktunnel.net
+• Psiphon [http://psiphon.ca](http://psiphon.ca)
 
-•   Tor   https://www.torproject.org/
+• Super Network Tunnel www.networktunnel.net
 
-Enumeration
-•   Hyena   www.systemtools.com
+• Tor [https://www.torproject.org/](https://www.torproject.org/)
 
-•   IP Network Browser   www.solarwinds.com
+Enumeration • Hyena www.systemtools.com
 
-•   LDAP Admin   www.ldapsoft.com
+• IP Network Browser www.solarwinds.com
 
-•   Ldp.exe   www.microsoft.com
+• LDAP Admin www.ldapsoft.com
 
-•   LEX   www.ldapexplorer.com
+• Ldp.exe www.microsoft.com
 
-•   NetBIOS Enumerator   http://nbtenum.sourceforge.net
+• LEX www.ldapexplorer.com
 
-•   Nsauditor   www.nsauditor.com
+• NetBIOS Enumerator [http://nbtenum.sourceforge.net](http://nbtenum.sourceforge.net)
 
-•   P0f   http://lcamtuf.coredump.cx/p0f.shtml
+• Nsauditor www.nsauditor.com
 
-•   PSTools   http://technet.microsoft.com
+• P0f [http://lcamtuf.coredump.cx/p0f.shtml](http://lcamtuf.coredump.cx/p0f.shtml)
 
-•   User2Sid/Sid2User   http://windowsecurity.com
+• PSTools [http://technet.microsoft.com](http://technet.microsoft.com)
 
-•   WinFingerprint   www.winfingerprint.com
+• User2Sid/Sid2User [http://windowsecurity.com](http://windowsecurity.com)
 
-•   Xprobe   www.sys-security.com/index.php?page=xprobe
+• WinFingerprint www.winfingerprint.com
 
-SNMP Enumeration
-•   OpUtils   www.manageengine.com
+• Xprobe www.sys-security.com/index.php?page=xprobe
 
-•   SNMP Informant   www.snmp-informant.com
+SNMP Enumeration • OpUtils www.manageengine.com
 
-•   SNMP Scanner   www.secure-bytes.com
+• SNMP Informant www.snmp-informant.com
 
-•   SNMPUtil   www.wtcs.org
+• SNMP Scanner www.secure-bytes.com
 
-•   SolarWinds   www.solarwinds.com
+• SNMPUtil www.wtcs.org
 
-LDAP Enumeration
-•   Active Directory Explorer   http://technet.microsoft.com
+• SolarWinds www.solarwinds.com
 
-•   JXplorer   www.jxplorer.org
+LDAP Enumeration • Active Directory Explorer [http://technet.microsoft.com](http://technet.microsoft.com)
 
-•   LDAP Search   http://securityxploded.com
+• JXplorer www.jxplorer.org
 
-•   LEX   www.ldapexplorer.com
+• LDAP Search [http://securityxploded.com](http://securityxploded.com)
 
-•   Softerra   www.ldapadministrator.com
+• LEX www.ldapexplorer.com
 
-NTP Enumeration
-•   Atom Sync   www.atomsync.com
+• Softerra www.ldapadministrator.com
 
-•   LAN Time Analyzer   www.bytefusion.com
+NTP Enumeration • Atom Sync www.atomsync.com
 
-•   NTP Server Scanner   www.bytefusion.com
+• LAN Time Analyzer www.bytefusion.com
 
-•   NTP Time Server Monitor   www.meinbergglobal.com
+• NTP Server Scanner www.bytefusion.com
 
-Registry Tools
-•   Active Registry Monitor   www.devicelock.com
+• NTP Time Server Monitor www.meinbergglobal.com
 
-•   All-seeing-Eye   www.fortego.com
+Registry Tools • Active Registry Monitor www.devicelock.com
 
-•   Comodo Cloud Scanner   www.comodo.com
+• All-seeing-Eye www.fortego.com
 
-•   Power Tools   www.macecraft.com
+• Comodo Cloud Scanner www.comodo.com
 
-•   Reg Organizer   www.chemtable.com
+• Power Tools www.macecraft.com
 
-•   RegScanner   www.nirsoft.net
+• Reg Organizer www.chemtable.com
 
-Windows Service Monitoring Tools
-•   Nagios   www.nagios.com
+• RegScanner www.nirsoft.net
 
-•   Process Hacker   http://processhacker.sourceforge.net
+Windows Service Monitoring Tools • Nagios www.nagios.com
 
-•   SMART   www.thewindowsclub.com
+• Process Hacker [http://processhacker.sourceforge.net](http://processhacker.sourceforge.net)
 
-•   SrvMan   http://tools.sysprogs.org
+• SMART www.thewindowsclub.com
 
-File/Folder Integrity Checkers
-•   ACSV   www.irnis.net
+• SrvMan [http://tools.sysprogs.org](http://tools.sysprogs.org)
 
-•   FastSum   www.fastsum.com
+File/Folder Integrity Checkers • ACSV www.irnis.net
 
-•   FileVerifier   www.programmingunlimited.net
+• FastSum www.fastsum.com
 
-•   OSSEC   https://ossec.github.io/
+• FileVerifier www.programmingunlimited.net
 
-•   Verisys   www.ionx.co.uk
+• OSSEC [https://ossec.github.io/](https://ossec.github.io/)
 
-•   WinMD5   www.blisstonia.com
+• Verisys www.ionx.co.uk
 
-SYSTEM HACKING TOOLS
-Default Password Search Links
-•   securityoverride.org
+• WinMD5 www.blisstonia.com
 
-•   www.routerpasswords.com
+SYSTEM HACKING TOOLS Default Password Search Links • securityoverride.org
 
-•   w3dt.net
+• www.routerpasswords.com
 
-•   cirt.net
+• w3dt.net
 
-•   default-password.info
+• cirt.net
 
-•   defaultpassword.us
+• default-password.info
 
-•   www.passwordsdatabase.com
+• defaultpassword.us
 
-Password Hacking Tools
-•   Aircrack   www.aircrack-ng.org/
+• www.passwordsdatabase.com
 
-•   Brutus   www.hoobie.net/brutus/
+Password Hacking Tools • Aircrack www.aircrack-ng.org/
 
-•   Cain   www.oxid.it
+• Brutus www.hoobie.net/brutus/
 
-•   CloudCracker   www.cloudcracker.com
+• Cain www.oxid.it
 
-•   ElcomSoft   www.elcomsoft.com/
+• CloudCracker www.cloudcracker.com
 
-•   FlexiSpy (mobile)   www.flexispy.com
+• ElcomSoft www.elcomsoft.com/
 
-•   John the Ripper   www.openwall.com
+• FlexiSpy \(mobile\) www.flexispy.com
 
-•   LastBit   http://lastbit.com/
+• John the Ripper www.openwall.com
 
-•   LCP   www.lcpsoft.com
+• LastBit [http://lastbit.com/](http://lastbit.com/)
 
-•   KerbCrack   http://ntsecurity.nu
+• LCP www.lcpsoft.com
 
-•   Ophcrack   http://ophcrack.sourceforge.net
+• KerbCrack [http://ntsecurity.nu](http://ntsecurity.nu)
 
-•   Rainbow crack   www.antsight.com/zsl/rainbowcrack/
+• Ophcrack [http://ophcrack.sourceforge.net](http://ophcrack.sourceforge.net)
 
-•   THC-Hydra   www.thc.org/thc-hydra/
+• Rainbow crack www.antsight.com/zsl/rainbowcrack/
 
-•   Windows Password Recovery   www.windowspasswordsrecovery.com
+• THC-Hydra www.thc.org/thc-hydra/
 
-DoS/DDos
-•   AnDOSid   http://andosid.android.informer.com
+• Windows Password Recovery www.windowspasswordsrecovery.com
 
-•   BanglaDos   http://sourceforge.net
+DoS/DDos • AnDOSid [http://andosid.android.informer.com](http://andosid.android.informer.com)
 
-•   Dereil/HOIC   http://sourceforge.net
+• BanglaDos [http://sourceforge.net](http://sourceforge.net)
 
-•   DoS HTTP   http://socketsoft.net
+• Dereil/HOIC [http://sourceforge.net](http://sourceforge.net)
 
-•   HULK   www.sectorix.com
+• DoS HTTP [http://socketsoft.net](http://socketsoft.net)
 
-•   LOIC   http://sourceforge.net
+• HULK www.sectorix.com
 
-•   Tor’s Hammer   http://packetstormsecurity.com
+• LOIC [http://sourceforge.net](http://sourceforge.net)
 
-Sniffing
-•   Ace   www.effetech.com
+• Tor’s Hammer [http://packetstormsecurity.com](http://packetstormsecurity.com)
 
-•   Ettercap   www.ettercap-project.org/ettercap/#
+Sniffing • Ace www.effetech.com
 
-•   KerbSniff   http://ntsecurity.nu
+• Ettercap www.ettercap-project.org/ettercap/\#
 
-•   Wireshark   www.wireshark.org/
+• KerbSniff [http://ntsecurity.nu](http://ntsecurity.nu)
 
-Keyloggers and Screen Capture
-•   Actual Keylogger   www.actualkeylogger.com
+• Wireshark www.wireshark.org/
 
-•   Actual Spy   www.actualspy.com
+Keyloggers and Screen Capture • Actual Keylogger www.actualkeylogger.com
 
-•   All In One Keylogger   www.relytec.com
+• Actual Spy www.actualspy.com
 
-•   Amac   www.amackeylogger.com
+• All In One Keylogger www.relytec.com
 
-•   Desktop Spy   www.spyarsenal.com
+• Amac www.amackeylogger.com
 
-•   Ghost   www.keylogger.net
+• Desktop Spy www.spyarsenal.com
 
-•   Handy Keylogger   www.handy-keylogger.com
+• Ghost www.keylogger.net
 
-•   Hidden Recorder   www.oleansoft.com
+• Handy Keylogger www.handy-keylogger.com
 
-•   IcyScreen   www.16software.com
+• Hidden Recorder www.oleansoft.com
 
-•   KeyProwler   www.keyprowler.com
+• IcyScreen www.16software.com
 
-•   Ultimate Keylogger   www.ultimatekeylogger.com
+• KeyProwler www.keyprowler.com
 
-•   USB Grabber   http://digitaldream.persiangig.com
+• Ultimate Keylogger www.ultimatekeylogger.com
 
-Privilege Escalation
-•   Password Recovery   www.windowspasswordrecovery.com
+• USB Grabber [http://digitaldream.persiangig.com](http://digitaldream.persiangig.com)
 
-•   Password Recovery Boot Disk   www.rixler.com
+Privilege Escalation • Password Recovery www.windowspasswordrecovery.com
 
-•   Password Reset   www.reset-windows-password.net
+• Password Recovery Boot Disk www.rixler.com
 
-•   System Recovery   www.elcomsoft.com
+• Password Reset www.reset-windows-password.net
 
-Executing Applications
-•   Dameware   www.dameware.com
+• System Recovery www.elcomsoft.com
 
-•   PDQ Deploy   www.adminarsenal.com
+Executing Applications • Dameware www.dameware.com
 
-•   RemoteExec   www.isdecisions.com
+• PDQ Deploy www.adminarsenal.com
 
-Spyware
-•   Activity Monitor   www.softactivity.com
+• RemoteExec www.isdecisions.com
 
-•   Desktop Spy   www.spyarsenal.com
+Spyware • Activity Monitor www.softactivity.com
 
-•   eBlaster   www.spectorsoft.com
+• Desktop Spy www.spyarsenal.com
 
-•   EmailObserver   www.softsecurity.com
+• eBlaster www.spectorsoft.com
 
-•   Kahlown Screen Spy   www.lesoftrejion.com
+• EmailObserver www.softsecurity.com
 
-•   LANVisor   www.lanvisor.com
+• Kahlown Screen Spy www.lesoftrejion.com
 
-•   NetVisor   www.netvizor.net
+• LANVisor www.lanvisor.com
 
-•   OsMonitor   www.os-monitor.com
+• NetVisor www.netvizor.net
 
-•   Power Spy   www.ematrixsoft.com
+• OsMonitor www.os-monitor.com
 
-•   Remote Desktop Spy   www.global-spy-software.com
+• Power Spy www.ematrixsoft.com
 
-•   Spector Pro   www.spectorsoft.com
+• Remote Desktop Spy www.global-spy-software.com
 
-•   SpyTech   www.spytech-web.com
+• Spector Pro www.spectorsoft.com
 
-•   SSPro   www.tucows.com/preview/403921
+• SpyTech www.spytech-web.com
 
-•   USB spy   www.everstrike.com
+• SSPro www.tucows.com/preview/403921
 
-Mobile Spyware
-•   Easy GPS   www.easygps.com
+• USB spy www.everstrike.com
 
-•   GPS TrackMaker Professional   www.trackmaker.com
+Mobile Spyware • Easy GPS www.easygps.com
 
-•   John the Ripper   www.openwall.com
+• GPS TrackMaker Professional www.trackmaker.com
 
-•   Mobile Spy   www.mobile-spy.com
+• John the Ripper www.openwall.com
 
-•   MobiStealth Cell Phone Spy   www.mobistealth.com
+• Mobile Spy www.mobile-spy.com
 
-•   Modem Spy   www.modemspy.com
+• MobiStealth Cell Phone Spy www.mobistealth.com
 
-•   mSpy   www.mspy.com
+• Modem Spy www.modemspy.com
 
-•   Spy Phone Gold   https://spyera.com
+• mSpy www.mspy.com
 
-•   Trackstick   www.trackstick.com
+• Spy Phone Gold [https://spyera.com](https://spyera.com)
 
-Covering Tracks
-•   Auditpol   www.microsoft.com
+• Trackstick www.trackstick.com
 
-•   CCleaner   www.piriform.com
+Covering Tracks • Auditpol www.microsoft.com
 
-•   ELSave   www.ibt.ku.dk
+• CCleaner www.piriform.com
 
-•   EraserPro   www.acesoft.net
+• ELSave www.ibt.ku.dk
 
-•   Evidence Eliminator   www.evidence-eliminator.com
+• EraserPro www.acesoft.net
 
-•   MRU-Blaster   www.brightfort.com
+• Evidence Eliminator www.evidence-eliminator.com
 
-•   WindowWasher   www.webroot.com
+• MRU-Blaster www.brightfort.com
 
-•   WinZapper   www.ntsecurity.nu
+• WindowWasher www.webroot.com
 
-Packet Crafting/Spoofing
-•   Hping2   www.hping.org/
+• WinZapper www.ntsecurity.nu
 
-•   Komodia   www.komodia.com
+Packet Crafting/Spoofing • Hping2 www.hping.org/
 
-•   NetscanTools Pro   www.netscantools.com
+• Komodia www.komodia.com
 
-•   Ostinato   https//ostinato.org
+• NetscanTools Pro www.netscantools.com
 
-•   Packet generator   http://sourceforge.net
+• Ostinato https//ostinato.org
 
-•   PackEth   http://sourceforge.net
+• Packet generator [http://sourceforge.net](http://sourceforge.net)
 
-•   WireEdit   wireedit.com
+• PackEth [http://sourceforge.net](http://sourceforge.net)
 
-Session Hijacking
-•   Burp Suite   http://portswigger.net
+• WireEdit wireedit.com
 
-•   Ettercap   http://ettercap.sourceforge.net
+Session Hijacking • Burp Suite [http://portswigger.net](http://portswigger.net)
 
-•   Firesheep   http://codebutler.github.com/firesheep
+• Ettercap [http://ettercap.sourceforge.net](http://ettercap.sourceforge.net)
 
-•   Hamster/Ferret   http://erratasec.blogspot.com/2009/03/hamster-20-and-ferret-20.html
+• Firesheep [http://codebutler.github.com/firesheep](http://codebutler.github.com/firesheep)
 
-•   Hunt   http://packetstormsecurity.com
+• Hamster/Ferret [http://erratasec.blogspot.com/2009/03/hamster-20-and-ferret-20.html](http://erratasec.blogspot.com/2009/03/hamster-20-and-ferret-20.html)
 
-•   Paros Proxy   www.parosproxy.org
+• Hunt [http://packetstormsecurity.com](http://packetstormsecurity.com)
 
-Clearing Tracks
-•   BleachBit   http://bleachbit.sourceforge.net
+• Paros Proxy www.parosproxy.org
 
-•   CCleaner   www.piriform.org
+Clearing Tracks • BleachBit [http://bleachbit.sourceforge.net](http://bleachbit.sourceforge.net)
 
-•   MRU-Blaster   www.brightfort.com
+• CCleaner www.piriform.org
 
-•   Window Washer   www.eusing.com
+• MRU-Blaster www.brightfort.com
 
-•   Wipe   http://privacyroot.com
+• Window Washer www.eusing.com
 
-CRYPTOGRAPHY AND ENCRYPTION
-Encryption Tools
-•   AxCrypt   www.axantum.com/axcrypt/
+• Wipe [http://privacyroot.com](http://privacyroot.com)
 
-•   BitLocker   http://microsoft.com
+CRYPTOGRAPHY AND ENCRYPTION Encryption Tools • AxCrypt www.axantum.com/axcrypt/
 
-•   DriveCrypt   www.securstar.com
+• BitLocker [http://microsoft.com](http://microsoft.com)
 
-•   GNU Privacy Guard   https://www.gnupg.org/
+• DriveCrypt www.securstar.com
 
-•   VeraCrypt   https://veracrypt.codeplex.com/
+• GNU Privacy Guard [https://www.gnupg.org/](https://www.gnupg.org/)
 
-Hash Tools
-•   HashCalc   http://nirsoft.net
+• VeraCrypt [https://veracrypt.codeplex.com/](https://veracrypt.codeplex.com/)
 
-•   McAfee Hash Calculator   www.mcafee.com/us/downloads/free-tools/hash-calculator.aspx
+Hash Tools • HashCalc [http://nirsoft.net](http://nirsoft.net)
 
-•   MD5 Hash   www.digitalvolcano.co.uk/content/md5-hash
+• McAfee Hash Calculator www.mcafee.com/us/downloads/free-tools/hash-calculator.aspx
 
-•   Quick Hash   http://sourceforge.net/projects/quickhash/
+• MD5 Hash www.digitalvolcano.co.uk/content/md5-hash
 
-Steganography
-•   AudioStega   www.mathworks.com
+• Quick Hash [http://sourceforge.net/projects/quickhash/](http://sourceforge.net/projects/quickhash/)
 
-•   DeepSound   http://jpinsoft.net
+Steganography • AudioStega www.mathworks.com
 
-•   EzStego   www.stego.com
+• DeepSound [http://jpinsoft.net](http://jpinsoft.net)
 
-•   gifShuffle   www.darkside.com.au
+• EzStego www.stego.com
 
-•   ImageHide   www.dancemammal.com
+• gifShuffle www.darkside.com.au
 
-•   Invisible Secrets   www.invisiblesecrets.com/
+• ImageHide www.dancemammal.com
 
-•   JPHIDE   http://nixbit.com
+• Invisible Secrets www.invisiblesecrets.com/
 
-•   Masker   www.softpuls.com
+• JPHIDE [http://nixbit.com](http://nixbit.com)
 
-•   Merge Streams   www.ntkernel.com
+• Masker www.softpuls.com
 
-•   MP3Stegz   http://sourceforge.net
+• Merge Streams www.ntkernel.com
 
-•   OfficeXML   www.irongeek.com
+• MP3Stegz [http://sourceforge.net](http://sourceforge.net)
 
-•   OmniHidePro   http://omnihide.com
+• OfficeXML www.irongeek.com
 
-•   OpenStego   http://openstego.sourceforge.net/
+• OmniHidePro [http://omnihide.com](http://omnihide.com)
 
-•   OurSecret   www.securekit.net
+• OpenStego [http://openstego.sourceforge.net/](http://openstego.sourceforge.net/)
 
-•   QuickStego   www.quickcrypto.com
+• OurSecret www.securekit.net
 
-•   SpamMimic   www.spammimic.com
+• QuickStego www.quickcrypto.com
 
-•   Spy Pix (mobile)   www.juicybitssoftware.com
+• SpamMimic www.spammimic.com
 
-•   Stegais (mobile)   http://stegais.com
+• Spy Pix \(mobile\) www.juicybitssoftware.com
 
-•   StegHide   http://steghide.sourceforge.net
+• Stegais \(mobile\) [http://stegais.com](http://stegais.com)
 
-•   Stego Master (mobile)   https://play.google.com
+• StegHide [http://steghide.sourceforge.net](http://steghide.sourceforge.net)
 
-•   StegParty   www.fasterlight.com
+• Stego Master \(mobile\) [https://play.google.com](https://play.google.com)
 
-•   S Tools   http://spychecker.com
+• StegParty www.fasterlight.com
 
-•   wbStego   http://wbstego.wbailer.com/
+• S Tools [http://spychecker.com](http://spychecker.com)
 
-•   XPTools   www.xptools.net
+• wbStego [http://wbstego.wbailer.com/](http://wbstego.wbailer.com/)
 
-Stego Detection
-•   Gargoyle Investigator (stego detection)   www.wetstonetech.com
+• XPTools www.xptools.net
 
-•   StegAlyzerSS   www.sarc-wv.com
+Stego Detection • Gargoyle Investigator \(stego detection\) www.wetstonetech.com
 
-•   StegDetect   https://github.com/abeluck/stegdetect
+• StegAlyzerSS www.sarc-wv.com
 
-•   StegSpy   www.spy-hunter.com
+• StegDetect [https://github.com/abeluck/stegdetect](https://github.com/abeluck/stegdetect)
 
-Cryptanalysis
-•   Cryptanalysis   http://cryptanalysisto.sourceforge.net
+• StegSpy www.spy-hunter.com
 
-•   Cryptobench   http://addario.org
+Cryptanalysis • Cryptanalysis [http://cryptanalysisto.sourceforge.net](http://cryptanalysisto.sourceforge.net)
 
-•   EverCrack   http://evercrack.sourceforge.net
+• Cryptobench [http://addario.org](http://addario.org)
 
-SNIFFING
-Packet Capture
-•   CACE   www.cacetech.com
+• EverCrack [http://evercrack.sourceforge.net](http://evercrack.sourceforge.net)
 
-•   Capsa   www.colasoft.com
+SNIFFING Packet Capture • CACE www.cacetech.com
 
-•   dsniff   http://monkey.org
+• Capsa www.colasoft.com
 
-•   EtherApe   http://etherape.sourceforge.net
+• dsniff [http://monkey.org](http://monkey.org)
 
-•   NetWitness   www.netwitness.com
+• EtherApe [http://etherape.sourceforge.net](http://etherape.sourceforge.net)
 
-•   OmniPeek   www.wildpackets.com
+• NetWitness www.netwitness.com
 
-•   tcpdump   http://tcpdump.org
+• OmniPeek www.wildpackets.com
 
-•   Windump   www.winpcap.org
+• tcpdump [http://tcpdump.org](http://tcpdump.org)
 
-•   Wireshark   http://wireshark.org
+• Windump www.winpcap.org
 
-Wireless
-•   Kismet   www.kismetwireless.net
+• Wireshark [http://wireshark.org](http://wireshark.org)
 
-•   NetStumbler   www.netstumbler.com/downloads/
+Wireless • Kismet www.kismetwireless.net
 
-MAC Flooding/Spoofing
-•   Macof   https://monkey.org
+• NetStumbler www.netstumbler.com/downloads/
 
-•   SMAC   www.klcconsulting.net
+MAC Flooding/Spoofing • Macof [https://monkey.org](https://monkey.org)
 
-ARP Poisoning
-•   Cain   www.oxid.it
+• SMAC www.klcconsulting.net
 
-•   UfaSoft   http://ufasoft.com
+ARP Poisoning • Cain www.oxid.it
 
-•   WinARP Attacker   www.xfocus.net
+• UfaSoft [http://ufasoft.com](http://ufasoft.com)
 
-WIRELESS
-Discovery
-•   inSSIDer   www.metageek.net
+• WinARP Attacker www.xfocus.net
 
-•   iStumbler   www.istumbler.net
+WIRELESS Discovery • inSSIDer www.metageek.net
 
-•   Kismet   www.kismetwireless.net
+• iStumbler www.istumbler.net
 
-•   NetStumbler   www.netstumbler.com/downloads/
+• Kismet www.kismetwireless.net
 
-•   NetSurveyor   www.performancewifi.net
+• NetStumbler www.netstumbler.com/downloads/
 
-•   Vistumbler   www.vistumbler.net
+• NetSurveyor www.performancewifi.net
 
-•   WirelessMon   www.passmark.com
+• Vistumbler www.vistumbler.net
 
-Attack and Analysis
-•   Aircrack   www.Aircrack-ng.org
+• WirelessMon www.passmark.com
 
-•   AirMagnet WiFi Analyzer   http://airmagnet.com
+Attack and Analysis • Aircrack www.Aircrack-ng.org
 
-•   Airodump   http://Wirelessdefence.org/Contents/Aircrack_airodump.htm
+• AirMagnet WiFi Analyzer [http://airmagnet.com](http://airmagnet.com)
 
-•   AirPcap   www.cacetech.com
+• Airodump [http://Wirelessdefence.org/Contents/Aircrack\_airodump.htm](http://Wirelessdefence.org/Contents/Aircrack_airodump.htm)
 
-•   AirSnort   http://airsnort.shmoo.com/
+• AirPcap www.cacetech.com
 
-•   MadWifi   http://madwifi-project.org
+• AirSnort [http://airsnort.shmoo.com/](http://airsnort.shmoo.com/)
 
-•   WiGLE   http://wigle.net
+• MadWifi [http://madwifi-project.org](http://madwifi-project.org)
 
-Packet Sniffing
-•   Capsa   www.colasoft.com
+• WiGLE [http://wigle.net](http://wigle.net)
 
-•   CommView   www.tamos.com
+Packet Sniffing • Capsa www.colasoft.com
 
-•   Cascade Pilot   www.riverbed.com
+• CommView www.tamos.com
 
-•   Omnipeek   www.wildpackets.com
+• Cascade Pilot www.riverbed.com
 
-WEP/WPA Cracking
-•   Aircrack   www.aircrack-ng.org/
+• Omnipeek www.wildpackets.com
 
-•   coWPAtty   www.wirelessdefence.org
+WEP/WPA Cracking • Aircrack www.aircrack-ng.org/
 
-•   KisMAC   http://kismac-ng.org/
+• coWPAtty www.wirelessdefence.org
 
-•   WepAttack   www.wepattack.sourceforge.net
+• KisMAC [http://kismac-ng.org/](http://kismac-ng.org/)
 
-•   WepCrack   www.wepcrack.sourceforge.net
+• WepAttack www.wepattack.sourceforge.net
 
-•   Wireless Security Auditor   www.elcomsoft.com
+• WepCrack www.wepcrack.sourceforge.net
 
-Bluetooth
-•   BH Bluejack   http://croozeus.com
+• Wireless Security Auditor www.elcomsoft.com
 
-•   BlueScanner   www.arubanetworks.com
+Bluetooth • BH Bluejack [http://croozeus.com](http://croozeus.com)
 
-•   Bluesnarfer   www.airdemon.net
+• BlueScanner www.arubanetworks.com
 
-•   BT Audit   http://trifinite.org
+• Bluesnarfer www.airdemon.net
 
-•   BTBrowser   http://wireless.klings.org
+• BT Audit [http://trifinite.org](http://trifinite.org)
 
-•   BTScanner   www.pentest.co.uk
+• BTBrowser [http://wireless.klings.org](http://wireless.klings.org)
 
-•   CIHwBT   http://sourceforge.net
+• BTScanner www.pentest.co.uk
 
-•   Phonesnoop   www.blackberryrc.com
+• CIHwBT [http://sourceforge.net](http://sourceforge.net)
 
-MOBILE AND IOT
-Mobile Attacks
-•   Backtrack Simulator   https://play.google.com
+• Phonesnoop www.blackberryrc.com
 
-•   Bluediving   http://bluediving.sourceforge.net
+MOBILE AND IOT Mobile Attacks • Backtrack Simulator [https://play.google.com](https://play.google.com)
 
-•   BlueScanner   http://sourceforge.net
+• Bluediving [http://bluediving.sourceforge.net](http://bluediving.sourceforge.net)
 
-•   BT Browser   www.bluejackingtools.com
+• BlueScanner [http://sourceforge.net](http://sourceforge.net)
 
-•   Super BlueTooth Hack   www.brothersoft.com
+• BT Browser www.bluejackingtools.com
 
-•   WiHack   https://wihack.com
+• Super BlueTooth Hack www.brothersoft.com
 
-Mobile Application Testing
-•   BlueBorne Scanner   www.armis.com
+• WiHack [https://wihack.com](https://wihack.com)
 
-•   Eternal Blue Scanner   ebvscanner.firebaseapp.com
+Mobile Application Testing • BlueBorne Scanner www.armis.com
 
-•   Hackode   www.ravikumarpubey.com
+• Eternal Blue Scanner ebvscanner.firebaseapp.com
 
-•   Shellshock   www.zimperium.com
+• Hackode www.ravikumarpubey.com
 
-•   threatScan   https://free.kaspersky.com
+• Shellshock www.zimperium.com
 
-•   X-Ray   https://duo.com/labs
+• threatScan [https://free.kaspersky.com](https://free.kaspersky.com)
 
-Mobile Scanning
-•   cSploit   www.csploit.org
+• X-Ray [https://duo.com/labs](https://duo.com/labs)
 
-•   FaceNiff   www.effecthacking.com
+Mobile Scanning • cSploit www.csploit.org
 
-•   fing   www.fing.io
+• FaceNiff www.effecthacking.com
 
-•   Hackode   play.google.com
+• fing www.fing.io
 
-•   IP Scanner   10base-t.com
+• Hackode play.google.com
 
-Mobile Wireless Discovery
-•   Net Signal Info   www.kaibits-software.com
+• IP Scanner 10base-t.com
 
-•   OpenSignal Maps   http://opensignal.com
+Mobile Wireless Discovery • Net Signal Info www.kaibits-software.com
 
-•   WiFiFoFum   www.wififofum.net
+• OpenSignal Maps [http://opensignal.com](http://opensignal.com)
 
-•   WiFi Manager   http://kmansoft.com
+• WiFiFoFum www.wififofum.net
 
-Mobile Device Tracking
-•   Find My Phone   http://findmyphone.mangobird.com
+• WiFi Manager [http://kmansoft.com](http://kmansoft.com)
 
-•   GadgetTrak   www.gadgettrak.com
+Mobile Device Tracking • Find My Phone [http://findmyphone.mangobird.com](http://findmyphone.mangobird.com)
 
-•   iHound   www.ihoundsoftware.com
+• GadgetTrak www.gadgettrak.com
 
-•   Where’s My Droid   http://wheresmydroid.com
+• iHound www.ihoundsoftware.com
 
-Mobile Device Proxy
-•   CyberGhost VPN   https://www.cyberghostvpn.com
+• Where’s My Droid [http://wheresmydroid.com](http://wheresmydroid.com)
 
-•   NetShade   www.raynersw.com
+Mobile Device Proxy • CyberGhost VPN [https://www.cyberghostvpn.com](https://www.cyberghostvpn.com)
 
-•   Servers Ultimate   www.icecoldapps.com
+• NetShade www.raynersw.com
 
-•   Shadowsocks   https://shadowsocks.org
+• Servers Ultimate www.icecoldapps.com
 
-Rooting/Jailbreaking
-•   Absinthe   http://greenpois0n.com
+• Shadowsocks [https://shadowsocks.org](https://shadowsocks.org)
 
-•   Cydia   http://cydia.saurik.com
+Rooting/Jailbreaking • Absinthe [http://greenpois0n.com](http://greenpois0n.com)
 
-•   Evasi0n7   http://evasi0n.com
+• Cydia [http://cydia.saurik.com](http://cydia.saurik.com)
 
-•   Geeksn0w   http://geeksn0w.it
+• Evasi0n7 [http://evasi0n.com](http://evasi0n.com)
 
-•   Kingo   https://www.kingoapp.com/
+• Geeksn0w [http://geeksn0w.it](http://geeksn0w.it)
 
-•   One Click Root   https://www.oneclickroot.com/
+• Kingo [https://www.kingoapp.com/](https://www.kingoapp.com/)
 
-•   Pangu   http://en.pangu.io
+• One Click Root [https://www.oneclickroot.com/](https://www.oneclickroot.com/)
 
-•   Redsn0w   http://redsn0w.info
+• Pangu [http://en.pangu.io](http://en.pangu.io)
 
-•   Superboot   (Multiple download sites)
+• Redsn0w [http://redsn0w.info](http://redsn0w.info)
 
-•   SuperOneClick   http://superoneclick-download.soft112.com/
+• Superboot \(Multiple download sites\)
 
-MDM
-•   MaaS360   www.maas360.com
+• SuperOneClick [http://superoneclick-download.soft112.com/](http://superoneclick-download.soft112.com/)
 
-•   MobiControl   www.sati.net
+MDM • MaaS360 www.maas360.com
 
-•   SAP Afaria   www.sybase.com
+• MobiControl www.sati.net
 
-•   XenMobile   www.citrix.com
+• SAP Afaria www.sybase.com
 
-IoT Tools
-•   Attify Zigbee Framework   www.attify.com
+• XenMobile www.citrix.com
 
-•   AWS IoT Defender   aws.amazon.com
+IoT Tools • Attify Zigbee Framework www.attify.com
 
-•   beSTORM Vulnerability Scanner   www.beyondsecurity.com
+• AWS IoT Defender aws.amazon.com
 
-•   Censys (search engine)   censys.io
+• beSTORM Vulnerability Scanner www.beyondsecurity.com
 
-•   ChipWhisperer   newae.com
+• Censys \(search engine\) censys.io
 
-•   CloudShark   www.cloudshark.org
+• ChipWhisperer newae.com
 
-•   darktarce   www.darktarce.com
+• CloudShark www.cloudshark.org
 
-•   DigiCert IoT Security   www.digicert.com
+• darktarce www.darktarce.com
 
-•   Firmalyzer   firmalyzer.com
+• DigiCert IoT Security www.digicert.com
 
-•   Foren6 (IoT Sniffing)   cetic.github.io
+• Firmalyzer firmalyzer.com
 
-•   Google Cloud Iot   cloud.google.com
+• Foren6 \(IoT Sniffing\) cetic.github.io
 
-•   IoT Security Platform   www.pwnieexpress.com
+• Google Cloud Iot cloud.google.com
 
-•   IoTsploit   iotsploit.com
+• IoT Security Platform www.pwnieexpress.com
 
-•   JTAGulator   grandideastudio.com
+• IoTsploit iotsploit.com
 
-•   KillerBee   github.com
+• JTAGulator grandideastudio.com
 
-•   MultiPing (info gathering)   www.pingman.com
+• KillerBee github.com
 
-•   RIoT Vulnerability Scanner   www.beyondtrust.com
+• MultiPing \(info gathering\) www.pingman.com
 
-•   SeaCAT security   www.tekalabs.com
+• RIoT Vulnerability Scanner www.beyondtrust.com
 
-•   SecBee   github.com
+• SeaCAT security www.tekalabs.com
 
-•   Symantec IoT Security   www.symantec.com
+• SecBee github.com
 
-•   Thingful (search engine)   www.thingful.net
+• Symantec IoT Security www.symantec.com
 
-•   Ubertooth   github.com
+• Thingful \(search engine\) www.thingful.net
 
-•   Z-Wave Sniffer   www.suphammer.net
+• Ubertooth github.com
 
-TROJANS AND MALWARE
-Anti-Malware (Anti-Spyware and Antivirus)
-•   Ad-Aware   www.lavasoft.com
+• Z-Wave Sniffer www.suphammer.net
 
-•   Avast   www.avast.com
+TROJANS AND MALWARE Anti-Malware \(Anti-Spyware and Antivirus\) • Ad-Aware www.lavasoft.com
 
-•   AVG   free.avg.com
+• Avast www.avast.com
 
-•   BitDefender   www.bitdefender.com
+• AVG free.avg.com
 
-•   HackAlert   www.armorize.com
+• BitDefender www.bitdefender.com
 
-•   Kapersky   www.kapersky.com
+• HackAlert www.armorize.com
 
-•   MacScan   http://macscan.securemac.com
+• Kapersky www.kapersky.com
 
-•   Malwarebytes   www.malwarebytes.com
+• MacScan [http://macscan.securemac.com](http://macscan.securemac.com)
 
-•   McAfee   www.mcafee.com
+• Malwarebytes www.malwarebytes.com
 
-•   Panda   www.pandasecurity.com
+• McAfee www.mcafee.com
 
-•   Spybot Search and Destroy   www.safer-networking.org
+• Panda www.pandasecurity.com
 
-•   SpyHunter   www.enigmasoftware.com
+• Spybot Search and Destroy www.safer-networking.org
 
-•   SUPERAntiSpyware   www.superantispyware.com
+• SpyHunter www.enigmasoftware.com
 
-•   Symantec   www.symantec.com
+• SUPERAntiSpyware www.superantispyware.com
 
-Crypters and Packers
-•   EliteWrap   https://packetstormsecurity.com/files/14593/elitewrap.zip.html
+• Symantec www.symantec.com
 
-•   Crypter   www.crypter.com
+Crypters and Packers • EliteWrap [https://packetstormsecurity.com/files/14593/elitewrap.zip.html](https://packetstormsecurity.com/files/14593/elitewrap.zip.html)
 
-•   Aegis   www.aegiscrypter.com
+• Crypter www.crypter.com
 
-•   AIO FUD   (Multiple download sites)
+• Aegis www.aegiscrypter.com
 
-•   Galaxy Crypter   (Multiple download sites)
+• AIO FUD \(Multiple download sites\)
 
-•   Heaven Crypter   (Multiple download sites)
+• Galaxy Crypter \(Multiple download sites\)
 
-•   Hidden Sight Crypter   http://securecybergroup.in
+• Heaven Crypter \(Multiple download sites\)
 
-•   SwayzCryptor   (Multiple download sites)
+• Hidden Sight Crypter [http://securecybergroup.in](http://securecybergroup.in)
 
-Monitoring Tools
-•   CurrPorts   www.nirsoft.net
+• SwayzCryptor \(Multiple download sites\)
 
-•   Driver Detective   www.driveshq.com
+Monitoring Tools • CurrPorts www.nirsoft.net
 
-•   Fport   www.mcafee.com/us/downloads/free-tools/fport.aspx
+• Driver Detective www.driveshq.com
 
-•   HiJackThis   http://free.antivirus.com
+• Fport www.mcafee.com/us/downloads/free-tools/fport.aspx
 
-•   ProcessHacker   http://processhacker.sourceforge.net
+• HiJackThis [http://free.antivirus.com](http://free.antivirus.com)
 
-•   Regshot   http://sourceforge.net/projects/regshot
+• ProcessHacker [http://processhacker.sourceforge.net](http://processhacker.sourceforge.net)
 
-•   SysAnalyzer   http://labs.idefense.com/software/malcode.php
+• Regshot [http://sourceforge.net/projects/regshot](http://sourceforge.net/projects/regshot)
 
-•   SvrMan   http://tools.sysprogs.org
+• SysAnalyzer [http://labs.idefense.com/software/malcode.php](http://labs.idefense.com/software/malcode.php)
 
-•   What’s Running   www.whatsrunning.net
+• SvrMan [http://tools.sysprogs.org](http://tools.sysprogs.org)
 
-Attack Tools
-•   Nemesis   http://nemesis.sourceforge.net
+• What’s Running www.whatsrunning.net
 
-•   Netcat   http://netcat.sourceforge.net
+Attack Tools • Nemesis [http://nemesis.sourceforge.net](http://nemesis.sourceforge.net)
 
-WEB ATTACKS
-Attack Tools
-•   Black Widow   http://softbytelabs.com
+• Netcat [http://netcat.sourceforge.net](http://netcat.sourceforge.net)
 
-•   cURL   http://curl.haxx.se
+WEB ATTACKS Attack Tools • Black Widow [http://softbytelabs.com](http://softbytelabs.com)
 
-•   Httprecon   www.computec.ch
+• cURL [http://curl.haxx.se](http://curl.haxx.se)
 
-•   ID Serve   www.grc.com
+• Httprecon www.computec.ch
 
-•   InstantSource   www.blazingtools.com
+• ID Serve www.grc.com
 
-•   Metasploit   www.metasploit.com
+• InstantSource www.blazingtools.com
 
-•   NetBrute   www.rawlogic.com
+• Metasploit www.metasploit.com
 
-•   Netsparker   www.mavitunasecurity.com
+• NetBrute www.rawlogic.com
 
-•   Nstalker   http://nstalker.com
+• Netsparker www.mavitunasecurity.com
 
-•   SoapUI   www.soapui.org
+• Nstalker [http://nstalker.com](http://nstalker.com)
 
-•   WatcherWeb   www.casaba.com
+• SoapUI www.soapui.org
 
-•   WebInspect   www8.hp.com/us/en/software-solutions/webinspect-dynamic-analysis-dast
+• WatcherWeb www.casaba.com
 
-•   WebScarab   http://owasp.org
+• WebInspect www8.hp.com/us/en/software-solutions/webinspect-dynamic-analysis-dast
 
-•   WebSleuth   http://sandsprite.com
+• WebScarab [http://owasp.org](http://owasp.org)
 
-•   Wfetch   www.microsoft.com
+• WebSleuth [http://sandsprite.com](http://sandsprite.com)
 
-•   XMLSpy   www.altova.com
+• Wfetch www.microsoft.com
 
-SQL Injection
-•   BSQL Hacker   http://labs.portcullis.co.uk
+• XMLSpy www.altova.com
 
-•   Marathon   http://marathontool.codeplex.com
+SQL Injection • BSQL Hacker [http://labs.portcullis.co.uk](http://labs.portcullis.co.uk)
 
-•   SQL Brute   http://gdssecurity.com
+• Marathon [http://marathontool.codeplex.com](http://marathontool.codeplex.com)
 
-•   SQLGET   http://darknet.org.uk
+• SQL Brute [http://gdssecurity.com](http://gdssecurity.com)
 
-•   SQL Injection Brute   http://code.google.com
+• SQLGET [http://darknet.org.uk](http://darknet.org.uk)
 
-•   SQLNinja   http://sqlninja.sourceforge.net
+• SQL Injection Brute [http://code.google.com](http://code.google.com)
 
-MISCELLANEOUS
-Cloud Security
-•   Alert Logic   www.alertlogic.com
+• SQLNinja [http://sqlninja.sourceforge.net](http://sqlninja.sourceforge.net)
 
-•   CloudPassage Halo   https://www.cloudpassage.com/
+MISCELLANEOUS Cloud Security • Alert Logic www.alertlogic.com
 
-•   Core CloudInspect   http://coreinspection.com/
+• CloudPassage Halo [https://www.cloudpassage.com/](https://www.cloudpassage.com/)
 
-•   Panda Cloud Office Protection   www.cloudantivirus.com
+• Core CloudInspect [http://coreinspection.com/](http://coreinspection.com/)
 
-•   Symantec O3   www.symantec.com
+• Panda Cloud Office Protection www.cloudantivirus.com
 
-•   Trend Micro Instant-On   www.trendmicro.com
+• Symantec O3 www.symantec.com
 
-Cloud Services Testing
-•   BlazeMeter   blazemeter.com/
+• Trend Micro Instant-On www.trendmicro.com
 
-•   LoadStorm   loadstorm.com
+Cloud Services Testing • BlazeMeter blazemeter.com/
 
-•   SOASTA   www.soasta.com
+• LoadStorm loadstorm.com
 
-•   Zephyr   www.getzephyr.com
+• SOASTA www.soasta.com
 
-IDS
-•   Snort   www.snort.org
+• Zephyr www.getzephyr.com
 
-Evasion Tools
-•   ADMmutate   www.ktwo.ca
+IDS • Snort www.snort.org
 
-•   IDS Informer   www.net-security.org
+Evasion Tools • ADMmutate www.ktwo.ca
 
-•   Inundator   http://inundator.sourceforge.net
+• IDS Informer www.net-security.org
 
-•   NIDSbench   http://packetstormsecurity.org/UNIX/IDS/nidsbench/
+• Inundator [http://inundator.sourceforge.net](http://inundator.sourceforge.net)
 
-•   Tcp-over-dns   http://analogbit.com/software/tcp-over-dns
+• NIDSbench [http://packetstormsecurity.org/UNIX/IDS/nidsbench/](http://packetstormsecurity.org/UNIX/IDS/nidsbench/)
 
-Pen Test Suites
-•   Armitage   www.fastandeasyhacking.com
+• Tcp-over-dns [http://analogbit.com/software/tcp-over-dns](http://analogbit.com/software/tcp-over-dns)
 
-•   CANVAS   http://immunitysec.com
+Pen Test Suites • Armitage www.fastandeasyhacking.com
 
-•   Cobalt Strike   www.cobaltstrike.com
+• CANVAS [http://immunitysec.com](http://immunitysec.com)
 
-•   Codenomicon   https://www.synopsys.com
+• Cobalt Strike www.cobaltstrike.com
 
-•   Core Impact   www.coresecurity.com
+• Codenomicon [https://www.synopsys.com](https://www.synopsys.com)
 
-•   Metasploit   www.metasploit.org
+• Core Impact www.coresecurity.com
 
-VPN/FW Scanner
-•   IKE-Scan   http://sectools.org/tool/ike-scan/
+• Metasploit www.metasploit.org
 
-Social Engineering
-•   Social Engineer Toolkit   www.trustedsec.com
+VPN/FW Scanner • IKE-Scan [http://sectools.org/tool/ike-scan/](http://sectools.org/tool/ike-scan/)
 
-Extras
-•   Core Impact Demo   https://coresecurity.webex.com/
+Social Engineering • Social Engineer Toolkit www.trustedsec.com
 
-•   Sysinternals   https://docs.microsoft.com/en-us/sysinternals/
+Extras • Core Impact Demo [https://coresecurity.webex.com/](https://coresecurity.webex.com/)
 
-•   Tripwire   www.tripwire.com/
+• Sysinternals [https://docs.microsoft.com/en-us/sysinternals/](https://docs.microsoft.com/en-us/sysinternals/)
 
-Linux Distributions
-•   BackTrack   www.remote-exploit.org/index.php/BackTrack
+• Tripwire www.tripwire.com/
 
-•   Distrowatch   http://distrowatch.com
+Linux Distributions • BackTrack www.remote-exploit.org/index.php/BackTrack
+
+• Distrowatch [http://distrowatch.com](http://distrowatch.com)
 
 TOOLS, SITES, AND REFERENC
+

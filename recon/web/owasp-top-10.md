@@ -26,7 +26,7 @@ Many legacies or misconfigured XML processors evaluate references to external en
 
 ## A5:2017 - Broken Access Control _\(A4:2013 - Insecure Direct Object References + A7:2013 - Missing Function Level Access Control\)_
 
-When restrictions over what authenticated users can do are not applied correctly, attackers may exploit these circumstances to unauthorizedly ****access functionalities and/or data, other users' accounts, read sensitive data, modify data, change access rights and permissions, etc. 
+When restrictions over what authenticated users can do are not applied correctly, attackers may exploit these circumstances to unauthorizedly _\*\*_access functionalities and/or data, other users' accounts, read sensitive data, modify data, change access rights and permissions, etc.
 
 ## A6:2017 - Security Misconfiguration
 
@@ -34,7 +34,7 @@ The very common issues mainly caused due to manually, ad hoc, or lack thereof co
 
 ## A7:2017 - Cross-Site Scripting \(XSS\)
 
-XSS occurs when applications intake non-trustworthy data and send it to the web browser without proper validation nor codification; or when it updates the existing webpage with data provided by the user using the _JavaScript-consuming_ [API ](https://www.youtube.com/watch?v=s7wmiS2mSXY)in the browser.  XSS allows attackers to execute commands in the victim's browser and the attacker may hijack the session, modify \([defacement](https://documents.trendmicro.com/assets/white_papers/wp-a-deep-dive-into-defacement.pdf)\) websites or redirect users to a malicious website. 
+XSS occurs when applications intake non-trustworthy data and send it to the web browser without proper validation nor codification; or when it updates the existing webpage with data provided by the user using the _JavaScript-consuming_ [API ](https://www.youtube.com/watch?v=s7wmiS2mSXY)in the browser. XSS allows attackers to execute commands in the victim's browser and the attacker may hijack the session, modify \([defacement](https://documents.trendmicro.com/assets/white_papers/wp-a-deep-dive-into-defacement.pdf)\) websites or redirect users to a malicious website.
 
 ## A8:2017 - Insecure Deserialization
 

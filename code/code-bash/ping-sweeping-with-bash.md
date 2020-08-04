@@ -12,22 +12,22 @@ else
 for ip in 'seq 1 254' ; do
 ping -c 1 $1.$ip | grep "64 bytes" | cut -d " " -f 4 | sed 's/.$//' &
 done
-fi 
+fi
 ```
 
-**Optional:**
+**Optional :**
 
-Save pingsweep script **output** to a text file:
+Save pingsweep script **output** to a text file :
 
 `./pingsweep.sh 192.168.1 > iplist.txt`
 
-Show contents of iplist.txt and **sort** by unique value
+Show contents of iplist.txt and **sort** by unique value
 
 `cat iplist | sort -unique`
 
-**Creative usage:**
+**Creative usage:**
 
-For loop to do basic scan of the **IPs in the list** and save to text file
+For loop to do basic scan of the **IPs in the list** and save to text file
 
 `for ip in $(cat iplist.txt); do nmap -Pn $ip; done > nmapresults.txt`
 
