@@ -107,6 +107,8 @@
   1. [OSCP \(TJNull's\)](infosec/infosec-topics/boxes/htb/htb-oscp--tjnull/)
   2. [OSWE \(TJNull's\)](infosec/infosec-topics/boxes/htb/htb-oswe-tjnull/)
 
+### [Laws and Regulations](infosec/infosec-topics/infosec-law.md)
+
 ## Network and Systems
 
 * [Network](network-and-systems/network-and-systems-topics/network/)
