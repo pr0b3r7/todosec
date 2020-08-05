@@ -108,6 +108,7 @@
         * [First Box](infosec/infosec-topics/boxes/htb/htb-oscp--tjnull/first-box.md)
       * [OSWE \(TJNull's\)](infosec/infosec-topics/boxes/htb/htb-oswe-tjnull/README.md)
         * [First Box](infosec/infosec-topics/boxes/htb/htb-oswe-tjnull/first-box.md)
+  * [Laws and Regulations](infosec/infosec-topics/infosec-law.md)
 
 ## Network and Systems
 
