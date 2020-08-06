@@ -44,9 +44,35 @@ _**Pre-emption of State Law.** The bill supersedes state laws, except where the 
 
 _**Penalties.** The bill imposes civil money penalties and prison for certain violations._" according to the [Office of the Assistant Secretary for Planning and Evaluation](https://aspe.hhs.gov/)
 
-FISMA, 
+### [Federal Information Security Management Act of 2002 - FISMA](https://www.govinfo.gov/content/pkg/PLAW-107publ347/pdf/PLAW-107publ347.pdf)
 
-Patriot Act, 
+Aims to produce key security standards and guidelines required by Congressional legislation. This body of work provides organizations the guidelines needed to raise, integrate and sustain organization-wide risk-based decisions and information security programs. 
+
+FISMA goal is to develop key risk management criteria and industry approach.
+
+* Standards for categorizing information and systems by mission impact
+* Standards for minimum security requirements for information and systems
+* Guidance for selecting appropriate controls for systems
+* Guidance for assessing controls in systems and determining  control effectiveness
+* Guidance for the authorization of systems
+* Guidance for monitoring the controls and the authorization of systems
+
+### ["Uniting and Strengthening America by providing appropriate tools required to intercept and obstruct terrorism" - Patriot Act 2001](https://www.congress.gov/107/plaws/publ56/PLAW-107publ56.pdf)
+
+Its stated goal is: _"to deter and punish terrorist acts in the United States and around the world, to enhance law enforcement investigatory tools, and for other purposes."_
+
+Enacted by the Senate and House of Representatives of the US, this law is comprised of 10 distinct titles:
+
+1. **Enhancing Domestic Security Against Terrorism** - Creation of a "Counter-terrorism fund"
+2. **Enhanced Surveillance Procedures:** 
+3. **International Money Laundering Abatement and Anti-Terrorist Financing Act of 2001**
+4. **Protecting the border** 
+5. **Removing Obstacles to Investigating Terrorism**
+6. **Providing For Victims of Terrorism, Public Safety Officers, and their families**
+7. **Increased Information Sharing for Critical Infrastructure Protection**
+8. **Strengthening the Criminal Laws Against Terrorism**
+9. **Improved Intelligence**
+10. **Miscellaneous**
 
 Privacy Act of 1974, 
 
