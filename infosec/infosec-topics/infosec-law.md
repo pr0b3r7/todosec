@@ -74,7 +74,11 @@ Enacted by the Senate and House of Representatives of the US, this law is compri
 9. **Improved Intelligence**
 10. **Miscellaneous**
 
-Privacy Act of 1974, 
+### [Privacy Act of 1974](https://www.justice.gov/opcl/privacy-act-1974#:~:text=The%20Privacy%20Act%20of%201974,of%20records%20by%20federal%20agencies.)
+
+The Privacy Act of 1974, establishes a code of fair information practices that governs the collection, maintenance, use, and dissemination of information about individuals that is maintained in systems of records by federal agencies.
+
+Requires that agencies give the public notice of their systems of records by publication in the Federal Register. [Here you can find a list of DOJ systems of records and their Federal Register citations.](https://www.justice.gov/opcl/doj-systems-records) The Privacy Act prohibits the disclosure of a record about an individual from a system of records absent the written consent of the individual, unless the disclosure is pursuant to one of twelve statutory exceptions. The Act also provides individuals with a means by which to seek access to and amendment of their records, and sets forth various agency record-keeping requirements.
 
 Cyber Intelligence Sharing and Protection Act \(CISPA\), 
 
