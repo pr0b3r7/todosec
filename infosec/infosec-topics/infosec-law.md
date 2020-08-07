@@ -78,13 +78,15 @@ Enacted by the Senate and House of Representatives of the US, this law is compri
 
 The Privacy Act of 1974, establishes a code of fair information practices that governs the collection, maintenance, use, and dissemination of information about individuals that is maintained in systems of records by federal agencies.
 
-Requires that agencies give the public notice of their systems of records by publication in the Federal Register. [Here you can find a list of DOJ systems of records and their Federal Register citations.](https://www.justice.gov/opcl/doj-systems-records) The Privacy Act prohibits the disclosure of a record about an individual from a system of records absent the written consent of the individual, unless the disclosure is pursuant to one of twelve statutory exceptions. The Act also provides individuals with a means by which to seek access to and amendment of their records, and sets forth various agency record-keeping requirements.
+Requires that agencies give the public notice of their systems of records by publishing them in the Federal Register. [Here you can find a list of DOJ systems of records and their Federal Register citations.](https://www.justice.gov/opcl/doj-systems-records) The Privacy Act prohibits the disclosure of a record about an individual from a system of records absent the written consent of the individual, unless the disclosure is pursuant to one of twelve statutory exceptions. The Act also provides individuals with a means by which to seek access to and amendment of their records, and sets forth various agency record-keeping requirements.
 
 ### [Cyber Intelligence Sharing and Protection Act 2015 - \(CISPA\)](https://www.congress.gov/bill/114th-congress/house-bill/234) 
 
+Focuses on the protection, prevention, mitigation, response and recovery from cyber related incidents in the context of the federal government by encouraging sharing of information on cyber threats between all federal cyber operations centers. 
 
+Enables for cooperative allegiances between the intelligence and private sectors amending the National Security Act of 1947 by using security clearances and appropriate certifications.
 
-###  
+###  [Consumer Data Security and Notification Act and Computer Security Act of 1987](https://epic.org/crypto/csa/csa.html)
 
-Consumer Data Security and Notification Act and Computer Security Act of 1987.
+Goal is to improve the security and privacy of sensitive information posture in Federal computer systems as it pertains to the public interest. Aims to develop standards and guidelines for Federal computer systems as well as cost effective security measures. 
 
