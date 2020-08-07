@@ -80,7 +80,11 @@ The Privacy Act of 1974, establishes a code of fair information practices that g
 
 Requires that agencies give the public notice of their systems of records by publication in the Federal Register. [Here you can find a list of DOJ systems of records and their Federal Register citations.](https://www.justice.gov/opcl/doj-systems-records) The Privacy Act prohibits the disclosure of a record about an individual from a system of records absent the written consent of the individual, unless the disclosure is pursuant to one of twelve statutory exceptions. The Act also provides individuals with a means by which to seek access to and amendment of their records, and sets forth various agency record-keeping requirements.
 
-Cyber Intelligence Sharing and Protection Act \(CISPA\), 
+### [Cyber Intelligence Sharing and Protection Act 2015 - \(CISPA\)](https://www.congress.gov/bill/114th-congress/house-bill/234) 
+
+
+
+###  
 
 Consumer Data Security and Notification Act and Computer Security Act of 1987.
 
