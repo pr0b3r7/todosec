@@ -7,26 +7,19 @@ All routers will select their own router ID \(**RID**\), providing the router wi
 
 Before you configure OSPF, you need to configure an ip address on the router's loopback interface. The loopback interface IP address determines the Router ID for the router. This can be used to influence which router ends up becoming the DR or BDR.
 
-  
+### [Configure OSPF](https://www.cisco.com/c/en/us/td/docs/ios-xml/ios/iproute_ospf/command/iro-cr-book/ospf-s1.html#wp8749965360)
 
-
-| Configure OSPF |  |
+| Purpose | **Command** |
 | :--- | :--- |
 | start ospf with router ospf &lt;process id&gt; | _router ospf 1_ |
 | specify the network and an area to assign those IPs to | _network 10.10.10.1 0.0.0.255 area 0_ |
 
-\_\_
-
-| OSPF Example Commands | \*each command can be made more specific |
+| Purpose | \*each command can be made more specific |
 | :--- | :--- |
 | displays general information about OSPF routing  | _show ip ospf \[\]_ |
 | displays OSPF database on router | _show ip ospf database \[\]_ |
 | displays information about OSPF enabled interfaces | _show ip ospf interface \[\]_ |
 | displays neighbor information  | _show ip ospf neighbor \[\]_ |
-
-\*[https://www.cisco.com/c/en/us/td/docs/ios-xml/ios/iproute\_ospf/command/iro-cr-book/ospf-s1.html\#wp8749965360](https://www.cisco.com/c/en/us/td/docs/ios-xml/ios/iproute_ospf/command/iro-cr-book/ospf-s1.html#wp8749965360)
-
-
 
 ### LSAs **\(Types & neighbor states\)**      
 
@@ -60,16 +53,4 @@ An election process is used to decide which router will become DR and BDR. There
 
 1. **Priority -** The router with the highest priority will become the DR.
 2. **Router ID** - If two routers have the same priority, the one with the higher Router ID will become the DR.
-
-  
-
-
-
-
-
-
-  
-
-
-
 
