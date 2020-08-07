@@ -133,6 +133,7 @@
   * [Network Storage](network-and-systems/network-and-systems-topics/network-storage.md)
   * [Routing and Switching](network-and-systems/network-and-systems-topics/routing-and-switching/README.md)
     * [350-401 ENCOR: Implementing Cisco Enterprise Network Core Technologies](network-and-systems/network-and-systems-topics/routing-and-switching/350-401-encor-implementing-cisco-enterprise-network-core-technologies/README.md)
+      * [NTP Security](network-and-systems/network-and-systems-topics/routing-and-switching/350-401-encor-implementing-cisco-enterprise-network-core-technologies/ntp-security.md)
       * [OSPF](network-and-systems/network-and-systems-topics/routing-and-switching/350-401-encor-implementing-cisco-enterprise-network-core-technologies/ospf.md)
       * [Exam Topics](network-and-systems/network-and-systems-topics/routing-and-switching/350-401-encor-implementing-cisco-enterprise-network-core-technologies/exam-topics.md)
     * [300-410 ENARSI: Implementing Cisco Enterprise Advanced Routing and Services](network-and-systems/network-and-systems-topics/routing-and-switching/300-410-enarsi-implementing-cisco-enterprise-advanced-routing-and-services.md)
