@@ -1,2 +1,2 @@
-# Introduction to cybersecurity
+# Introduction to Cybersecurity
 

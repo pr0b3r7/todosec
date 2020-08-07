@@ -4,6 +4,8 @@
 
 ## InfoSec
 
+### [Introduction to Cybersecurity](infosec/infosec-topics/cybersec-intro/)
+
 ### [Recon](infosec/infosec-topics/recon/)
 
 * [OSINT](infosec/infosec-topics/recon/osint/)
