@@ -6,6 +6,8 @@
 
 ### [Introduction to Cybersecurity](infosec/infosec-topics/cybersec-intro/)
 
+* [Penetration Test, Phases of Hacking/PT, Types of Hackers, Types of Testing and The CIA triad](infosec/infosec-topics/cybersec-intro/different-types-of-security-testing.md)
+
 ### [Recon](infosec/infosec-topics/recon/)
 
 * [OSINT](infosec/infosec-topics/recon/osint/)
@@ -130,6 +132,7 @@
 * [Network Storage](network-and-systems/network-and-systems-topics/network-storage.md)
 * [Routing and Switching](network-and-systems/network-and-systems-topics/routing-and-switching/)
   * [350-401 ENCOR: Implementing Cisco Enterprise Network Core Technologies](network-and-systems/network-and-systems-topics/routing-and-switching/350-401-encor-implementing-cisco-enterprise-network-core-technologies/)
+    * [OSPF](network-and-systems/network-and-systems-topics/routing-and-switching/350-401-encor-implementing-cisco-enterprise-network-core-technologies/ospf.md)
   * [300-410 ENARSI: Implementing Cisco Enterprise Advanced Routing and Services](network-and-systems/network-and-systems-topics/routing-and-switching/300-410-enarsi-implementing-cisco-enterprise-advanced-routing-and-services.md)
   * [300-415 ENSDWI: Implementing Cisco SD-WAN Solutions](network-and-systems/network-and-systems-topics/routing-and-switching/300-415-ensdwi-implementing-cisco-sd-wan-solutions.md)
 * \*\*\*\*[**Code**](network-and-systems/network-and-systems-topics/code/)\*\*\*\*
