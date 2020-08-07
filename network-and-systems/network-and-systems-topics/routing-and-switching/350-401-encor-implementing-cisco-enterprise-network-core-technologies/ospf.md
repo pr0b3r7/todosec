@@ -41,10 +41,34 @@ A LSA is a fundamental tool for OSPF to exchange routing information/topology wi
 * **LSA Type 8:    Link LSA** 
 * **LSA Type 9:    Intra-area prefix LSA**
 
-**Routers will reach FULL state when neighbors have exchanged their LSA databases**
+_Routers will reach FULL state when neighbors have exchanged their LSA databases_
 
-1. **Down State**
-2. **Attempt** 
+1. Down state
+2. Attempt state
+3. Init state
+4. 2-way state
+5. Exstart state
+6. Exchange state
+7. Loading state
+8. Full state
+
+### DR & BDR
+
+OSPF uses DRs \(designated routers\) & BDRs \(backup designated routers\) to act as a hub for routers on the same broadcast segment to exchange OSPF information. The DR and BDR are the only routers in the segment who provide and receive OSPF information from every router. All Non-DR/BDR routers rely on the DR/BDR for updates. This helps to limit the number of routing updates needed throughout the segment. 
+
+An election process is used to decide which router will become DR and BDR. There are two factors in this decision:
+
+
+
+1. **Priority -** The router with the highest priority will become the DR.
+2. **Router ID** - If two routers have the same priority, the one with the higher Router ID will become the DR.
+
+  
+
+
+
+
+
 
   
 
