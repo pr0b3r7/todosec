@@ -4,7 +4,6 @@ description: 'Here are the next topics you can expect to see content about:'
 
 # What is NEXT?!
 
-* PCI-DSS; SOX Act; COBIT; ISO/IEC 27001:2013; HIPAA; FISMA, Patriot Act, Privacy Act of 1974, Cyber Intelligence Sharing and Protection Act \(CISPA\), Consumer Data Security and Notification Act and Computer Security Act of 1987.
 * Blackbox/Opaque vs Whitebox/Clear testing vs Gray/_Translucid?_ testing \(limited knowledge about target - privilege escalation from _trusted insider_ scenario\); Phases of Hacking/Pen-testing; What is a Penetration Test?, 3 Main Phases, and Scope.;  Types of Hackers according to their **intent;** Security Policies; CIA Triad
 * Annualized Loss Expectancy \(ALE\), Annual Rate of Occurrence \(ARO\) and SLE \(Single Loss Expectancy\). Exposure Factor \(EF\) and how to obtain SLE \(EF x Value of Asset\); Risk Management steps, Control types. Business Impact Analysis, Maximum Tolerable Downtime \(MTD\). Business Continuity Plan \(BCP\), Disaster Recovery Plan \(DRP\).
 * Security, Functionality and Usability triangle, zero day attack, payload, exploit, daisy-chaining, bots, doxing, incident response... 

@@ -7,6 +7,8 @@
 ## InfoSec
 
 * [Infosec Topics](infosec/infosec-topics/README.md)
+  * [Introduction to cybersecurity](infosec/infosec-topics/cybersec-intro/README.md)
+    * [Different Types of Security Testing](infosec/infosec-topics/cybersec-intro/different-types-of-security-testing.md)
   * [Recon](infosec/infosec-topics/recon/README.md)
     * [Web](infosec/infosec-topics/recon/web/README.md)
       * [OWASP TOP 10](infosec/infosec-topics/recon/web/owasp-top-10.md)
