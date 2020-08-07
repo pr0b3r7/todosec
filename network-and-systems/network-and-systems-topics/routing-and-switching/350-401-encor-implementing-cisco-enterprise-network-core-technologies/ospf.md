@@ -58,8 +58,6 @@ OSPF uses DRs \(designated routers\) & BDRs \(backup designated routers\) to act
 
 An election process is used to decide which router will become DR and BDR. There are two factors in this decision:
 
-
-
 1. **Priority -** The router with the highest priority will become the DR.
 2. **Router ID** - If two routers have the same priority, the one with the higher Router ID will become the DR.
 
