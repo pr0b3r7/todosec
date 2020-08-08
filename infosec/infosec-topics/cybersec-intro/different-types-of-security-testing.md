@@ -26,9 +26,15 @@ Security testing is an iterative process that should be repeated following 5 ste
 2. Assessment Phase - Security Evaluation
 3. Conclusion/Post-Assessment - Final Reporting
 
-### _Types of Hackers - pending_
+### Types of Hackers
 
-### _Security Policies- pending_
+* White hats - ethical hackers - for hire and defensive purposes. i.e security analyst
+* Black hats - crackers - illegal intent and malicious in nature. Steal, destroy and deny access to resources. don't ask for permission to copy, destroy and deny rightful access to data
+* Gray hats - some curious and the others cyber-vigilantes. Hacking without consent is **illegal**.
+
+### _Security Policies_
+
+_On the bureaucratic side of security, administrative functions require_ 
 
 ### _CIA Triad- pending_
 
