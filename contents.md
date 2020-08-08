@@ -92,6 +92,9 @@
 ### [Infrastructure](infosec/infosec-topics/infrastructure/)
 
 * [Defensive/BLUE](infosec/infosec-topics/infrastructure/defensive-blue/)
+  * [Monitoring](infosec/infosec-topics/infrastructure/defensive-blue/monitoring/)
+    * [Splunk](infosec/infosec-topics/infrastructure/defensive-blue/monitoring/splunk/)
+      * [How to install Enterprise Splunk](infosec/infosec-topics/infrastructure/defensive-blue/monitoring/splunk/how-to-install-ent-splunk.md)
   * [Linux Logs](infosec/infosec-topics/infrastructure/defensive-blue/linux-logs.md)
 * [Offensive/RED](infosec/infosec-topics/infrastructure/offensive-red/)
 
