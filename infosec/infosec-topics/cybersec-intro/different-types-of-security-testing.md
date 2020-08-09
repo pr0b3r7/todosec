@@ -32,11 +32,17 @@ Security testing is an iterative process that should be repeated following 5 ste
 * Black hats - crackers - illegal intent and malicious in nature. Steal, destroy and deny access to resources. don't ask for permission to copy, destroy and deny rightful access to data
 * Gray hats - some curious and the others cyber-vigilantes. Hacking without consent is **illegal**.
 
-### _Security Policies_
+### Security Policies
 
-_On the bureaucratic side of security, administrative functions require_ 
+On the bureaucratic side of security, administrative functions require security controls to accomplish certain business goals. Security policies address organizational issues. i.e Information Security Policy, Protection Policy, Firewall Management, Password and Remote Access Policies.
 
-### _CIA Triad- pending_
+### CIA Triad
+
+Confidentiality, Integrity and Availability. 
+
+* **Confidentiality** - Assuring secrecy, privacy and prevent disclosure or unauthorized reception of data. Authentication is a segment of IT security. 
+* **Integrity** - Has this data been altered? Is the data the sender/author sent the same data that the recipient received?. One way to assure this is by employing [hash functions](https://ehash.iaik.tugraz.at/wiki/The_eHash_Main_Page).
+* **Availability** - The data can be accessed whenever it is needed. Attacks against it include Denial-of-Service \(DoS\).  
 
 ### Blackbox Testing - Closed Box
 
