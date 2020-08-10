@@ -7,6 +7,7 @@
 ### [Introduction to Cybersecurity](infosec/infosec-topics/cybersec-intro/)
 
 * [Penetration Test, Phases of Hacking/PT, Types of Hackers, Types of Testing and The CIA triad](infosec/infosec-topics/cybersec-intro/different-types-of-security-testing.md)
+* [IP Spoofing](infosec/infosec-topics/cybersec-intro/ip-spoofing.md)
 
 ### [Recon](infosec/infosec-topics/recon/)
 

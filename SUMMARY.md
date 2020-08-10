@@ -8,6 +8,8 @@
 
 * [Infosec Topics](infosec/infosec-topics/README.md)
   * [Introduction to Cybersecurity](infosec/infosec-topics/cybersec-intro/README.md)
+    * [IP Spoofing](infosec/infosec-topics/cybersec-intro/ip-spoofing.md)
+    * [The Onion Router](infosec/infosec-topics/cybersec-intro/the-onion-router.md)
     * [Penetration Test, Phases of Hacking/PT, Types of Hackers, Types of Testing and The CIA triad](infosec/infosec-topics/cybersec-intro/different-types-of-security-testing.md)
   * [Recon](infosec/infosec-topics/recon/README.md)
     * [Web](infosec/infosec-topics/recon/web/README.md)
