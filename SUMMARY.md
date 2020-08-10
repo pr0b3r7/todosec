@@ -135,6 +135,7 @@
   * [Linux](network-and-systems/network-and-systems-topics/linux/README.md)
     * [Linux Basic Networking](network-and-systems/network-and-systems-topics/linux/linux-basic-networking.md)
     * [Basics of CLI, Services in Kali \(SSH\) and how to change your motd \(Banner\)](network-and-systems/network-and-systems-topics/linux/basics-of-cli-services-in-kali-ssh.md)
+    * [Spawn a TTY/Pseudo Shell](network-and-systems/network-and-systems-topics/linux/spawn-a-tty-pseudo-shell.md)
   * [Network Storage](network-and-systems/network-and-systems-topics/network-storage.md)
   * [Routing and Switching](network-and-systems/network-and-systems-topics/routing-and-switching/README.md)
     * [350-401 ENCOR: Implementing Cisco Enterprise Network Core Technologies](network-and-systems/network-and-systems-topics/routing-and-switching/350-401-encor-implementing-cisco-enterprise-network-core-technologies/README.md)
