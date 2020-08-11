@@ -51,5 +51,9 @@ When you open a terminal on linux a lot of the time you are opening a graphic pr
 \\===========================//
 ```
 
+* [Pentest Monkey - Post Exploitation Without a TTY](http://pentestmonkey.net/blog/post-exploitation-without-a-tty)
+* [Phineas Fisher Hacks Catalan Police Union Website](https://www.youtube.com/watch?v=oI_ZhFCS3AQ#t=25m53s)
+* [Phineas Fisher - Hackingteam Writeup](http://pastebin.com/raw/0SNSvyjJ)
+
 [More](https://unix.stackexchange.com/questions/4126/what-is-the-exact-difference-between-a-terminal-a-shell-a-tty-and-a-con), [Source](https://www.reddit.com/r/programming/comments/41u5hw/what_is_the_exact_difference_between_a_terminal_a/)
 
