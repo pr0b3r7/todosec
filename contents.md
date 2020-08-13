@@ -127,6 +127,8 @@
   * [Zone-Based Policy Firewall \(also known as Zone-Policy Firewall, or ZFW\)](network-and-systems/network-and-systems-topics/network/zone-based-policy-firewall-also-known-as-zone-policy-firewall-or-zfw.md)
   * [Wireless](network-and-systems/network-and-systems-topics/network/wireless.md)
 * [Virtualization](network-and-systems/network-and-systems-topics/virtualization.md)
+* AWS
+  * Receive and Send emails to custom domain in Route 53 using Simple Email Service and Simple Notification Service - Route53 + SES + SNS = Custom domain emails for less than 20$
 * [macOS](network-and-systems/network-and-systems-topics/macos/)
 * [Windows](network-and-systems/network-and-systems-topics/windows/)
   * [Wireshark](network-and-systems/network-and-systems-topics/windows/wireshark.md)
