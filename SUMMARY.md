@@ -130,6 +130,8 @@
     * [Zone-Based Policy Firewall \(also known as Zone-Policy Firewall, or ZFW\)](network-and-systems/network-and-systems-topics/network/zone-based-policy-firewall-also-known-as-zone-policy-firewall-or-zfw.md)
     * [Wireless](network-and-systems/network-and-systems-topics/network/wireless.md)
   * [Virtualization](network-and-systems/network-and-systems-topics/virtualization.md)
+  * [AWS](network-and-systems/network-and-systems-topics/aws/README.md)
+    * [Email with AWS R53 + SES +SNS](network-and-systems/network-and-systems-topics/aws/email-with-aws-r53-+-ses-+sns.md)
   * [macOS](network-and-systems/network-and-systems-topics/macos/README.md)
     * [README](network-and-systems/network-and-systems-topics/macos/macos.md)
   * [Windows](network-and-systems/network-and-systems-topics/windows/README.md)
