@@ -107,6 +107,8 @@
 
 ### [Boxes](infosec/infosec-topics/boxes/)
 
+* \*\*\*\*[**TryHackMe**](infosec/infosec-topics/boxes/tryhackme/)\*\*\*\*
+  * [Vulnversity](infosec/infosec-topics/boxes/tryhackme/vulnversity.md)
 * \*\*\*\*[**Vulnhub**](infosec/infosec-topics/boxes/vulnhub/)\*\*\*\*
   1. [OSCP Giveaway](infosec/infosec-topics/boxes/vulnhub/oscp-giveaway.md)
   2. [OSCP \(TJNull's\)](infosec/infosec-topics/boxes/vulnhub/oscp-tjnull/)
