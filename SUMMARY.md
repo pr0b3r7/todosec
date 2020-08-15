@@ -93,6 +93,7 @@
       * [README](infosec/infosec-topics/controls/windows/windows.md)
   * [Infrastructure](infosec/infosec-topics/infrastructure/README.md)
     * [Defensive/BLUE](infosec/infosec-topics/infrastructure/defensive-blue/README.md)
+      * [Cryptography](infosec/infosec-topics/infrastructure/defensive-blue/cryptography.md)
       * [Monitoring](infosec/infosec-topics/infrastructure/defensive-blue/monitoring/README.md)
         * [Splunk](infosec/infosec-topics/infrastructure/defensive-blue/monitoring/splunk/README.md)
           * [How to install Enterprise Splunk](infosec/infosec-topics/infrastructure/defensive-blue/monitoring/splunk/how-to-install-ent-splunk.md)
