@@ -30,15 +30,17 @@ It is important to note that stream ciphers employ feedback mechanisms that resu
 
 **Self-Synchronizing stream ciphers** 
 
-Each bit is calculated as a function of the previous n bits in the keystream.
+Each bit is calculated as a function of the previous n-bits in the keystream.
 
 The encryption process stays synchronized with the decryption process by the length of the n-bit keystream being processed. 
 
-For this reason also, error propagation is a concern. Keystreams are generated independently of the message stream by employing the same keystream generation function by sender and receiver. 
+For this reason also, error propagation is a concern. 
+
+Keystreams are generated independently of the message stream by employing the same keystream generation function by sender and receiver. 
 
 Since they are periodic the keystream repeats eventually. 
 
-**Alert:** If the "One-time Pad" or key used to generate the pseudorandom is not at least as long as the plaintext, perfect-secrecy.
+**Alert:** If the "One-time Pad" or key used to generate the pseudorandom is not at least as long as the plaintext, perfect-secrecy cannot be guaranteed. i.e 940 bytes of plaintext require at least 940 bytes of One-Time Pad for perfect secrecy to be achieved. Strong encryption can be achieved without perfect secrecy. 
 
 Most common example in Software Development is **RC4 - Rivest Cipher 4.** Used in WEP/WPA as well as TLS. [RFC 7465](http://tools.ietf.org/html/rfc7465) forbids use of RC4 in TLS. 
 
