@@ -18,7 +18,5 @@ I want to help you the way others more experienced and knowledgeable than me hav
 
 {% embed url="https://www.youracclaim.com/badges/dc15e81d-58b5-4495-98a6-999cb2a0dcc6/public\_url" %}
 
-![](.gitbook/assets/ccna_600.png)
-
 
 
