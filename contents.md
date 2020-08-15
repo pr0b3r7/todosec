@@ -93,6 +93,7 @@
 ### [Infrastructure](infosec/infosec-topics/infrastructure/)
 
 * [Defensive/BLUE](infosec/infosec-topics/infrastructure/defensive-blue/)
+  * [Cryptography](infosec/infosec-topics/infrastructure/defensive-blue/cryptography.md)
   * [Monitoring](infosec/infosec-topics/infrastructure/defensive-blue/monitoring/)
     * [Splunk](infosec/infosec-topics/infrastructure/defensive-blue/monitoring/splunk/)
       * [How to install Enterprise Splunk](infosec/infosec-topics/infrastructure/defensive-blue/monitoring/splunk/how-to-install-ent-splunk.md)
