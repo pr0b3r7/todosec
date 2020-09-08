@@ -2,7 +2,7 @@
 
 ## [Contents](https://www.todosec.com/) - [LinkedIn](https://linkedin.com/in/pimentelrobert1) - [Github](https://github.com/pr0b3r7)
 
-## InfoSec
+## InfoSec Topics
 
 ### [Introduction to Cybersecurity](infosec/infosec-topics/cybersec-intro/)
 
@@ -11,11 +11,13 @@
 
 ### [Recon](infosec/infosec-topics/recon/)
 
-* [OSINT](infosec/infosec-topics/recon/osint/)
-  * [Open Source Intelligence](infosec/infosec-topics/recon/osint/open-source-intelligence.md)
 * [Web](infosec/infosec-topics/recon/web/)
+
   * [OWASP Top 10](infosec/infosec-topics/recon/web/owasp-top-10.md)
   * [Web Recon](infosec/infosec-topics/recon/web/web-recon.md)
+
+* [OSINT](infosec/infosec-topics/recon/osint/)
+  * [Open Source Intelligence](infosec/infosec-topics/recon/osint/open-source-intelligence.md)
 
 ### [Post-Exploitation](infosec/infosec-topics/post-exploitation/)
 
@@ -97,7 +99,9 @@
   * [Monitoring](infosec/infosec-topics/infrastructure/defensive-blue/monitoring/)
     * [Splunk](infosec/infosec-topics/infrastructure/defensive-blue/monitoring/splunk/)
       * [How to install Enterprise Splunk](infosec/infosec-topics/infrastructure/defensive-blue/monitoring/splunk/how-to-install-ent-splunk.md)
-  * [Linux Logs](infosec/infosec-topics/infrastructure/defensive-blue/linux-logs.md)
+* [Web Server Hardening](infosec/infosec-topics/infrastructure/defensive-blue/web-server-protection/)
+  * [Remote File Inclusion Patching](infosec/infosec-topics/infrastructure/defensive-blue/web-server-protection/remote-file-inclusion-patching.md)
+* [Linux Logs](infosec/infosec-topics/infrastructure/defensive-blue/linux-logs.md)
 * [Offensive/RED](infosec/infosec-topics/infrastructure/offensive-red/)
 
 ### [Network Security](infosec/infosec-topics/network-sec/) 
