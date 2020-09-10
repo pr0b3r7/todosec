@@ -20,6 +20,8 @@
   * [Gaining Access](infosec/infosec-topics/gaining-access/README.md)
     * [msfvenom cheatsheet](infosec/infosec-topics/gaining-access/msfvenom-cheatsheet.md)
     * [Web](infosec/infosec-topics/gaining-access/web/README.md)
+      * [Directory Traversal](infosec/infosec-topics/gaining-access/web/directory-traversal.md)
+      * [Local File Inclusion](infosec/infosec-topics/gaining-access/web/local-file-inclusion.md)
       * [Remote File Copy](infosec/infosec-topics/gaining-access/web/remote-file-copy.md)
   * [Post-Exploitation](infosec/infosec-topics/post-exploitation/README.md)
     * [macOS](infosec/infosec-topics/post-exploitation/macos/README.md)
