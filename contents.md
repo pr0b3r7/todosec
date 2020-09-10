@@ -19,6 +19,11 @@
 * [OSINT](infosec/infosec-topics/recon/osint/)
   * [Open Source Intelligence](infosec/infosec-topics/recon/osint/open-source-intelligence.md)
 
+### [Gaining Access](infosec/infosec-topics/gaining-access/)
+
+* [msfvenom cheatsheet](infosec/infosec-topics/gaining-access/msfvenom-cheatsheet.md)
+* [Web](infosec/infosec-topics/gaining-access/web/)
+
 ### [Post-Exploitation](infosec/infosec-topics/post-exploitation/)
 
 * [macOS](infosec/infosec-topics/post-exploitation/macos/)

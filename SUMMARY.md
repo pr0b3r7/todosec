@@ -18,6 +18,7 @@
     * [OSINT](infosec/infosec-topics/recon/osint/README.md)
       * [Open Source Intelligence](infosec/infosec-topics/recon/osint/open-source-intelligence.md)
   * [Gaining Access](infosec/infosec-topics/gaining-access/README.md)
+    * [msfvenom cheatsheet](infosec/infosec-topics/gaining-access/msfvenom-cheatsheet.md)
     * [Web](infosec/infosec-topics/gaining-access/web/README.md)
       * [Remote File Copy](infosec/infosec-topics/gaining-access/web/remote-file-copy.md)
   * [Post-Exploitation](infosec/infosec-topics/post-exploitation/README.md)
