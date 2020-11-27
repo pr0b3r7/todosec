@@ -4,6 +4,36 @@ description: mawk - pattern scanning and text processing language
 
 # AWK
 
+TL/DR:
+
+`awk '{print $2}' --> prints the second columns`
+
+```text
+catn /var/log/auth.log | grep "session" | awk '{print $2}' 
+
+22
+23
+24
+25
+26
+27
+```
+
+\`\`
+
+```text
+awk 'length($2) == 2 { print $2 }'  /var/log/auth.log
+
+#prints the second column if it character count is 2. 
+
+22
+23
+24
+25
+26
+27
+```
+
 mawk interpreter for the AWK Programming Language. 
 
 The AWK language is useful for manipulation of data files, text retrieval and processing, and for prototyping and experimenting with algorithms. mawk is a new awk meaning it implements the AWK language as defined in Aho, Kernighan and Weinberger, The AWK Programming Language, Addison-Wesley Publishing, 1988 \(hereafter referred to as the AWK book.\) mawk conforms to the POSIX 1003.2 \(draft 11.3\) definition of the AWK lan‐ guage which contains a few features not described in the AWK book, and mawk provides a small number of extensions.
