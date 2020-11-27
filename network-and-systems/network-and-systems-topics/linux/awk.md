@@ -4,7 +4,7 @@ description: mawk - pattern scanning and text processing language
 
 # AWK
 
-TL/DR:
+## **TL/DR:**
 
 `awk '{print $2}' --> prints the second columns`
 
@@ -19,12 +19,10 @@ catn /var/log/auth.log | grep "session" | awk '{print $2}'
 27
 ```
 
-\`\`
+`awk 'length($2) == 2 { print $2 }'  /var/log/auth.log --> print the second column if the character count is 2`
 
 ```text
 awk 'length($2) == 2 { print $2 }'  /var/log/auth.log
-
-#prints the second column if it character count is 2. 
 
 22
 23
