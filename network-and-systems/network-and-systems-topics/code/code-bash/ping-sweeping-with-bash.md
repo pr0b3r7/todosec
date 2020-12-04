@@ -10,14 +10,20 @@ echo "Usage: ./pingsweep.sh [network]"
 echo "Example: ./pingsweep.sh 192.168.1"
 else
 for ip in 'seq 1 254' ; do
-ping -c 1 $1.$ip | grep "64 bytes" | cut -d " " -f 4 | sed 's/.$//' &
+ping -c 1 $1.$ip | grep "64 bytes" & done | cut -d " " -f 4 | sed 's/.$//' &
 done
 fi 
 ```
 
+#### **Parallelize:** 
+
+```bash
+for i in {1..255} ; do ping -c 1 192.168.1.$i | grep "bytes from" & done | awk '{print $4}'
+```
+
 **Optional:**
 
-Save pingsweep script **output** to a text file:
+Save pingsweep.sh script **output** to a text file:
 
 `./pingsweep.sh 192.168.1 > iplist.txt`
 
