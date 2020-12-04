@@ -4,14 +4,10 @@
 #!/bin/Bash
 # Author: pr0b3r7
 
-if [] "$1" == "" ]
-then
-echo "Usage: ./pingsweep.sh [network]"
-echo "Example: ./pingsweep.sh 192.168.1"
+if [[ "$1" == "" ]] ; then
+echo "Usage: ./pingsweep.sh"
 else
-for ip in 'seq 1 254' ; do
-ping -c 1 $1.$ip | grep "64 bytes" & done | cut -d " " -f 4 | sed 's/.$//' &
-done
+for i in {1..255} ; do ping -c 1 192.168.1.$i | grep "64 bytes" & done | awk '{print $4}' | cut -d ":" -f 1 
 fi 
 ```
 
