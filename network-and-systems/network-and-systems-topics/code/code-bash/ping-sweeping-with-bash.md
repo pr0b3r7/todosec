@@ -17,6 +17,8 @@ fi
 for i in {1..255} ; do ping -c 1 192.168.1.$i | grep "bytes from" & done | awk '{print $4}'
 ```
 
+![script output and printout.](../../../../.gitbook/assets/image%20%2876%29.png)
+
 **Optional:**
 
 Save pingsweep.sh script **output** to a text file:
