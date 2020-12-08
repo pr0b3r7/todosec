@@ -162,7 +162,7 @@
   * [Code](network-and-systems/network-and-systems-topics/code/README.md)
     * [Bash](network-and-systems/network-and-systems-topics/code/code-bash/README.md)
       * [Basic examples of Bash Scripting](network-and-systems/network-and-systems-topics/code/code-bash/basic-examples-of-bash-scripting.md)
-      * [Ping Sweeping with Bash](network-and-systems/network-and-systems-topics/code/code-bash/ping-sweeping-with-bash.md)
+      * [Check for live hosts in a /24 network](network-and-systems/network-and-systems-topics/code/code-bash/ping-sweeping-with-bash.md)
       * [wip-W1nn13PwnWifi.sh](network-and-systems/network-and-systems-topics/code/code-bash/wip-w1nn13pwnwifi.sh.md)
     * [Python](network-and-systems/network-and-systems-topics/code/code-python/README.md)
       * [Language Fundamentals Series](network-and-systems/network-and-systems-topics/code/code-python/language-fundamentals-series/README.md)

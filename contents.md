@@ -163,7 +163,7 @@
 
     1. [wip-W1nn13PwnWifi.sh](network-and-systems/network-and-systems-topics/code/code-bash/wip-w1nn13pwnwifi.sh.md)
     2. [Basic Examples of Bash Scripting](network-and-systems/network-and-systems-topics/code/code-bash/basic-examples-of-bash-scripting.md)
-    3. [Ping sweeping with Bash](network-and-systems/network-and-systems-topics/code/code-bash/ping-sweeping-with-bash.md)
+    3. [Check for live hosts in a /24 network](network-and-systems/network-and-systems-topics/code/code-bash/ping-sweeping-with-bash.md)
 
     \*\*\*\*[**Python**](network-and-systems/network-and-systems-topics/code/code-python/)\*\*\*\*
 
