@@ -156,6 +156,8 @@
 * [Routing and Switching](network-and-systems/network-and-systems-topics/routing-and-switching/)
   * [350-401 ENCOR: Implementing Cisco Enterprise Network Core Technologies](network-and-systems/network-and-systems-topics/routing-and-switching/350-401-encor-implementing-cisco-enterprise-network-core-technologies/)
     * [OSPF](network-and-systems/network-and-systems-topics/routing-and-switching/350-401-encor-implementing-cisco-enterprise-network-core-technologies/ospf.md)
+    * [NTP Security](network-and-systems/network-and-systems-topics/routing-and-switching/350-401-encor-implementing-cisco-enterprise-network-core-technologies/ntp-security.md)
+    * [Tune & Optimize EtherChannel Operations ](network-and-systems/network-and-systems-topics/routing-and-switching/350-401-encor-implementing-cisco-enterprise-network-core-technologies/tune-and-optimize-etherchannel-operations.md)
   * [300-410 ENARSI: Implementing Cisco Enterprise Advanced Routing and Services](network-and-systems/network-and-systems-topics/routing-and-switching/300-410-enarsi-implementing-cisco-enterprise-advanced-routing-and-services.md)
   * [300-415 ENSDWI: Implementing Cisco SD-WAN Solutions](network-and-systems/network-and-systems-topics/routing-and-switching/300-415-ensdwi-implementing-cisco-sd-wan-solutions.md)
 * \*\*\*\*[**Code**](network-and-systems/network-and-systems-topics/code/)\*\*\*\*
