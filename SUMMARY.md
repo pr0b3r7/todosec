@@ -154,6 +154,7 @@
   * [Network Storage](network-and-systems/network-and-systems-topics/network-storage.md)
   * [Routing and Switching](network-and-systems/network-and-systems-topics/routing-and-switching/README.md)
     * [350-401 ENCOR: Implementing Cisco Enterprise Network Core Technologies](network-and-systems/network-and-systems-topics/routing-and-switching/350-401-encor-implementing-cisco-enterprise-network-core-technologies/README.md)
+      * [1.1.2 Lab - Implement Inter-VLAN Routing](network-and-systems/network-and-systems-topics/routing-and-switching/350-401-encor-implementing-cisco-enterprise-network-core-technologies/1.1.2-lab-implement-inter-vlan-routing.md)
       * [Tune & Optimize EtherChannel Operations](network-and-systems/network-and-systems-topics/routing-and-switching/350-401-encor-implementing-cisco-enterprise-network-core-technologies/tune-and-optimize-etherchannel-operations.md)
       * [NTP Security](network-and-systems/network-and-systems-topics/routing-and-switching/350-401-encor-implementing-cisco-enterprise-network-core-technologies/ntp-security.md)
       * [OSPF](network-and-systems/network-and-systems-topics/routing-and-switching/350-401-encor-implementing-cisco-enterprise-network-core-technologies/ospf.md)
