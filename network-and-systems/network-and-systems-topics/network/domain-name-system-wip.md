@@ -19,7 +19,17 @@ For most websites now, these requests will use HTTPS. HTTPS is a secure \(encryp
 
 Imagine if someone could modify a request to your bank to send money to your friend. That'd be disastrous!
 
-A web server is software that receives and responds to HTTP\(S\) requests. Popular examples are Apache, Nginx and Microsoft's IIS. By default, HTTP runs on port 80 and HTTPS runs on port 443. Many CTFs are based around websites, so it's useful to know that if port 80 is open, there's likely a web server listening that you can attack and exploit.
+A web server is software that receives and responds to HTTP\(S\) requests. Popular examples are Apache, Nginx and Microsoft's IIS. 
 
-The actual content of the web page is normally a combination of **HTML**, **CSS** and **JavaScript**. HTML defines the structure of the page, and the content. CSS allows you to change how the page looks and make it look fancy. JavaScript is a programming language that runs in the browser and allows you to make pages interactive or load extra content.
+By default, HTTP runs on port 80 and HTTPS runs on port 443. 
+
+Many CTFs are based around websites, so it's useful to know that if port 80 is open, there's likely a web server listening that you can attack and exploit.
+
+The actual content of the web page is normally a combination of **HTML**, **CSS** and **JavaScript**. 
+
+HTML defines the structure of the page, and the content. 
+
+CSS allows you to change how the page looks and make it look fancy. 
+
+JavaScript is a programming language that runs in the browser and allows you to make pages interactive or load extra content.
 
