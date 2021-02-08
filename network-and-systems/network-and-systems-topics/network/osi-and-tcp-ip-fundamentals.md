@@ -2,7 +2,7 @@
 description: Let's describe basic networking concepts
 ---
 
-# OSI and TCP/IP Fundamentals
+# OSI and TCP/IP, IPv6 and other protocols
 
 ## OSI Model - Open Systems Interconnection Model
 
