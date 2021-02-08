@@ -161,5 +161,7 @@ Please note that the full expression of a web address or Uniform Resoure Identif
 
 The Hypertext Transfer Protocol \(HTTP\) is an application-level protocol for distributed, collaborative, hypermedia information systems. It is a generic, stateless, protocol which can be used for many tasks beyond its use for hypertext, such as name servers and distributed object management systems, through extension of its request methods, error codes and headers. A feature of HTTP is the typing and negotiation of data representation, allowing systems to be built independently of the data being transferred. [\(RFC 2616 - Hypertext Transfer Protocol -- HTTP/1.1\)](https://tools.ietf.org/html/rfc2616)
 
+Further reading on [Cisco](https://www.cisco.com/E-Learning/bulk/public/tac/cim/cib/using_cisco_ios_software/linked/tcpip.htm#xtocid291429)'s knowledge base.
+
 
 
