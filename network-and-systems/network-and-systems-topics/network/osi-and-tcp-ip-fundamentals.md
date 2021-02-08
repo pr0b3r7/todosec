@@ -155,7 +155,7 @@ A client machine **requests** via HTTP the contents of a website. This request i
 
 After, the web server receives and processes the request, it determines the appropriate **response** which is sent in HTTP protocol again back to the client's source IP address, this time the Source IP address will be placed in the Destination field of the TCP/IP packet. 
 
-Please note that the full expression of a web address or Uniform Resoure Identifiers \(URI\) or Universal Resource Locators \(URL\) - begin with either http or https, this denotes the protocol used to transfer the web page files. The S in HTTPS refers to [Transport Layer Encryption \(TLS\) or Secure Socket Layer \(SSL\)](https://kinsta.com/knowledgebase/tls-vs-ssl/#what) to authenticate the connection and encrypt the contents transmitted. _on the link a comparison between both protocols courtesy of Kinsta. - **not paid.**_
+Please note that the full expression of a web address or Uniform Resource Identifiers \(URI\) or Universal Resource Locators \(URL\) - begin with either HTTP or HTTPS, this denotes the protocol used to transfer the web page files. The S in HTTPS refers to [Transport Layer Encryption \(TLS\) or Secure Socket Layer \(SSL\)](https://kinsta.com/knowledgebase/tls-vs-ssl/#what) to authenticate the connection and encrypt the contents transmitted. _on the link a comparison between both protocols courtesy of Kinsta. - **not paid.**_
 
 ### Hypertext Transfer Protocol - HTTP
 
