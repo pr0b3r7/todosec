@@ -147,3 +147,19 @@ Includes Source and Destination Port since this is a much simpler protocol that 
 
 Low-Latency applications are called as such because of their nature, the speed of the transmission and delivery of data is more important than its reliable transmission or even complete arrival. Think of when the video glitches/freezes green and the image in a video call comes back pixelated until it recovers and you can see your significant other clearly again. 
 
+## Application Layer
+
+Interfaces between the programs and the network - most popular applications on the Internet today \(2021\) are web browsers.
+
+A client machine **requests** via HTTP the contents of a website. This request is destined to the hostname of a web-server "website.com". This request is formatted in HTTP. Furthermore, when the client software sends this request, the hostname will be translated to an IP address using [Domain Name System](domain-name-system-wip.md). 
+
+After, the web server receives and processes the request, it determines the appropriate **response** which is sent in HTTP protocol again back to the client's source IP address, this time the Source IP address will be placed in the Destination field of the TCP/IP packet. 
+
+Please note that the full expression of a web address or Uniform Resoure Identifiers \(URI\) or Universal Resource Locators \(URL\) - begin with either http or https, this denotes the protocol used to transfer the web page files. The S in HTTPS refers to [Transport Layer Encryption \(TLS\) or Secure Socket Layer \(SSL\)](https://kinsta.com/knowledgebase/tls-vs-ssl/#what) to authenticate the connection and encrypt the contents transmitted. _on the link a comparison between both protocols courtesy of Kinsta. - **not paid.**_
+
+### Hypertext Transfer Protocol - HTTP
+
+The Hypertext Transfer Protocol \(HTTP\) is an application-level protocol for distributed, collaborative, hypermedia information systems. It is a generic, stateless, protocol which can be used for many tasks beyond its use for hypertext, such as name servers and distributed object management systems, through extension of its request methods, error codes and headers. A feature of HTTP is the typing and negotiation of data representation, allowing systems to be built independently of the data being transferred. [\(RFC 2616 - Hypertext Transfer Protocol -- HTTP/1.1\)](https://tools.ietf.org/html/rfc2616)
+
+
+
