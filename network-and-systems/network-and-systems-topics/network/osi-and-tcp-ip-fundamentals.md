@@ -2,7 +2,7 @@
 description: Let's describe basic networking concepts
 ---
 
-# OSI and TCP/IP, IPv6 and other protocols
+# OSI and TCP/IP, IPv6 and Network Protocols at each layer
 
 ## OSI Model - Open Systems Interconnection Model
 
@@ -32,12 +32,44 @@ _\(layer - protocol data unit\*\)_
 
 #### \_\_[_Protocol data unit_](https://en.wikipedia.org/wiki/Protocol_data_unit)_\*\*\*_
 
-## TCP/IP stack
+## [TCP/IP stack vs OSI Model](https://www.electronicdesign.com/unused/article/21800810/whats-the-difference-between-the-osi-sevenlayer-network-model-and-tcpip)
+
+OSI refers to Open Systems Interconnection whereas TCP/IP refers to Transmission Control Protocol. 
+
+OSI follows a vertical approach whereas TCP/IP follows a horizontal approach. 
+
+OSI model, the transport layer, is only connection-oriented whereas the TCP/IP model is both connection-oriented and connection-less.
+
+In the OSI model, data flows down the transmit layers, over the physical link, and then up through the receive layers.
+
+The seven layers of the OSI model somewhat correspond with the four layers that make up the TCP/IP protocol. 
+
+The header is added and then removed during the encapsulation and de-encapsulation of the packet data at the TCP layer.
+
+The IPv4 header is used during the Internet Protocol process in data transmission. 
+
+Note the 32-bit source and destination addresses.
+
+The new IPv6 header for the Internet Protocol is similar to IPv4 but uses 128-bit source and destination addresses.
+
+TCP/IP is the older of the two approaches to data communications and is well established throughout the world. 
+
+The OSI model, however, is a proven concept that is used in all other data communications protocols. It will continue to be used as a guideline for all other communications applications.
+
+The layers of TCP/IP model are:
 
 * Application
 * Transport
 * Internet
 * Network Access
+
+## Physical Layer
+
+At the bottom layer of the OSI model, concerned with the transmission and reception of the unstructured raw bit stream over a physical medium. 
+
+It describes the electrical/optical, mechanical, and functional interfaces to the physical medium, and it carries the signals for all of the higher layers.
+
+
 
 ## Network Layer
 

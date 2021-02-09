@@ -135,7 +135,7 @@
 ## Network and Systems
 
 * [Network](network-and-systems/network-and-systems-topics/network/)
-  * [OSI and TCP/IP, IPv6 and other protocols](network-and-systems/network-and-systems-topics/network/osi-and-tcp-ip-fundamentals.md)
+  * [OSI and TCP/IP, IPv6 and Network Protocols at each layer](network-and-systems/network-and-systems-topics/network/osi-and-tcp-ip-fundamentals.md)
   * [Domain Name System - WIP](network-and-systems/network-and-systems-topics/network/domain-name-system-wip.md)
   * [DHCP Essentials](network-and-systems/network-and-systems-topics/network/dhcp.md)
   * [Top 1000 Well Known Ports](network-and-systems/network-and-systems-topics/network/top-1000-well-known-ports.md)
