@@ -69,7 +69,39 @@ At the bottom layer of the OSI model, concerned with the transmission and recept
 
 It describes the electrical/optical, mechanical, and functional interfaces to the physical medium, and it carries the signals for all of the higher layers.
 
+## Data-Link Layer
 
+**Data-link Layer \(Layer 2\)** is the medium provision Layer. 
+
+It encodes and decodes the data in Frames. 
+
+Encoding means adding a header at the source and decoding means removing this header at the destination. 
+
+Layer 2 addresses are used for local transmissions between devices that are directly connected. Layer 3 addresses are used for indirectly connected devices in an inter-network environment. Each network uses addressing to identify and group devices so that transmissions can be sent and received. Ethernet \(802.2, 802.3, Ethernet II, and Sub-network Access Protocol \[SNAP\]\), Token Ring, and Fiber Distributed Data Interface \(FDDI\) use media access control \(MAC\) addresses that are “burned in” to the network interface card \(NIC\). The most commonly used network types are Ethernet II and SNAP.
+
+In order for devices to be able to communicate with each when they are not part of the same network, the 48-bit MAC address must be mapped to an IP address. Some of the Layer 3 protocols used to perform the mapping are:
+
+*  Address Resolution Protocol \(ARP\)
+*  Reverse ARP \(RARP\)
+*  Serial Line ARP \(SLARP\)
+*  Inverse ARP
+
+Data-link Layer has two sub-layers. These layers are:
+
+* Media Access Control \(MAC\) Layer
+* Logical Link Control \(LLC\) Layer
+
+The **Media Access Control Layer** determines how nodes on the network obtain access to the data and the considerations required for transmission. Nodes are referred to at this layer via MAC Addresses or Physical Addresses. 
+
+IEEE standard 802.2 defines **Logical Link Control \(LLC\)** as a data link control layer used on 802.3, 802.5, and other networks. 
+
+The LLC layer provides connectionless and connection-oriented data transfer.
+
+Connection-less data transfer is commonly referred to as LLC type 1, or LLC1. Connection-less service does not require you to establish data links or link stations. After a Service Access Point \(SAP\) has been enabled, the SAP can send and receive information to and from a remote SAP that also uses connectionless service. Connection-less service does not have any mode setting commands \(such as SABME\) and does not require that state information is maintained.
+
+Connection-oriented data transfer is referred to as LLC type 2, or LLC2. Connection-oriented service requires the establishment of link stations. When the link station is established, a mode setting command is necessary. Thereafter, each link station is responsible to maintain link state information.
+
+Some of the **Data-Link Layer protocols** are, PPP, HDLC, FDDI, ATM, Frame Relay and IEEE 802.3/802.2.
 
 ## Network Layer
 
