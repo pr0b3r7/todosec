@@ -135,8 +135,10 @@
 ## Network and Systems
 
 * [Network](network-and-systems/network-and-systems-topics/network/)
+  * [Types of Networks](network-and-systems/network-and-systems-topics/network/types-of-networks.md)
   * [OSI and TCP/IP, IPv6 and Network Protocols at each layer](network-and-systems/network-and-systems-topics/network/osi-and-tcp-ip-fundamentals.md)
-  * [Domain Name System - WIP](network-and-systems/network-and-systems-topics/network/domain-name-system-wip.md)
+  * [What are webpages made of?](network-and-systems/network-and-systems-topics/network/what-are-webpages-made-of.md)
+  * [Domain Name System](network-and-systems/network-and-systems-topics/network/domain-name-system-wip.md)
   * [DHCP Essentials](network-and-systems/network-and-systems-topics/network/dhcp.md)
   * [Top 1000 Well Known Ports](network-and-systems/network-and-systems-topics/network/top-1000-well-known-ports.md)
   * [Zone-Based Policy Firewall \(also known as Zone-Policy Firewall, or ZFW\)](network-and-systems/network-and-systems-topics/network/zone-based-policy-firewall-also-known-as-zone-policy-firewall-or-zfw.md)
