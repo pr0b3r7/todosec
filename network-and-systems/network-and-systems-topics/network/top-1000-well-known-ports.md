@@ -18,18 +18,18 @@ description: 'https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers'
 | No | Yes | Unofficial | [Wake-on-LAN](https://en.wikipedia.org/wiki/Wake-on-LAN) |  |  |
 | 11 | Yes | Yes | Official | Active Users \([systat](https://en.wikipedia.org/wiki/Systat_%28protocol%29) service\) |  |
 | 13 | Yes | Yes | Official | [Daytime Protocol](https://en.wikipedia.org/wiki/Daytime_Protocol) |  |
-| 15 | Yes | No | Unofficial | Previously [netstat](https://en.wikipedia.org/wiki/Netstat) service[\[1\]](https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-IANA-1)[\[14\]](https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-systat-netstat-14) |  |
-| 17 | Yes | Yes | Official | [Quote of the Day](https://en.wikipedia.org/wiki/QOTD) \(QOTD\)[\[17\]](https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-rfc865-17) |  |
-| 18 | Yes | Yes | Official | [Message Send Protocol](https://en.wikipedia.org/wiki/Message_Send_Protocol)[\[18\]](https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-rfc1159-18)[\[19\]](https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-rfc1312-19) |  |
-| 19 | Yes | Yes | Official | [Character Generator Protocol](https://en.wikipedia.org/wiki/Character_Generator_Protocol) \(CHARGEN\)[\[20\]](https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-rfc864-20) |  |
-| 20 | Yes | Assigned | Official | [File Transfer Protocol](https://en.wikipedia.org/wiki/File_Transfer_Protocol) \(FTP\) data transfer[\[10\]](https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-apple-kb-HT202944-10) | Yes [\[12\]](https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-rfc4960-12) |
-| 21 | Yes | Assigned | Official | [File Transfer Protocol](https://en.wikipedia.org/wiki/File_Transfer_Protocol) \(FTP\) control \(command\)[\[10\]](https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-apple-kb-HT202944-10)[\[12\]](https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-rfc4960-12)[\[21\]](https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-rfc765-21)[\[22\]](https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-rfc959-22) | Yes[\[12\]](https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-rfc4960-12) |
-| 22 | Yes | Assigned | Official | [Secure Shell](https://en.wikipedia.org/wiki/Secure_Shell) \(SSH\),[\[10\]](https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-apple-kb-HT202944-10) secure logins, [file transfers](https://en.wikipedia.org/wiki/File_transfer) \([scp](https://en.wikipedia.org/wiki/Secure_copy), [sftp](https://en.wikipedia.org/wiki/SSH_file_transfer_protocol)\) and port forwarding | Yes [\[12\]](https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-rfc4960-12) |
-| 23 | Yes | Assigned | Official | [Telnet](https://en.wikipedia.org/wiki/Telnet) protocol—unencrypted text communications[\[10\]](https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-apple-kb-HT202944-10)[\[23\]](https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-rfc854-23) |  |
-| 25 | Yes | Assigned | Official | [Simple Mail Transfer Protocol](https://en.wikipedia.org/wiki/Simple_Mail_Transfer_Protocol) \(SMTP\),[\[10\]](https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-apple-kb-HT202944-10)[\[24\]](https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-rfc821-24) used for email routing between mail servers |  |
-| 37 | Yes | Yes | Official | [Time Protocol](https://en.wikipedia.org/wiki/Time_Protocol)[\[25\]](https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-rfc868-25) |  |
-| 42 | Assigned | Yes | Official | [Host Name Server Protocol](https://en.wikipedia.org/wiki/ARPA_Host_Name_Server_Protocol)[\[26\]](https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-ien116-26) |  |
-| 43 | Yes | Assigned | Official | [WHOIS](https://en.wikipedia.org/wiki/WHOIS) protocol[\[27\]](https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-rfc812-27)[\[28\]](https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-rfc954-28)[\[29\]](https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-rfc3912-29) |  |
+| 15 | Yes | No | Unofficial | Previously [netstat](https://en.wikipedia.org/wiki/Netstat) servic |  |
+| 17 | Yes | Yes | Official | [Quote of the Day](https://en.wikipedia.org/wiki/QOTD) \(QOTD\) |  |
+| 18 | Yes | Yes | Official | [Message Send Protocol](https://en.wikipedia.org/wiki/Message_Send_Protocol) |  |
+| 19 | Yes | Yes | Official | [Character Generator Protocol](https://en.wikipedia.org/wiki/Character_Generator_Protocol) \(CHARGEN\) |  |
+| 20 | Yes | Assigned | Official | [File Transfer Protocol](https://en.wikipedia.org/wiki/File_Transfer_Protocol) \(FTP\) data transfer | Yes  |
+| 21 | Yes | Assigned | Official | [File Transfer Protocol](https://en.wikipedia.org/wiki/File_Transfer_Protocol) \(FTP\) control \(command\) | Yes |
+| 22 | Yes | Assigned | Official | [Secure Shell](https://en.wikipedia.org/wiki/Secure_Shell) \(SSH\), secure logins, [file transfers](https://en.wikipedia.org/wiki/File_transfer) \([scp](https://en.wikipedia.org/wiki/Secure_copy), [sftp](https://en.wikipedia.org/wiki/SSH_file_transfer_protocol)\) and port forwarding | Yes  |
+| 23 | Yes | Assigned | Official | [Telnet](https://en.wikipedia.org/wiki/Telnet) protocol—unencrypted text communications |  |
+| 25 | Yes | Assigned | Official | [Simple Mail Transfer Protocol](https://en.wikipedia.org/wiki/Simple_Mail_Transfer_Protocol) \(SMTP\), used for email routing between mail servers |  |
+| 37 | Yes | Yes | Official | [Time Protocol](https://en.wikipedia.org/wiki/Time_Protocol) |  |
+| 42 | Assigned | Yes | Official | [Host Name Server Protocol](https://en.wikipedia.org/wiki/ARPA_Host_Name_Server_Protocol) |  |
+| 43 | Yes | Assigned | Official | [WHOIS](https://en.wikipedia.org/wiki/WHOIS) protocol |  |
 | 47 | Reserved | Reserved | Official |  |  |
 | 49 | Yes | Yes | Official | [TACACS](https://en.wikipedia.org/wiki/TACACS) Login Host protocol. [TACACS+](https://en.wikipedia.org/wiki/TACACS%2B), still in draft which is an improved but distinct version of TACACS, only uses TCP 49. |  |
 | 51 | Reserved | Reserved | Official | Historically used for [Interface Message Processor](https://en.wikipedia.org/wiki/Interface_Message_Processor) logical address management, entry has been removed by IANA on 2013-05-25 |  |
@@ -47,8 +47,7 @@ description: 'https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers'
 | 79 | Yes | Assigned | Official | [Finger protocol](https://en.wikipedia.org/wiki/Finger_protocol) |  |
 | 80 | Yes | Assigned | Official | [Hypertext Transfer Protocol](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol) \(HTTP\) | Yes |
 | No | Yes | Unofficial | [QUIC](https://en.wikipedia.org/wiki/QUIC), a transport protocol over UDP \(still in draft as of April 2020\), using stream [multiplexing](https://en.wikipedia.org/wiki/Multiplexing), encryption by default with [TLS](https://en.wikipedia.org/wiki/Transport_Layer_Security), and currently supporting [HTTP/2](https://en.wikipedia.org/wiki/HTTP/2). QUIC has been renamed to [HTTP/3](https://en.wikipedia.org/wiki/HTTP/3), which is currently an [Internet Draft](https://en.wikipedia.org/wiki/Internet_Draft). |  |  |
-| 81 | Yes |  | Unofficial | [TorPark](https://en.wikipedia.org/wiki/TorPark) [onion routing](https://en.wikipedia.org/wiki/Onion_routing)\[[verification needed](https://en.wikipedia.org/wiki/Wikipedia:Verifiability)\] |  |
-| 82 |  | Yes | Unofficial | [TorPark](https://en.wikipedia.org/wiki/TorPark) control\[[verification needed](https://en.wikipedia.org/wiki/Wikipedia:Verifiability)\] |  |
+| 82 |  | Yes | Unofficial | [TorPark](https://en.wikipedia.org/wiki/TorPark) control |  |
 | 83 | Yes | Assigned | Official | MIT ML Device, networking file system  |  |
 | 88 | Yes | Assigned | Official | [Kerberos](https://en.wikipedia.org/wiki/Kerberos_%28protocol%29) authentication system |  |
 | 90 | Yes | Yes | Unofficial | [PointCast \(dotcom\)](https://en.wikipedia.org/wiki/PointCast_%28dotcom%29) |  |
@@ -130,7 +129,7 @@ description: 'https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers'
 | Yes | Assigned | Official | Microsoft-DS \(Directory Services\) [SMB](https://en.wikipedia.org/wiki/Server_Message_Block) file sharing |  |  |
 | 464 | Yes | Yes | Official | [Kerberos](https://en.wikipedia.org/wiki/Kerberos_%28protocol%29) Change/Set password |  |
 | 465 | Yes | No | Official | URL Rendezvous Directory for SSM \(Cisco protocol\)\[[importance?](https://en.wikipedia.org/wiki/Wikipedia:What_Wikipedia_is_not#Encyclopedic_content)\] |  |
-| Yes | No | Official | Authenticated [SMTP](https://en.wikipedia.org/wiki/Simple_Mail_Transfer_Protocol)[\[10\]](https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-apple-kb-HT202944-10) over [TLS/SSL](https://en.wikipedia.org/wiki/Transport_Layer_Security) \([SMTPS](https://en.wikipedia.org/wiki/SMTPS)\)[\[86\]](https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-theregister-2018-02-01-rfc8314-86) |  |  |
+| Yes | No | Official | Authenticated [SMTP](https://en.wikipedia.org/wiki/Simple_Mail_Transfer_Protocol) over [TLS/SSL](https://en.wikipedia.org/wiki/Transport_Layer_Security) \([SMTPS](https://en.wikipedia.org/wiki/SMTPS)\) |  |  |
 | 475 | Yes | Yes | Official | tcpnethaspsrv, [Aladdin Knowledge Systems](https://en.wikipedia.org/wiki/Aladdin_Knowledge_Systems) Hasp services |  |
 | 491 | Yes |  | Unofficial | [GO-Global remote access and application publishing software](https://en.wikipedia.org/wiki/GO-Global) |  |
 | 497 | Yes | Yes | Official | [Retrospect](https://en.wikipedia.org/wiki/Retrospect_%28software%29) |  |
@@ -153,7 +152,7 @@ description: 'https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers'
 | 524 | Yes | Yes | Official | [NetWare Core Protocol](https://en.wikipedia.org/wiki/NetWare_Core_Protocol) \(NCP\) is used for a variety things such as access to primary NetWare server resources, Time Synchronization, etc. |  |
 | 525 |  | Yes | Official | Timed, [Timeserver](https://en.wikipedia.org/wiki/Timeserver) |  |
 | 530 | Yes | Yes | Official | [Remote procedure call](https://en.wikipedia.org/wiki/Remote_procedure_call) \(RPC\) |  |
-| 532 | Yes | Assigned | Official | netnews[\[10\]](https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-apple-kb-HT202944-10) |  |
+| 532 | Yes | Assigned | Official | netnews |  |
 | 533 |  | Yes | Official | netwall, For Emergency Broadcasts |  |
 | 540 | Yes |  | Official | Unix-to-Unix Copy Protocol \([UUCP](https://en.wikipedia.org/wiki/UUCP)\) |  |
 | 542 | Yes | Yes | Official | [commerce](https://en.wikipedia.org/wiki/Commerce) \(Commerce Applications\) |  |
@@ -185,7 +184,7 @@ description: 'https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers'
 | 641 | Yes | Yes | Official | SupportSoft Nexus Remote Command \(control/listening\), a proxy gateway connecting remote control traffic |  |
 | 643 | Yes | Yes | Official | SANity |  |
 | 646 | Yes | Yes | Official | [Label Distribution Protocol](https://en.wikipedia.org/wiki/Label_Distribution_Protocol) \(LDP\), a routing protocol used in [MPLS](https://en.wikipedia.org/wiki/Multiprotocol_Label_Switching) networks |  |
-| 647 | Yes |  | Official | [DHCP Failover](https://en.wikipedia.org/wiki/Dynamic_Host_Configuration_Protocol#Reliability) protocol[\[91\]](https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-91) |  |
+| 647 | Yes |  | Official | [DHCP Failover](https://en.wikipedia.org/wiki/Dynamic_Host_Configuration_Protocol#Reliability) protocol |  |
 | 648 | Yes |  | Official | Registry Registrar Protocol \(RRP\) |  |
 | 651 | Yes | Yes | Official | IEEE-MMS |  |
 | 653 | Yes | Yes | Official | SupportSoft Nexus Remote Command \(data\), a proxy gateway connecting remote control traffic |  |
@@ -204,9 +203,9 @@ description: 'https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers'
 | 698 |  | Yes | Official | [Optimized Link State Routing](https://en.wikipedia.org/wiki/Optimized_Link_State_Routing_protocol) \(OLSR\) |  |
 | 700 | Yes |  | Official | [Extensible Provisioning Protocol](https://en.wikipedia.org/wiki/Extensible_Provisioning_Protocol) \(EPP\), a protocol for communication between [domain name registries](https://en.wikipedia.org/wiki/Domain_name_registry) and [registrars](https://en.wikipedia.org/wiki/Domain_name_registrar) \([RFC 5734](https://tools.ietf.org/html/rfc5734)\) |  |
 | 701 | Yes |  | Official | Link Management Protocol \(LMP\), a protocol that runs between a pair of [nodes](https://en.wikipedia.org/wiki/Node_%28networking%29) and is used to manage [traffic engineering](https://en.wikipedia.org/wiki/Teletraffic_engineering) \(TE\) [links](https://en.wikipedia.org/wiki/Telecommunications_link) |  |
-| 702 | Yes |  | Official | IRIS[\[97\]](https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-97)[\[98\]](https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-98) \(Internet Registry Information Service\) over [BEEP](https://en.wikipedia.org/wiki/BEEP) \(Blocks Extensible Exchange Protocol\)[\[99\]](https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-99) \([RFC 3983](https://tools.ietf.org/html/rfc3983)\) |  |
+| 702 | Yes |  | Official | IRIS \(Internet Registry Information Service\) over [BEEP](https://en.wikipedia.org/wiki/BEEP) \(Blocks Extensible Exchange Protocol\)[\[99\]](https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-99) \([RFC 3983](https://tools.ietf.org/html/rfc3983)\) |  |
 | 706 | Yes |  | Official | [Secure Internet Live Conferencing](https://en.wikipedia.org/wiki/SILC_%28protocol%29) \(SILC\) |  |
-| 711 | Yes |  | Official | [Cisco](https://en.wikipedia.org/wiki/Cisco) Tag Distribution Protocol[\[100\]](https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-100)[\[101\]](https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-101)[\[102\]](https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#cite_note-102)—being replaced by the MPLS [Label Distribution Protocol](https://en.wikipedia.org/wiki/Label_Distribution_Protocol) |  |
+| 711 | Yes |  | Official | [Cisco](https://en.wikipedia.org/wiki/Cisco) Tag Distribution Protocol being replaced by the MPLS [Label Distribution Protocol](https://en.wikipedia.org/wiki/Label_Distribution_Protocol) |  |
 | 712 | Yes |  | Official | [Topology Broadcast based on Reverse-Path Forwarding routing protocol](https://en.wikipedia.org/wiki/Topology_Broadcast_based_on_Reverse-Path_Forwarding_routing_protocol) \(TBRPF; [RFC 3684](https://tools.ietf.org/html/rfc3684)\) |  |
 | 749 | Yes | Yes | Official | [Kerberos \(protocol\)](https://en.wikipedia.org/wiki/Kerberos_%28protocol%29) administration |  |
 | 750 |  | Yes | Official | kerberos-iv, [Kerberos](https://en.wikipedia.org/wiki/Kerberos_%28protocol%29) version IV |  |
