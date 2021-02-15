@@ -6,9 +6,8 @@ description: 'https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers'
 
 
 
-| Well-known ports |  |  |  |  |  |
-| :--- | :--- | :--- | :--- | :--- | :--- |
 | Port | TCP | UDP | IANA status | Description | SCTP |
+| :--- | :--- | :--- | :--- | :--- | :--- |
 | 0 | Reserved | Reserved | Official |  |  |
 | N/A | N/A | Unofficial | In programming [APIs ](https://www.youtube.com/watch?v=s7wmiS2mSXY)\(not in communication between hosts\), requests a system-allocated \(dynamic\) port |  |  |
 | 1 | Yes | Assigned | Official | [TCP Port Service Multiplexer](https://en.wikipedia.org/wiki/TCP_Port_Service_Multiplexer) \(TCPMUX\). Historic. Both TCP and UDP have been assigned to TCPMUX by IANA, but by design only TCP is specified. |  |
