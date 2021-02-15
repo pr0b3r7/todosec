@@ -193,9 +193,6 @@
 in case:
         you(want-to).{
                       hire;
-                      know;
-                      consult;
-                      network-with;
 }
 > id
 Robert Pimentel 
