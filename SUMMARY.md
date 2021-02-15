@@ -131,12 +131,12 @@
 ## Network and Systems
 
 * [Network and Systems Topics](network-and-systems/network-and-systems-topics/README.md)
-  * [Network](network-and-systems/network-and-systems-topics/network/README.md)
+  * [Network Fundamentals](network-and-systems/network-and-systems-topics/network/README.md)
     * [Ethernet Local Area Networks](network-and-systems/network-and-systems-topics/network/types-of-networks.md)
     * [OSI and TCP/IP, IPv6 and Network Protocols at each layer](network-and-systems/network-and-systems-topics/network/osi-and-tcp-ip-fundamentals.md)
     * [What are webpages made of?](network-and-systems/network-and-systems-topics/network/what-are-webpages-made-of.md)
     * [Domain Name System](network-and-systems/network-and-systems-topics/network/domain-name-system-wip.md)
-    * [DHCP Essentials](network-and-systems/network-and-systems-topics/network/dhcp.md)
+    * [Intro to DHCP](network-and-systems/network-and-systems-topics/network/dhcp.md)
     * [Top 1000 Well Known Ports](network-and-systems/network-and-systems-topics/network/top-1000-well-known-ports.md)
     * [Zone-Based Policy Firewall \(also known as Zone-Policy Firewall, or ZFW\)](network-and-systems/network-and-systems-topics/network/zone-based-policy-firewall-also-known-as-zone-policy-firewall-or-zfw.md)
     * [Wireless](network-and-systems/network-and-systems-topics/network/wireless.md)

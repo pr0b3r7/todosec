@@ -1,4 +1,4 @@
-# Network
+# Network Fundamentals
 
 * [OSI and TCP/IP Fundamentals](osi-and-tcp-ip-fundamentals.md)
 * [DHCP Essentials](dhcp.md)
