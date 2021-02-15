@@ -132,7 +132,7 @@
 
 * [Network and Systems Topics](network-and-systems/network-and-systems-topics/README.md)
   * [Network](network-and-systems/network-and-systems-topics/network/README.md)
-    * [Types of Networks](network-and-systems/network-and-systems-topics/network/types-of-networks.md)
+    * [Ethernet Local Area Networks](network-and-systems/network-and-systems-topics/network/types-of-networks.md)
     * [OSI and TCP/IP, IPv6 and Network Protocols at each layer](network-and-systems/network-and-systems-topics/network/osi-and-tcp-ip-fundamentals.md)
     * [What are webpages made of?](network-and-systems/network-and-systems-topics/network/what-are-webpages-made-of.md)
     * [Domain Name System](network-and-systems/network-and-systems-topics/network/domain-name-system-wip.md)
