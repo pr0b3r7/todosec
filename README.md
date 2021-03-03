@@ -10,7 +10,7 @@ Hi Team, welcome and thank you for visiting. I say _Team_ because we're in this 
 
 The purpose of this website is to document the path to obtain the following certifications:
 
-1 - [CCNP Enterprise](network-and-systems/network-and-systems-topics/routing-and-switching/350-401-encor-implementing-cisco-enterprise-network-core-technologies/) \([ENCOR 350-401 ](https://www.cisco.com/c/en/us/training-events/training-certifications/exams/current-list/encor-350-401.html)+ [ENARSI 350-410](https://www.cisco.com/c/en/us/training-events/training-certifications/exams/current-list/enarsi-300-410.html#~exam-overview)\) 
+1 - [CCNP Enterprise](network-and-systems-topics/routing-and-switching/350-401-encor-implementing-cisco-enterprise-network-core-technologies/) \([ENCOR 350-401 ](https://www.cisco.com/c/en/us/training-events/training-certifications/exams/current-list/encor-350-401.html)+ [ENARSI 350-410](https://www.cisco.com/c/en/us/training-events/training-certifications/exams/current-list/enarsi-300-410.html#~exam-overview)\) 
 
 2 - [eLearnsecurity's ](https://elearnsecurity.com/product/ecpptv2-certification/)[eCPPTv2](https://elearnsecurity.com/product/ecpptv2-certification/)
 

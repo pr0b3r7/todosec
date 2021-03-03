@@ -134,60 +134,61 @@
 
 ## Network and Systems
 
-* [Network Fundamentals](network-and-systems/network-and-systems-topics/network/)
-  * [Ethernet Local Area Networks](network-and-systems/network-and-systems-topics/network/ethernet-local-area-networks.md)
-  * [MAC Addresses](network-and-systems/network-and-systems-topics/network/mac-addresses.md)
-  * [OSI and TCP/IP, IPv6 and Network Protocols at each layer](network-and-systems/network-and-systems-topics/network/osi-and-tcp-ip-fundamentals.md)
-  * [What are webpages made of?](network-and-systems/network-and-systems-topics/network/what-are-webpages-made-of.md)
-  * [Domain Name System](network-and-systems/network-and-systems-topics/network/domain-name-system-wip.md)
-  * [Intro to DHCP](network-and-systems/network-and-systems-topics/network/dhcp.md)
-  * [Top 1000 Well Known Ports](network-and-systems/network-and-systems-topics/network/top-1000-well-known-ports.md)
-  * [Zone-Based Policy Firewall \(also known as Zone-Policy Firewall, or ZFW\)](network-and-systems/network-and-systems-topics/network/zone-based-policy-firewall-also-known-as-zone-policy-firewall-or-zfw.md)
-  * [Wireless](network-and-systems/network-and-systems-topics/network/wireless.md)
-* [Virtualization](network-and-systems/network-and-systems-topics/virtualization.md)
-* [AWS](network-and-systems/network-and-systems-topics/aws/)
-  * [Receive and Send emails to custom domain in Route 53 using Simple Email Service and Simple Notification Service - Route53 + SES + SNS = Custom domain emails for less than 20$](network-and-systems/network-and-systems-topics/aws/email-with-aws-r53-+-ses-+sns.md)
-* [macOS](network-and-systems/network-and-systems-topics/macos/)
-* [Windows](network-and-systems/network-and-systems-topics/windows/)
-  * [Wireshark](network-and-systems/network-and-systems-topics/windows/wireshark.md)
-  * [Windows Basic Networking](network-and-systems/network-and-systems-topics/windows/windows-basic-networking.md)
-* [Linux](network-and-systems/network-and-systems-topics/linux/)
-  * [Linux Basic Networking](network-and-systems/network-and-systems-topics/linux/linux-basic-networking.md)
-  * [Basics of CLI, Services in Kali \(SSH\) and how to change your motd \(Banner\)](network-and-systems/network-and-systems-topics/linux/basics-of-cli-services-in-kali-ssh.md)
-  * [Spawn a TTY/Pseudo Shell](network-and-systems/network-and-systems-topics/linux/spawn-a-tty-pseudo-shell.md)
-* [Network Storage](network-and-systems/network-and-systems-topics/network-storage.md)
-* [Routing and Switching](network-and-systems/network-and-systems-topics/routing-and-switching/)
-  * [350-401 ENCOR: Implementing Cisco Enterprise Network Core Technologies](network-and-systems/network-and-systems-topics/routing-and-switching/350-401-encor-implementing-cisco-enterprise-network-core-technologies/)
-    * [OSPF](network-and-systems/network-and-systems-topics/routing-and-switching/350-401-encor-implementing-cisco-enterprise-network-core-technologies/ospf.md)
-    * [NTP Security](network-and-systems/network-and-systems-topics/routing-and-switching/350-401-encor-implementing-cisco-enterprise-network-core-technologies/ntp-security.md)
-    * [Tune & Optimize EtherChannel Operations ](network-and-systems/network-and-systems-topics/routing-and-switching/350-401-encor-implementing-cisco-enterprise-network-core-technologies/tune-and-optimize-etherchannel-operations.md)
-  * [300-410 ENARSI: Implementing Cisco Enterprise Advanced Routing and Services](network-and-systems/network-and-systems-topics/routing-and-switching/300-410-enarsi-implementing-cisco-enterprise-advanced-routing-and-services.md)
-  * [300-415 ENSDWI: Implementing Cisco SD-WAN Solutions](network-and-systems/network-and-systems-topics/routing-and-switching/300-415-ensdwi-implementing-cisco-sd-wan-solutions.md)
-* \*\*\*\*[**Code**](network-and-systems/network-and-systems-topics/code/)\*\*\*\*
-  * \*\*\*\*[**Bash**](network-and-systems/network-and-systems-topics/code/code-bash/)\*\*\*\*
+* [Network Fundamentals](network-and-systems-topics/network/)
+  * [Ethernet Local Area Networks](network-and-systems-topics/network/ethernet-local-area-networks.md)
+  * [MAC Addresses](network-and-systems-topics/network/mac-addresses.md)
+  * [OSI and TCP/IP, IPv6 and Network Protocols at each layer](network-and-systems-topics/network/osi-and-tcp-ip-fundamentals.md)
+  * [What are webpages made of?](network-and-systems-topics/network/what-are-webpages-made-of.md)
+  * [Domain Name System](network-and-systems-topics/network/domain-name-system-wip.md)
+  * [Intro to DHCP](network-and-systems-topics/network/dhcp.md)
+  * [Top 1000 Well Known Ports](network-and-systems-topics/network/top-1000-well-known-ports.md)
+  * [Zone-Based Policy Firewall \(also known as Zone-Policy Firewall, or ZFW\)](network-and-systems-topics/network/zone-based-policy-firewall-also-known-as-zone-policy-firewall-or-zfw.md)
+  * [802.1Q vs 802.1P \(VLAN 0 Priority Tagging\)](network-and-systems-topics/network/802.1q-vs-802.1p-vlan-0-priority-tagging.md)
+  * [Wireless](network-and-systems-topics/network/wireless.md)
+* [Virtualization](network-and-systems-topics/virtualization.md)
+* [AWS](network-and-systems-topics/aws/)
+  * [Receive and Send emails to custom domain in Route 53 using Simple Email Service and Simple Notification Service - Route53 + SES + SNS = Custom domain emails for less than 20$](network-and-systems-topics/aws/email-with-aws-r53-+-ses-+sns.md)
+* [macOS](network-and-systems-topics/macos/)
+* [Windows](network-and-systems-topics/windows/)
+  * [Wireshark](network-and-systems-topics/windows/wireshark.md)
+  * [Windows Basic Networking](network-and-systems-topics/windows/windows-basic-networking.md)
+* [Linux](network-and-systems-topics/linux/)
+  * [Linux Basic Networking](network-and-systems-topics/linux/linux-basic-networking.md)
+  * [Basics of CLI, Services in Kali \(SSH\) and how to change your motd \(Banner\)](network-and-systems-topics/linux/basics-of-cli-services-in-kali-ssh.md)
+  * [Spawn a TTY/Pseudo Shell](network-and-systems-topics/linux/spawn-a-tty-pseudo-shell.md)
+* [Network Storage](network-and-systems-topics/network-storage.md)
+* [Routing and Switching](network-and-systems-topics/routing-and-switching/)
+  * [350-401 ENCOR: Implementing Cisco Enterprise Network Core Technologies](network-and-systems-topics/routing-and-switching/350-401-encor-implementing-cisco-enterprise-network-core-technologies/)
+    * [OSPF](network-and-systems-topics/routing-and-switching/350-401-encor-implementing-cisco-enterprise-network-core-technologies/ospf.md)
+    * [NTP Security](network-and-systems-topics/routing-and-switching/350-401-encor-implementing-cisco-enterprise-network-core-technologies/ntp-security.md)
+    * [Tune & Optimize EtherChannel Operations ](network-and-systems-topics/routing-and-switching/350-401-encor-implementing-cisco-enterprise-network-core-technologies/tune-and-optimize-etherchannel-operations.md)
+  * [300-410 ENARSI: Implementing Cisco Enterprise Advanced Routing and Services](network-and-systems-topics/routing-and-switching/300-410-enarsi-implementing-cisco-enterprise-advanced-routing-and-services.md)
+  * [300-415 ENSDWI: Implementing Cisco SD-WAN Solutions](network-and-systems-topics/routing-and-switching/300-415-ensdwi-implementing-cisco-sd-wan-solutions.md)
+* \*\*\*\*[**Code**](network-and-systems-topics/code/)\*\*\*\*
+  * \*\*\*\*[**Bash**](network-and-systems-topics/code/code-bash/)\*\*\*\*
 
-    1. [wip-W1nn13PwnWifi.sh](network-and-systems/network-and-systems-topics/code/code-bash/wip-w1nn13pwnwifi.sh.md)
-    2. [Basic Examples of Bash Scripting](network-and-systems/network-and-systems-topics/code/code-bash/basic-examples-of-bash-scripting.md)
-    3. [Check for live hosts in a /24 network](network-and-systems/network-and-systems-topics/code/code-bash/ping-sweeping-with-bash.md)
+    1. [wip-W1nn13PwnWifi.sh](network-and-systems-topics/code/code-bash/wip-w1nn13pwnwifi.sh.md)
+    2. [Basic Examples of Bash Scripting](network-and-systems-topics/code/code-bash/basic-examples-of-bash-scripting.md)
+    3. [Check for live hosts in a /24 network](network-and-systems-topics/code/code-bash/ping-sweeping-with-bash.md)
 
-    \*\*\*\*[**Python**](network-and-systems/network-and-systems-topics/code/code-python/)\*\*\*\*
+    \*\*\*\*[**Python**](network-and-systems-topics/code/code-python/)\*\*\*\*
 
-    * [Language Fundamental Series](network-and-systems/network-and-systems-topics/code/code-python/language-fundamentals-series/)
-      1. [Python 2 vs Python 3](network-and-systems/network-and-systems-topics/code/code-python/language-fundamentals-series/python-2-vs-python-3-wip/)
-         1. [Python2and3code.py](network-and-systems/network-and-systems-topics/code/code-python/language-fundamentals-series/python-2-vs-python-3-wip/python2and3code.py.md)
+    * [Language Fundamental Series](network-and-systems-topics/code/code-python/language-fundamentals-series/)
+      1. [Python 2 vs Python 3](network-and-systems-topics/code/code-python/language-fundamentals-series/python-2-vs-python-3-wip/)
+         1. [Python2and3code.py](network-and-systems-topics/code/code-python/language-fundamentals-series/python-2-vs-python-3-wip/python2and3code.py.md)
 
-    \*\*\*\*[**Scripts:**](network-and-systems/network-and-systems-topics/code/code-python/scripts/)\*\*\*\*
+    \*\*\*\*[**Scripts:**](network-and-systems-topics/code/code-python/scripts/)\*\*\*\*
 
-    1. \*\*\*\*[forloop.py](network-and-systems/network-and-systems-topics/code/code-python/scripts/forloop.py.md)
-    2. [BackdoorClient.py](network-and-systems/network-and-systems-topics/code/code-python/scripts/backdoorclient.py.md)
-    3. [BackdoorServer.py](network-and-systems/network-and-systems-topics/code/code-python/scripts/backdoorserver.py.md)
-    4. [PortScanner.py](network-and-systems/network-and-systems-topics/code/code-python/scripts/portscanner.py.md)
-    5. [TcpClient.py](network-and-systems/network-and-systems-topics/code/code-python/scripts/tcpclient.py.md)
-    6. [TcpServer.py](network-and-systems/network-and-systems-topics/code/code-python/scripts/tcpserver.py.md)
-    7. [HttpGo-Getter.py](network-and-systems/network-and-systems-topics/code/code-python/scripts/httpgo-getter.py.md)
-    8. [HttpEnum-Client.py](network-and-systems/network-and-systems-topics/code/code-python/scripts/httpenum-client.py.md)
+    1. \*\*\*\*[forloop.py](network-and-systems-topics/code/code-python/scripts/forloop.py.md)
+    2. [BackdoorClient.py](network-and-systems-topics/code/code-python/scripts/backdoorclient.py.md)
+    3. [BackdoorServer.py](network-and-systems-topics/code/code-python/scripts/backdoorserver.py.md)
+    4. [PortScanner.py](network-and-systems-topics/code/code-python/scripts/portscanner.py.md)
+    5. [TcpClient.py](network-and-systems-topics/code/code-python/scripts/tcpclient.py.md)
+    6. [TcpServer.py](network-and-systems-topics/code/code-python/scripts/tcpserver.py.md)
+    7. [HttpGo-Getter.py](network-and-systems-topics/code/code-python/scripts/httpgo-getter.py.md)
+    8. [HttpEnum-Client.py](network-and-systems-topics/code/code-python/scripts/httpenum-client.py.md)
 
-    \*\*\*\*[**Powershell**](network-and-systems/network-and-systems-topics/code/code-powershell.md)**:**
+    \*\*\*\*[**Powershell**](network-and-systems-topics/code/code-powershell.md)**:**
 
 ```bash
 in case:
