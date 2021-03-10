@@ -29,6 +29,7 @@
     * [Wireshark](network-and-systems-topics/windows/wireshark.md)
     * [Windows Basic Networking](network-and-systems-topics/windows/windows-basic-networking.md)
   * [Linux](network-and-systems-topics/linux/README.md)
+    * [Command Line Interface \(CLI\)](network-and-systems-topics/linux/command-line-interface-cli.md)
     * [Linux Basic Networking](network-and-systems-topics/linux/linux-basic-networking.md)
     * [Basics of CLI, Services in Kali \(SSH\) and how to change your motd \(Banner\)](network-and-systems-topics/linux/basics-of-cli-services-in-kali-ssh.md)
     * [AWK](network-and-systems-topics/linux/awk.md)
