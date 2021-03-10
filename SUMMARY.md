@@ -1,6 +1,6 @@
 # Table of contents
 
-* [todo•SEC Homepage](README.md)
+* [todo•SEC Home](README.md)
 * [Contents](contents.md)
 * [What is NEXT?!](what-is-next.md)
 

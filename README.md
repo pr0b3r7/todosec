@@ -4,7 +4,7 @@ description: >-
   not own or have explicit written permission to do so.
 ---
 
-# todo•SEC Homepage
+# todo•SEC Home
 
 Hi Team, welcome and thank you for visiting. 
 
