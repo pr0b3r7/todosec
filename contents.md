@@ -132,7 +132,7 @@
 
 ### [Laws and Regulations](infosec/infosec-topics/infosec-law.md)
 
-## Network and Systems
+## Cloud and Networked Systems Topics
 
 * [Network Fundamentals](cloud-and-networked-systems-topics/network/)
   * [Ethernet Local Area Networks](cloud-and-networked-systems-topics/network/ethernet-local-area-networks.md)
@@ -146,8 +146,11 @@
   * [802.1Q vs 802.1P \(VLAN 0 Priority Tagging\)](cloud-and-networked-systems-topics/network/802.1q-vs-802.1p-vlan-0-priority-tagging.md)
   * [Wireless](cloud-and-networked-systems-topics/network/wireless.md)
 * [Virtualization](cloud-and-networked-systems-topics/virtualization.md)
-* [AWS](cloud-and-networked-systems-topics/cloud-systems/aws/)
-  * [Receive and Send emails to custom domain in Route 53 using Simple Email Service and Simple Notification Service - Route53 + SES + SNS = Custom domain emails for less than 20$](cloud-and-networked-systems-topics/cloud-systems/aws/email-with-aws-r53-+-ses-+sns.md)
+* [Cloud Systems](cloud-and-networked-systems-topics/)
+  * [AWS](cloud-and-networked-systems-topics/cloud-systems/aws/)
+    * [Identity and Access Management](cloud-and-networked-systems-topics/cloud-systems/aws/identity-and-access-management/)
+      * [Policies and the root user](cloud-and-networked-systems-topics/cloud-systems/aws/identity-and-access-management/policies-and-the-root-user.md)
+    * [Receive and Send emails to custom domain in Route 53 using Simple Email Service and Simple Notification Service - Route53 + SES + SNS = Custom domain emails for less than 20$](cloud-and-networked-systems-topics/cloud-systems/aws/email-with-aws-r53-+-ses-+sns.md)
 * [macOS](cloud-and-networked-systems-topics/macos/)
 * [Windows](cloud-and-networked-systems-topics/windows/)
   * [Wireshark](cloud-and-networked-systems-topics/windows/wireshark.md)
