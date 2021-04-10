@@ -177,7 +177,8 @@
     \*\*\*\*[**Python**](cloud-and-networked-systems-topics/code/code-python/)\*\*\*\*
 
     * [Language Fundamental Series](cloud-and-networked-systems-topics/code/code-python/language-fundamentals-series/)
-      1. [Python 2 vs Python 3](cloud-and-networked-systems-topics/code/code-python/language-fundamentals-series/python-2-vs-python-3-wip/)
+      1. [AutoBlue-MS17-010 pip2.7 install -r requirements setuptools 'Command errored out with exit status 1'](cloud-and-networked-systems-topics/code/code-python/language-fundamentals-series/autoblue-ms17-010-pip2.7-install-r-requirements-setuptools-command-errored-out-with-exit-status-1.md)
+      2. [Python 2 vs Python 3](cloud-and-networked-systems-topics/code/code-python/language-fundamentals-series/python-2-vs-python-3-wip/)
          1. [Python2and3code.py](cloud-and-networked-systems-topics/code/code-python/language-fundamentals-series/python-2-vs-python-3-wip/python2and3code.py.md)
 
     \*\*\*\*[**Scripts:**](cloud-and-networked-systems-topics/code/code-python/scripts/)\*\*\*\*
