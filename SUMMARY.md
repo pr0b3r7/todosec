@@ -56,6 +56,7 @@
     * [Python](cloud-and-networked-systems-topics/code/code-python/README.md)
       * [Language Fundamentals Series](cloud-and-networked-systems-topics/code/code-python/language-fundamentals-series/README.md)
         * [AutoBlue-MS17-010 pip2.7 install -r requirements setuptools 'Command errored out with exit status 1'](cloud-and-networked-systems-topics/code/code-python/language-fundamentals-series/autoblue-ms17-010-pip2.7-install-r-requirements-setuptools-command-errored-out-with-exit-status-1.md)
+        * [How to install python2.7 in kali 5.10.0-kali6-amd64](cloud-and-networked-systems-topics/code/code-python/language-fundamentals-series/how-to-install-python2.7-in-kali-5.10.0-kali6-amd64.md)
         * [Python 2 vs Python 3](cloud-and-networked-systems-topics/code/code-python/language-fundamentals-series/python-2-vs-python-3-wip/README.md)
           * [Python2and3code.py](cloud-and-networked-systems-topics/code/code-python/language-fundamentals-series/python-2-vs-python-3-wip/python2and3code.py.md)
       * [Scripts](cloud-and-networked-systems-topics/code/code-python/scripts/README.md)
