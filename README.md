@@ -28,3 +28,7 @@ I hope others pursuing the same find this information useful.
 
 ![Msc Cybersecurity and Information Assurance](.gitbook/assets/image%20%2875%29.png)
 
+{% embed url="https://verified.elearnsecurity.com/certificates/87284377-7706-4744-ac0d-5449f2a06857" %}
+
+
+
