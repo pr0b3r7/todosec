@@ -8,7 +8,7 @@ description: >-
 
 Hi Team, welcome and thank you for visiting. 
 
-My name is Robert Pimentel, I am a follower of **Jesus Christ**. 
+My name is [Robert Pimentel](https://www.linkedin.com/in/pimentelrobert1/), I am a follower of **Jesus Christ**. 
 
 I say _Team_ because we're in this learning journey together**.**
 
