@@ -6,9 +6,9 @@ description: >-
 
 # todo•SEC Home
 
-Hi Team, welcome and thank you for visiting. 
+I am a follower of **Jesus Christ** and my name is [Robert Pimentel](https://www.linkedin.com/in/pimentelrobert1/).
 
-My name is [Robert Pimentel](https://www.linkedin.com/in/pimentelrobert1/), I am a follower of **Jesus Christ**. 
+Hi Team, welcome and thank you for visiting. 
 
 I say _Team_ because we're in this learning journey together**.**
 
@@ -22,13 +22,17 @@ My goal creating this website is to take notes and document my path to obtain th
 
 I hope others pursuing the same find this information useful. 
 
+```bash
+for your_need in  {Cloud, Network Security, Cisco Routing & Switching, Linux, Windows};
+        do email.me(robert@todosec.com)
+        fi
+```
+
 {% embed url="https://www.youracclaim.com/badges/dc15e81d-58b5-4495-98a6-999cb2a0dcc6/public\_url" caption="Where it all started..." %}
 
 ![CEH complete, requirement for WGU&apos;s Msc...](.gitbook/assets/image%20%2872%29.png)
 
 ![Msc Cybersecurity and Information Assurance](.gitbook/assets/image%20%2875%29.png)
 
-{% embed url="https://verified.elearnsecurity.com/certificates/87284377-7706-4744-ac0d-5449f2a06857" %}
-
-
+{% embed url="https://verified.elearnsecurity.com/certificates/87284377-7706-4744-ac0d-5449f2a06857" caption="eLearnSecurity Junior Penetration Tester" %}
 

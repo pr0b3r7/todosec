@@ -195,22 +195,7 @@
 
     \*\*\*\*[**Powershell**](cloud-and-networked-systems-topics/code/code-powershell.md)**:**
 
-```bash
-in case:
-        you(want-to).{
-                      hire;
-}
-> id
-Robert Pimentel 
----------------
-   ||
-   ||
-   ||
-   ||
- \ || /
-  \||/
-   \/
-```
+
 
 ## [LinkedIn](https://linkedin.com/in/pimentelrobert1) - [Github](https://github.com/pr0b3r7) - [Home ](https://todosec.com)
 
