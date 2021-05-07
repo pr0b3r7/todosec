@@ -28,11 +28,9 @@ for your_need in  {Cloud, Network Security, Cisco Routing & Switching, Linux, Wi
         fi
 ```
 
+{% embed url="https://verified.elearnsecurity.com/certificates/87284377-7706-4744-ac0d-5449f2a06857" caption="eLearnSecurity Junior Penetration Tester" %}
+
 {% embed url="https://www.youracclaim.com/badges/dc15e81d-58b5-4495-98a6-999cb2a0dcc6/public\_url" caption="Where it all started..." %}
 
-![CEH complete, requirement for WGU&apos;s Msc...](.gitbook/assets/image%20%2872%29.png)
-
 ![Msc Cybersecurity and Information Assurance](.gitbook/assets/image%20%2875%29.png)
-
-{% embed url="https://verified.elearnsecurity.com/certificates/87284377-7706-4744-ac0d-5449f2a06857" caption="eLearnSecurity Junior Penetration Tester" %}
 
